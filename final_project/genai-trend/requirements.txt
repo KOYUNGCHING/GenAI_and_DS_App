@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+tqdm
+tenacity
+python-dotenv
+praw
+scikit-learn
+matplotlib
