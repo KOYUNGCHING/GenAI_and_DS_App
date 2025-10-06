@@ -1,0 +1,1 @@
+Pearson corr(rating, price_level) = -0.0581
