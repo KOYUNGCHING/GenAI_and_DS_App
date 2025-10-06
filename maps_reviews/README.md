@@ -18,12 +18,4 @@
 5. 轉換欄位並清理（價格、品牌、城市等）: `python -m src.processing.prepare_analysis \
   --places data/processed/places_all.parquet \
   --out data/processed/analysis_ready.parquet`
-6.統計與視覺化分析 :
-### 各地區評價平均、評論量統計
-`python -m src.analysis.area_summary --in data/processed/analysis_ready.parquet --out reports/area_summary.csv --plot`
 
-### 連鎖 vs 在地店家評價差異
-`python -m src.analysis.chain_local_summary --in data/processed/analysis_ready.parquet --out reports/chain_local_summary.csv --plot`
-
-### 價格層級 vs 評分與人氣
-`python -m src.analysis.price_rating_summary --in data/processed/analysis_ready.parquet --out reports/price_rating_summary.csv --plot`
