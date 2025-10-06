@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 大型資料檔
+*.parquet
+
+# maps_reviews 原始與中間資料，整夾忽略
+maps_reviews/data/raw/
+maps_reviews/data/processed/
+
+# 但保留分析輸出（若你想把分析快照放到 repo）
+!maps_reviews/data/processed/analysis_ready.csv
+!maps_reviews/reports/
+!maps_reviews/reports/**
