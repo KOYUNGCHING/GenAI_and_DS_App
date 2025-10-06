@@ -1,0 +1,22 @@
+# macOS 系統暫存檔
+.DS_Store
+
+# Python 暫存與編譯檔
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 資料檔案（太大不需上傳）
+*.parquet
+*.csv
+*.xlsx
+
+# 忽略整個資料資料夾（原始＆中間處理）
+maps_reviews/data/raw/
+maps_reviews/data/processed/
+
+# 但保留分析輸出結果
+!maps_reviews/data/processed/analysis_ready.csv
+!maps_reviews/reports/
+!maps_reviews/reports/**
