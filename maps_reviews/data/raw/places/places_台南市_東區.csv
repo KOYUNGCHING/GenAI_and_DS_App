@@ -1,0 +1,21 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台南市,東區,ChIJf4fMk8R2bjQR4zNw98JzeDU,星巴克(永康門市),23.003761,120.2350788,4.1,1594,2.0,"cafe,food,store,point_of_interest,establishment",中華路157號
+台南市,東區,ChIJ63W2aJN2bjQRH3Do_2tYRYQ,星巴克 長榮門市,22.995907,120.221739,4.0,1237,2.0,"cafe,food,store,point_of_interest,establishment",長榮路三段139號
+台南市,東區,ChIJN0zpWJ13bjQRsYV0ebs8vWU,星巴克台南文創門市,22.9990201,120.2128927,4.5,485,2.0,"cafe,food,store,point_of_interest,establishment",北門路二段16號1b 室
+台南市,東區,ChIJKyWsBzNxbjQRw6dfRRiS6lE,星巴克 台南大灣門市,22.9983995,120.2512416,4.1,875,2.0,"cafe,food,point_of_interest,establishment",崑大路231號
+台南市,東區,ChIJechsRKF2bjQRv3xP_ubz39Q,星巴克(台南東門門市),22.97827,120.2328917,4.1,1254,2.0,"cafe,food,store,point_of_interest,establishment",東門路三段138號
+台南市,東區,ChIJs3OSk75yBxQRh4rMAuH7Jh8,星巴克(台南健康門市),22.9814242,120.2107115,4.3,1190,2.0,"cafe,food,point_of_interest,establishment",健康路一段36號
+台南市,東區,ChIJyeyC9It2bjQRJ3ooaDY30IU,星巴克 台南門市,22.9954968,120.2102274,4.0,450,2.0,"cafe,food,store,point_of_interest,establishment",中山路166號
+台南市,東區,ChIJ31cWf7Z2bjQRlpQoQQqNQv4,星巴克典藏咖啡 (虎尾寮門市),22.9897927,120.2442208,4.3,1824,2.0,"cafe,food,point_of_interest,establishment",裕農路930號
+台南市,東區,ChIJqQC273R3bjQR9nC5RbiFJr8,星巴克 仁德家樂福門市,22.9723723,120.2467654,3.5,153,,"cafe,food,store,point_of_interest,establishment",中山路711號
+台南市,東區,ChIJ9ebNl-12bjQRbYvmfarbY8M,星巴克(成大醫1F門市),23.0017131,120.2182344,4.0,286,2.0,"cafe,food,point_of_interest,establishment",小東路35號
+台南市,東區,ChIJZ5oveQB3bjQRRHP8mflryeE,典陸教育星巴克服務（8樓）,22.9961329,120.2118405,5.0,13,,"cafe,food,store,point_of_interest,establishment",北門路一段171號8 樓
+台南市,東區,ChIJ5wlXtex3bjQRKROrQgpp6sw,星巴克(成大醫院B1門市),23.0021119,120.2190514,3.2,49,2.0,"cafe,food,point_of_interest,establishment",勝利路138號
+台南市,東區,ChIJF6Edm7B3bjQRXVCgCmPNY8E,桃憩咖啡,22.9971672,120.2106477,5.0,44,,"cafe,food,store,point_of_interest,establishment",成功路1號
+台南市,東區,ChIJo6dL64x2bjQRl3sP23mHafk,臺南文化創意產業園區,22.9989003,120.2128866,4.0,3317,,"cafe,food,store,point_of_interest,establishment",北門路二段16號1b 室
+台南市,東區,ChIJn9biBeZ3bjQRjjDwH2vIlM4,Louisa Coffee 路易莎咖啡(台南大同門市),22.9826901,120.2111959,4.2,717,1.0,"cafe,food,point_of_interest,establishment",大同路一段214號
+台南市,東區,ChIJN5znea13bjQR6q7pJIJqLzQ,ABG COFFEE 台南忠義店,22.9925156,120.2027604,4.1,53,,"cafe,food,store,point_of_interest,establishment",忠義路二段77號1樓
+台南市,東區,ChIJURgFVYx2bjQRjlLou6XwlZo,星巴克(南遠門市),22.9963293,120.2138915,4.0,187,2.0,"cafe,food,store,point_of_interest,establishment",前鋒路210號2樓
+台南市,東區,ChIJh-1jjr52bjQRgXW3xeivdbU,星巴克(南紡2F門市),22.9909579,120.2325441,4.0,705,2.0,"cafe,food,point_of_interest,establishment",中華東路一段366號2樓
+台南市,東區,ChIJjStVT4l3bjQR8B6jssvZaec,星巴克(南紡1F門市),22.991474,120.2328945,3.5,195,2.0,"cafe,food,store,point_of_interest,establishment",中華東路一段366號1F
+台南市,東區,ChIJP3JZXCh3bjQRHqehLICnQac,Cross Café克勞斯咖啡店（台南店）,22.9976257,120.2065063,4.7,159,,"cafe,food,store,point_of_interest,establishment",公園路129號

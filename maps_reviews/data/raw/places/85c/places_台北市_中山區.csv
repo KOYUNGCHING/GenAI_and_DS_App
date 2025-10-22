@@ -1,0 +1,10 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,中山區,ChIJ56dQHrupQjQR7Zt0IsvtKwI,85度C-台北西門店（內用有低消）,25.0416791,121.5072605,3.7,1308,1.0,"cafe,food,point_of_interest,establishment",漢中街151號
+台北市,中山區,ChIJRTf7EFypQjQRyMkgt4ZWTt4,85度C咖啡蛋糕飲料(台北錦州店),25.0602221,121.5246932,3.7,498,1.0,"cafe,bakery,food,store,point_of_interest,establishment",錦州街28-8號
+台北市,中山區,ChIJZfp1NeyrQjQR9FfJqnHIKg8,85度C咖啡蛋糕飲料(台北光復北店),25.0573585,121.5555371,3.6,490,1.0,"cafe,food,point_of_interest,establishment",光復北路167號
+台北市,中山區,ChIJRTf7EFypQjQRu2sf7xw4p48,85度C咖啡蛋糕飲料(台北榮星店),25.0661206,121.5408342,3.7,396,1.0,"cafe,food,point_of_interest,establishment",龍江路358號
+台北市,中山區,ChIJP-DTBcOrQjQRQTUb2NehQCg,Coffeeology,25.0475796,121.5508311,4.3,325,1.0,"cafe,food,point_of_interest,establishment",八德路三段12巷5弄2號
+台北市,中山區,ChIJI5z5FHypQjQRZncvFWdkqoU,CAMA CAFE 忠孝新生店,25.0403446,121.532581,4.1,203,1.0,"cafe,food,store,point_of_interest,establishment",新生南路一段90號
+台北市,中山區,ChIJqfydviWpQjQRgYSytVEZAjs,8%ice CAFÉ 中山店,25.0574071,121.5226233,4.2,356,,"cafe,food,store,point_of_interest,establishment",中山北路二段78-3號
+台北市,中山區,ChIJCw3n6TWrQjQRv3BRablqFqE,8%ice CAFÉ 民權店,25.0628827,121.5273682,4.4,1040,,"cafe,food,store,point_of_interest,establishment",民權東路一段79號1樓
+台北市,中山區,ChIJ1RueFhGpQjQRXZSxmBhu47U,McCafé 咖啡-台北濟南店,25.0401115,121.5325229,4.0,9,,"cafe,restaurant,food,store,point_of_interest,establishment",濟南路二段66號1樓

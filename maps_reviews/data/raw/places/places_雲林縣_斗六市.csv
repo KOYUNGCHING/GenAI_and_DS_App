@@ -1,0 +1,10 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+雲林縣,斗六市,ChIJj5RtaADJbjQRS2K6xahpCE0,STARBUCKS 星巴克 (斗六明德門市),23.7153599,120.5351599,4.3,51,,"cafe,food,store,point_of_interest,establishment",明德北路二段348號
+雲林縣,斗六市,ChIJERP7eh_IbjQRF9J4muXtyjM,STARBUCKS 星巴克 (斗六門市),23.70328,120.5313231,4.3,1340,2.0,"cafe,food,store,point_of_interest,establishment",雲林路二段190號
+雲林縣,斗六市,ChIJ41dEeAvJbjQRZ_p3hyZhKX8,STARBUCKS 星巴克 (斗六中正門市),23.6992312,120.5446317,4.0,841,,"cafe,food,store,point_of_interest,establishment",大學路二段308號
+雲林縣,斗六市,ChIJwSymffTJbjQRtecXlcIPhz8,默默咖啡-斗六旗艦店,23.7141809,120.5430371,4.8,127,,"cafe,food,point_of_interest,establishment",鎮北路93之1號
+雲林縣,斗六市,ChIJraUnn5zJbjQRw6Zmk-cTVBQ,7-Eleven 東禾門市,23.6851336,120.567281,4.1,18,,"convenience_store,food,store,point_of_interest,establishment",文化路145號
+雲林縣,斗六市,ChIJPQKe4RbIbjQReLj_0mESxEA,7-ELEVEN 坤麟門市,23.6975333,120.542519,3.7,130,,"convenience_store,atm,finance,food,store,point_of_interest,establishment",大學路二段579號
+雲林縣,斗六市,ChIJPYyILW3JbjQRcGto0eqGhS8,多那之斗六棒球場門市,23.7184424,120.5352591,4.7,1652,,"food,store,point_of_interest,establishment",斗六六路116號
+雲林縣,斗六市,ChIJFWWPfj7IbjQRQ8O1BhTbULM,7-ELEVEN 成苑門市,23.7031706,120.5464103,4.0,69,,"convenience_store,atm,finance,food,store,point_of_interest,establishment",莊敬路345號
+雲林縣,斗六市,ChIJ87UjGZ7JbjQRPkI9pYDE_FE,慈光咖啡,23.6989433,120.556849,5.0,2,,"cafe,food,store,point_of_interest,establishment",成功路470號

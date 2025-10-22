@@ -1,0 +1,21 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台南市,中西區,ChIJ57ZZg2R2bjQRLnvpyaB3HOk,星巴克(台南西門門市),22.9936329,120.1990226,4.3,1205,2.0,"cafe,food,store,point_of_interest,establishment",西門路二段120號
+台南市,中西區,ChIJSSY8ycd3bjQRSij15RQEEdI,Starbucks 星巴克台南小北門市,23.0141617,120.2093799,4.3,1404,2.0,"cafe,food,store,point_of_interest,establishment",西門路四段307號
+台南市,中西區,ChIJN0zpWJ13bjQRsYV0ebs8vWU,星巴克台南文創門市,22.9990201,120.2128927,4.5,485,2.0,"cafe,food,store,point_of_interest,establishment",北門路二段16號1b 室
+台南市,中西區,ChIJl5lqowh2bjQR2gvj9Rir4nw,星巴克(永華國平門市),22.9908482,120.1712918,4.3,1431,2.0,"cafe,food,store,point_of_interest,establishment",永華路二段721號
+台南市,中西區,ChIJyeyC9It2bjQRJ3ooaDY30IU,星巴克 台南門市,22.9954968,120.2102274,4.0,450,2.0,"cafe,food,store,point_of_interest,establishment",中山路166號
+台南市,中西區,ChIJs3OSk75yBxQRh4rMAuH7Jh8,星巴克(台南健康門市),22.9814242,120.2107115,4.3,1190,2.0,"cafe,food,point_of_interest,establishment",健康路一段36號
+台南市,中西區,ChIJzWdGv0F2bjQRtaj4d9WjyEA,星巴克(湖美門市),23.0057427,120.1851621,4.2,1365,2.0,"cafe,food,store,point_of_interest,establishment",中華西路二段851巷28號
+台南市,中西區,ChIJaQKJJGx2bjQRFzfsNK4lOmk,星巴克(府中門市),22.9976233,120.1874425,4.2,947,2.0,"cafe,food,store,point_of_interest,establishment",民生路二段489號
+台南市,中西區,ChIJKyt51HF3bjQRxpkh1qHCv1o,星巴克 海安和緯門市,23.0119166,120.2003094,4.1,212,2.0,"cafe,food,store,point_of_interest,establishment",海安路三段727號
+台南市,中西區,ChIJAYmFBXR2bjQRAJn9AK-zQ8g,星巴克（永華門市）,22.9883804,120.1871339,4.1,693,2.0,"cafe,food,store,point_of_interest,establishment",中華西路二段16號
+台南市,中西區,ChIJ63W2aJN2bjQRH3Do_2tYRYQ,星巴克 長榮門市,22.995907,120.221739,4.0,1237,2.0,"cafe,food,store,point_of_interest,establishment",長榮路三段139號
+台南市,中西區,ChIJ9ebNl-12bjQRbYvmfarbY8M,星巴克(成大醫1F門市),23.0017131,120.2182344,4.0,286,2.0,"cafe,food,point_of_interest,establishment",小東路35號
+台南市,中西區,ChIJZ5oveQB3bjQRRHP8mflryeE,典陸教育星巴克服務（8樓）,22.9961329,120.2118405,5.0,13,,"cafe,food,store,point_of_interest,establishment",北門路一段171號8 樓
+台南市,中西區,ChIJw518GgB3bjQRb-h46WgX8SI,ZEELAND-MARK 湖美廣場,23.0060331,120.1850792,4.4,152,,"store,point_of_interest,establishment","No. 57號, 和緯路五段"
+台南市,中西區,ChIJ5wlXtex3bjQRKROrQgpp6sw,星巴克(成大醫院B1門市),23.0021119,120.2190514,3.2,49,2.0,"cafe,food,point_of_interest,establishment",勝利路138號
+台南市,中西區,ChIJF6Edm7B3bjQRXVCgCmPNY8E,桃憩咖啡,22.9971672,120.2106477,5.0,44,,"cafe,food,store,point_of_interest,establishment",成功路1號
+台南市,中西區,ChIJo6dL64x2bjQRl3sP23mHafk,臺南文化創意產業園區,22.9989003,120.2128866,4.0,3317,,"cafe,food,store,point_of_interest,establishment",北門路二段16號1b 室
+台南市,中西區,ChIJURgFVYx2bjQRjlLou6XwlZo,星巴克(南遠門市),22.9963293,120.2138915,4.0,187,2.0,"cafe,food,store,point_of_interest,establishment",前鋒路210號2樓
+台南市,中西區,ChIJN5znea13bjQR6q7pJIJqLzQ,ABG COFFEE 台南忠義店,22.9925156,120.2027604,4.1,53,,"cafe,food,store,point_of_interest,establishment",忠義路二段77號1樓
+台南市,中西區,ChIJn9biBeZ3bjQRjjDwH2vIlM4,Louisa Coffee 路易莎咖啡(台南大同門市),22.9826901,120.2111959,4.2,717,1.0,"cafe,food,point_of_interest,establishment",大同路一段214號

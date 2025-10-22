@@ -1,0 +1,18 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台中市,北區,ChIJNybcO6kXaTQR76ugMmKu_Vw,星巴克 文心昌平門市,24.1716679,120.691663,4.1,1018,2.0,"cafe,store,food,point_of_interest,establishment",文心路四段817號
+台中市,北區,ChIJ6TljM5UXaTQRVD6wK8kX0qg,星巴克 松竹門市,24.1825108,120.6906151,4.2,968,2.0,"cafe,store,food,point_of_interest,establishment",松竹路二段350號
+台中市,北區,ChIJoVtLUNEXaTQRyxwLqHwLJg8,星巴克 中清太原門市,24.1652407,120.6740567,4.1,1672,2.0,"cafe,store,food,point_of_interest,establishment",中清路一段510號
+台中市,北區,ChIJV27gkGEXaTQR-o9-A2tqc98,星巴克 崇德北興門市,24.164013,120.6848889,4.0,323,2.0,"cafe,store,food,point_of_interest,establishment",崇德路一段481號
+台中市,北區,ChIJ76OclnU9aTQRPapn59cdOV4,STARBUCKS 星巴克 (美村向上門市),24.1465339,120.6618816,4.2,1407,2.0,"cafe,store,food,point_of_interest,establishment",美村路一段319號
+台中市,北區,ChIJqUcAYxM9aTQRSGTAcyFfO-I,STARBUCKS 星巴克 (中正繼光門市),24.1395087,120.683016,4.0,1009,2.0,"cafe,store,food,point_of_interest,establishment",臺灣大道一段138號
+台中市,北區,ChIJS0bLQwAXaTQRPl1c9D07n2I,STARBUCKS 星巴克 (松竹安順門市),24.1825789,120.6803978,4.3,214,2.0,"cafe,store,food,point_of_interest,establishment",松竹路三段128號
+台中市,北區,ChIJUyyNABgJaTQRGef2qLOidaY,STARBUCKS 星巴克 (中清門市),24.1865383,120.6633076,4.3,4830,2.0,"cafe,store,food,point_of_interest,establishment",中清路二段769號
+台中市,北區,ChIJhegloWoaaTQRq3PyJSR08NI,星巴克 中港門市,24.154248,120.6643197,4.2,975,2.0,"cafe,store,food,point_of_interest,establishment",臺灣大道二段363號
+台中市,北區,ChIJ5cGZEp09aTQRl4WPvIDc_l0,統一星巴克 園道門市,24.1512554,120.6635543,3.8,1180,2.0,"cafe,store,food,point_of_interest,establishment",公益路68號1樓
+台中市,北區,ChIJRVs1eWQ9aTQRuFjppcoyW9w,STARBUCKS 星巴克 (中醫門市),24.1566403,120.6810721,3.6,314,2.0,"cafe,store,food,point_of_interest,establishment",育德路2號
+台中市,北區,ChIJG1dHWWQ9aTQRf1uTPH5BOwQ,星巴克 中醫二門市,24.1540669,120.682846,3.9,392,2.0,"cafe,store,food,point_of_interest,establishment",學士路2號
+台中市,北區,ChIJp7HQKZ09aTQRHtM4Ietx4LE,STARBUCKS 星巴克 (台中金典門市),24.1557383,120.663261,3.6,158,2.0,"cafe,store,food,point_of_interest,establishment","B1, No. 1049號健行路"
+台中市,北區,ChIJ2RVCxNk9aTQR3tohysirMrU,星巴克 超億門市,24.1509834,120.6606708,3.8,227,,"store,food,point_of_interest,establishment",公益路128號
+台中市,北區,ChIJsRHvI2Y9aTQRb_xhSnV4-LE,星巴克中友門市,24.1518081,120.6847387,3.6,668,2.0,"cafe,store,food,point_of_interest,establishment",三民路三段161號1樓C棟
+台中市,北區,ChIJwyzDH_Y9aTQRbWEpnuo7kNk,星巴克 日曜門市,24.1425749,120.685322,3.8,186,2.0,"cafe,store,food,point_of_interest,establishment",自由路二段94號1
+台中市,北區,ChIJbTvbKZ09aTQRbG9qhco2g7I,金典綠園道,24.1557383,120.663261,4.2,6599,,"department_store,store,point_of_interest,establishment",健行路1049號

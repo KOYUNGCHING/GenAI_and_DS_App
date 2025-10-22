@@ -1,0 +1,5 @@
+,rating,rating,rating,rating,price_level,price_level,price_level,price_level
+,count,mean,median,std,count,mean,median,std
+is_chain,,,,,,,,
+False,1184,4.657601351351351,4.7,0.23746973440263747,488,1.8852459016393444,2.0,0.3378084049630231
+True,13,4.1923076923076925,4.3,0.2660248687044705,11,1.5454545454545454,2.0,0.5222329678670935

@@ -1,0 +1,6 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,信義區,ChIJJVGOI_KrQjQRStT2h7m11KA,Louisa Coffee 路易莎咖啡(健安新城門市),25.0550977,121.5635197,3.2,61,,"store,food,point_of_interest,establishment",三民路29巷6號
+台北市,信義區,ChIJEX2J1sirQjQRmkeSFkfmuo4,路易莎咖啡(國泰門市),25.0367941,121.5544977,2.8,454,1.0,"cafe,store,food,point_of_interest,establishment",仁愛路四段300巷13-2號
+台北市,信義區,ChIJSUj_ca-rQjQRQVFtmVW4FLo,Louisa Coffee 路易莎咖啡(健康門市),25.0530644,121.5525396,3.9,267,,"store,food,point_of_interest,establishment",健康路9號
+台北市,信義區,ChIJdT72VnWrQjQRnlV6dFXHKtc,路易莎咖啡(後山埤門市),25.04362,121.5827937,3.7,720,1.0,"cafe,store,food,point_of_interest,establishment",中坡南路13號
+台北市,信義區,ChIJyWKxu6irQjQRIIuq7qElW2Y,Louisa Coffee 路易莎咖啡(合江門市),25.055383,121.5391913,3.6,168,,"cafe,store,food,point_of_interest,establishment",合江街27號29號1樓

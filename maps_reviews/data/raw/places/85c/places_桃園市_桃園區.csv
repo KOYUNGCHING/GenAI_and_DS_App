@@ -1,0 +1,13 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+桃園市,桃園區,ChIJUafNKP4eaDQRE76DZErdDjI,85度C咖啡蛋糕飲料店(桃園北興店),24.998356,121.3088392,3.3,470,1.0,"cafe,food,point_of_interest,establishment",中正路346號
+桃園市,桃園區,ChIJ7zPMCVEeaDQRBvWNZk8oMpg,85度C桃園大業店,25.0074915,121.3160542,4.0,376,1.0,"cafe,food,point_of_interest,establishment",大業路一段156號
+桃園市,桃園區,ChIJV8GfC7sfaDQRzmwKq1RmCZk,85度C咖啡蛋糕桃園永安北店,25.0180445,121.2928447,4.0,74,,"bakery,food,point_of_interest,store,establishment",永安北路466號
+桃園市,桃園區,ChIJiRxzUgMfaDQRlMPlhWmPTcY,85度C咖啡蛋糕飲料麵包(桃園中山店),24.9920896,121.3033772,4.0,171,1.0,"cafe,food,point_of_interest,establishment",中山路404號
+桃園市,桃園區,ChIJ1Q82QGofaDQRc-BEDMwMnZI,85度C咖啡蛋糕飲料麵包(桃園龍安店),24.990995,121.2797918,4.0,495,1.0,"cafe,food,point_of_interest,establishment",龍安街142號
+桃園市,桃園區,ChIJm4Np0ewfaDQRBCLo88Gspo0,85度C咖啡蛋糕飲料麵包(桃園春日店),24.9983527,121.3152174,3.6,96,1.0,"cafe,food,point_of_interest,store,establishment",春日路236號
+桃園市,桃園區,ChIJ40j2baofaDQRd0h3kbfoFPs,85度C,25.0029737,121.3043651,3.6,177,1.0,"cafe,bakery,food,point_of_interest,store,establishment",力行路34號
+桃園市,桃園區,ChIJSbpBZRQfaDQRKLq3PmY2JJk,85度C咖啡蛋糕飲料烘培(桃園國際店),24.9892174,121.2890076,4.0,241,1.0,"cafe,food,point_of_interest,establishment",國際路一段1200號
+桃園市,桃園區,ChIJHQWWgyMfaDQRC_EtEuXdsVw,Y.J COFFEE 玉津咖啡-桃園站前店,24.990525,121.3099197,4.2,328,,"cafe,food,point_of_interest,establishment",中華路83號
+桃園市,桃園區,ChIJtbe7trYfaDQRnPDGHnRxHE0,MINI.D COFFEE 同德館,25.0187488,121.2948816,4.2,425,,"cafe,food,point_of_interest,establishment",同德十街1號
+桃園市,桃園區,ChIJOwOY2dsfaDQRr948Ri52f4A,Y.J COFFEE 玉津咖啡-桃園藝文店,25.0188564,121.2995815,4.0,268,,"cafe,food,point_of_interest,store,establishment",南平路282號1樓
+桃園市,桃園區,ChIJg96nTFkfaDQRmQjxm0NeEZ0,春綠Caf'e,25.0024415,121.2995303,4.4,217,2.0,"cafe,food,point_of_interest,establishment",愛三街200號

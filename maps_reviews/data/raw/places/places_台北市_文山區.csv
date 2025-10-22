@@ -1,0 +1,10 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,文山區,ChIJMQq8ZPABaDQRlzRW7MTIo0E,星巴克 新中門市,24.9776452,121.5456118,3.9,1223,2.0,"cafe,store,food,point_of_interest,establishment",中興路三段3號
+台北市,文山區,ChIJc63e6nuqQjQRnUdJZsI4Y78,STARBUCKS 星巴克 (政大門市),24.9877654,121.5756229,4.1,506,2.0,"cafe,store,food,point_of_interest,establishment",指南路二段105號
+台北市,文山區,ChIJj1TBSnGqQjQRhUW8goVK6_0,星巴克 木柵門市,24.9887216,121.566914,4.1,719,2.0,"cafe,store,food,point_of_interest,establishment",木柵路三段75號
+台北市,文山區,ChIJ1U0zNN4BaDQRCBSni34S-CQ,星巴克 木新門市,24.9819444,121.5611111,4.2,687,2.0,"cafe,food,point_of_interest,establishment",木新路三段162號
+台北市,文山區,ChIJ_3wx6waqQjQROQUsjLOxfJ4,星巴克 景美門市,24.9925974,121.5443434,4.1,1123,2.0,"cafe,store,food,point_of_interest,establishment",景興路185號1-2F
+台北市,文山區,ChIJwbaoahOqQjQR8UMWS835gGo,星巴克 萬芳門市,24.9998323,121.5574809,3.9,640,2.0,"cafe,store,food,point_of_interest,establishment",興隆路三段111號
+台北市,文山區,ChIJw4NHs3aqQjQRmDw4jd8KgcE,Louisa Coffee 路易莎咖啡(木柵直營店),24.9886989,121.5666199,3.7,820,1.0,"cafe,food,point_of_interest,establishment",木柵路三段63號
+台北市,文山區,ChIJC8Pi4M4BaDQRHaPvsxTEi3A,星巴克 新店裕隆城門市,24.9781993,121.5464781,3.8,140,,"cafe,store,food,point_of_interest,establishment",中興路三段70號1 樓
+台北市,文山區,ChIJHRBHnbwBaDQREeLK7nn1ISs,DREAMERS COFFEE ROASTERS 新店寶橋店,24.9756816,121.546759,4.1,468,2.0,"cafe,food,point_of_interest,establishment",寶橋路92號

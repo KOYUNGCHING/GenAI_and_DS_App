@@ -1,0 +1,16 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+新北市,永和區,ChIJDUmD13moQjQREo8j1iLK9HY,星巴克（辛亥門市）,25.0217296,121.5411881,4.1,1407,2.0,"cafe,store,food,point_of_interest,establishment",辛亥路二段175號
+新北市,永和區,ChIJY1uqz8irQjQRnetWuLM8xzQ,星巴克（和平門市）,25.0268191,121.5229239,3.9,1234,2.0,"cafe,store,food,point_of_interest,establishment",和平東路一段2號
+新北市,永和區,ChIJnxRYZ66pQjQRnGcHDW3tTq0,星巴克 艋舺門市,25.0334993,121.4984257,4.5,4071,2.0,"cafe,food,point_of_interest,establishment",西園路一段306巷24號
+新北市,永和區,ChIJIV5dCLCpQjQRmqOq_DsdmGw,星巴克 萬華西藏門市,25.0295592,121.5025289,4.1,1407,2.0,"cafe,store,food,point_of_interest,establishment",西藏路123號
+新北市,永和區,ChIJJ5L21Z6pQjQRgrSFseDy92M,星巴克（南海門市）,25.0323876,121.5168813,4.1,1546,2.0,"cafe,store,food,point_of_interest,establishment",南海路20號
+新北市,永和區,ChIJTXE7AaepQjQRx9F9XvZdt9Q,星巴克 西門桂林門市,25.037703,121.5061818,4.1,646,2.0,"cafe,store,food,point_of_interest,establishment",桂林路1號
+新北市,永和區,ChIJ4bT0-oupQjQRIzo8NiGCeAY,STARBUCKS 星巴克 (羅斯福門市),25.0174952,121.5318679,4.1,982,2.0,"cafe,store,food,point_of_interest,establishment",羅斯福路三段301號
+新北市,永和區,ChIJmdpeC9apQjQRV75csFYgLBU,星巴克 中和連城門市,25.0011651,121.4975883,4.2,1338,2.0,"cafe,food,point_of_interest,establishment",連城路71號1-2樓
+新北市,永和區,ChIJo5NwS9upQjQRq3v2PksgmEw,星巴克 永和永安門市,25.0035719,121.514717,4.0,1224,2.0,"cafe,store,food,point_of_interest,establishment",安樂路248-7號1F
+新北市,永和區,ChIJ40rVCLipQjQRP9GMIxWM9PY,STARBUCKS 星巴克 (師大和平門市),25.0268111,121.5292026,4.3,110,,"store,food,point_of_interest,establishment",和平東路一段129-1號1樓
+新北市,永和區,ChIJ4bT0-oupQjQR7L09td6Ndhg,星巴克（建和門市）,25.0255264,121.5372233,4.1,916,2.0,"cafe,store,food,point_of_interest,establishment",和平東路二段42-1號
+新北市,永和區,ChIJIcFPa4KpQjQR5SlT6EQMkiI,星巴克 永康街2F門市,25.0332989,121.529752,4.1,966,2.0,"cafe,store,food,point_of_interest,establishment",永康街2號2樓
+新北市,永和區,ChIJ5aXDWJ2pQjQR1q32d8yhJPU,STARBUCKS 星巴克 (杭州門市),25.0355845,121.5245834,4.0,911,2.0,"cafe,store,food,point_of_interest,establishment",信義路二段1-1號
+新北市,永和區,ChIJo5NwS9upQjQRN23WOydJE7M,星巴克 雙和門市,25.0073641,121.5071354,4.0,813,2.0,"cafe,store,food,point_of_interest,establishment",中山路一段240號1樓
+新北市,永和區,ChIJXZu3TU-pQjQRbGJOx06QCvA,星巴克 古亭門市,25.0244561,121.5246387,4.1,306,2.0,"cafe,store,food,point_of_interest,establishment",羅斯福路二段109號

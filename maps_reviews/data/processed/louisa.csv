@@ -1,0 +1,268 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台中市,北區,ChIJCyte_rc9aTQRhi0FF3lrenQ,Louisa Coffee 路易莎咖啡 (台中博館門市),24.1548077,120.6676478,4.1,889.0,1.0,"cafe,food,point_of_interest,establishment",博館ㄧ街19號
+台中市,北區,ChIJv5ilw2M9aTQR9077rVSd5LI,Louisa Coffee 路易莎咖啡 (健行門市),24.1589639,120.68221,4.3,1225.0,1.0,"cafe,food,store,point_of_interest,establishment",健行路391號
+台中市,北區,ChIJ-XeQ3zoXaTQRkCY5_fH0rMw,Louisa Coffee 路易莎咖啡(漢口崇德門市),24.1668897,120.6837954,3.9,632.0,1.0,"cafe,food,store,point_of_interest,establishment",漢口路四段316號
+台中市,北區,ChIJqcOuINk9aTQRRAUUuC7N_qg,Louisa Coffee 路易莎咖啡(美村直營門市),24.152647,120.6617965,3.4,599.0,,"food,store,point_of_interest,establishment",美村路一段103號
+台中市,北區,ChIJExkYaXU9aTQRR237cqMPQDY,Louisa Coffee 路易莎咖啡(十甲東門市),24.1407604,120.7082962,4.1,599.0,1.0,"cafe,food,point_of_interest,establishment",十甲東路566號
+台中市,北區,ChIJP5bbSF89aTQRATAmG_7ducc,Louisa Coffee 路易莎咖啡(進化門市),24.1592916,120.6942964,4.0,630.0,1.0,"cafe,food,point_of_interest,establishment",進化路571-2號
+台中市,北區,ChIJLeLbn-AXaTQR-N6si8B-ZPk,路易莎 榮德山西門市,24.1826685,120.6781697,3.8,684.0,1.0,"cafe,food,store,point_of_interest,establishment",榮德路263號
+台中市,北區,ChIJLcYPemYXaTQR9tC0mbc3Pmg,Louisa Coffee 路易莎咖啡 (台中中清門市),24.1688782,120.6728158,2.5,147.0,,"food,store,point_of_interest,establishment",中清路一段712號
+台中市,北區,ChIJqarVlwU9aTQRC_D7igx2pmk,Louisa Coffee 路易莎咖啡(一中門市),24.14877,120.6869025,3.4,723.0,1.0,"cafe,food,point_of_interest,establishment",雙十路一段125號
+台中市,北區,ChIJHzT89DU9aTQREMDUW_NYyko,Louisa Coffee 路易莎咖啡(台中科大門市),24.1523452,120.6823021,3.4,632.0,1.0,"food,store,point_of_interest,establishment",中華路二段120之3號
+台中市,北區,ChIJSyRbPQI9aTQRUuVkoyyp1Is,Louisa Coffee 路易莎咖啡 (進化北門市),24.1633466,120.6783815,3.9,359.0,,"cafe,food,store,point_of_interest,establishment",進化北路378-39號
+台中市,北區,ChIJD8SKKt09aTQRTGfhDxLtgaA,Louisa Coffee 路易莎咖啡(中教大門市),24.1451468,120.6707919,2.7,114.0,,"food,store,point_of_interest,establishment",五權路61號
+台中市,北區,ChIJPeuKJtA9aTQRuVFzqcKUfLc,路易莎咖啡(漢口門市）,24.1648494,120.6614337,3.4,703.0,1.0,"cafe,food,point_of_interest,establishment",漢口路二段110-7號
+台中市,北區,ChIJiVhaZQI9aTQR65Mk6doogz0,Louisa Coffee 路易莎咖啡(台中民權門市),24.1371963,120.6809351,3.9,453.0,,"food,store,point_of_interest,establishment",民權路60號
+台中市,北區,ChIJ4bMNelk9aTQRu4bYSUp4-B8,路易莎咖啡(精誠門市),24.1565385,120.6569548,4.0,337.0,,"cafe,food,point_of_interest,establishment",精誠路7-2號
+台中市,北區,ChIJpVi7fgAXaTQRwOCR6BVs6lE,HerCafe喝咖啡(咖啡飲品暢飲/不限時/插座/多種食物每日變換)－試營運中,24.182417,120.678942,4.6,147.0,,"cafe,food,store,point_of_interest,establishment",榮德路298號1、2樓
+台中市,北區,ChIJlf8Y1HI9aTQRT4ijWmJMkLs,Mini izzy cafe 台中店,24.153114,120.6833634,4.7,105.0,,"cafe,food,point_of_interest,establishment",錦平北街29號
+台中市,西屯區,ChIJzQGTWXMXaTQRUD6dJHAqXS4,Louisa Coffee 路易莎咖啡 (逢甲大學門市),24.1785457,120.6486995,4.4,5.0,,"food,store,point_of_interest,establishment",文華路100號圖書館旁1F
+台中市,西屯區,ChIJhd81mVoXaTQREY_OGGfdouo,Louisa Coffee 路易莎咖啡(台中漢翔門市),24.1840676,120.6448495,3.5,560.0,1.0,"food,store,point_of_interest,establishment",福星北路50號
+台中市,西屯區,ChIJsyY63tQXaTQRgPsYcPf0HKk,客美多咖啡 Komeda‘s Coffee - 台中黎明店,24.1777167,120.6373363,4.1,806.0,,"cafe,food,store,point_of_interest,establishment",黎明路三段257號
+台中市,西屯區,ChIJJ1-7NZMXaTQRJnnBR_ZRl14,KEEBU Shop & Studio,24.1891398,120.6666325,5.0,8.0,,"clothing_store,store,point_of_interest,establishment",后庄七街15號
+台北市,中山區,ChIJlXwHam-rQjQRZoeCeq3sFW0,Louisa Coffee 路易莎咖啡 (美麗信門市),25.0450624,121.5372233,5.0,1.0,,"store,food,point_of_interest,establishment",市民大道三段83號1樓
+台北市,中山區,ChIJSzTw9mupQjQRNs4E53HyqPs,Louisa Coffee 路易莎咖啡(中山承德直營門市),25.0531307,121.5189136,3.1,1438.0,1.0,"cafe,store,food,point_of_interest,establishment",南京西路65號
+台北市,中山區,ChIJTfP8wCKvQjQRZ8_4_nb2Ygc,Louisa Coffee 路易莎咖啡(士林前港門市),25.0849641,121.5227025,3.4,539.0,1.0,"cafe,store,food,point_of_interest,establishment",前港街11號1樓
+台北市,中山區,ChIJtcC3VbKuQjQRzRsP8LWN88I,Louisa Coffee 路易莎咖啡(劍潭承德店),25.0814938,121.5231067,4.0,624.0,1.0,"cafe,store,food,point_of_interest,establishment",承德路四段53號
+台北市,中山區,ChIJP1HjCHOpQjQRgUoKRyfrsqQ,Louisa Coffee 路易莎咖啡(信陽直營門市),25.0447589,121.5167926,3.2,752.0,1.0,"cafe,food,point_of_interest,establishment",信陽街5號之2號
+台北市,中山區,ChIJfX-p36-pQjQRU3IoqLZH6GY,Louisa Coffee 路易莎咖啡(北科光華門市),25.044019,121.533227,3.5,168.0,1.0,"store,food,point_of_interest,establishment",新生南路一段1號
+台北市,中山區,ChIJ2_rsNGCpQjQRn2pUZ64j80M,Louisa Coffee 路易莎咖啡(南京建國店),25.0517596,121.5358321,3.4,687.0,1.0,"cafe,food,point_of_interest,establishment",南京東路二段206號
+台北市,中山區,ChIJrRytxUipQjQRVtkDM6Ck5RE,Louisa Coffee 路易莎咖啡 (圓山直營店),25.0706863,121.5190057,3.4,904.0,1.0,"cafe,food,point_of_interest,establishment",酒泉街35號
+台北市,中山區,ChIJTZM2xW6pQjQRXXgn8dJ8VkE,Louisa Coffee 路易・莎咖啡(南西門市),25.0513912,121.5219954,3.4,186.0,1.0,"cafe,restaurant,food,point_of_interest,establishment",中山北路一段138號後棟
+台北市,中山區,ChIJeR4HzSqpQjQRb2nUUI0uD7g,台北捷運 x 路易莎聯名旗艦店,25.055692,121.5212063,3.4,690.0,,"cafe,store,food,point_of_interest,establishment",中山北路二段48巷7號
+台北市,中山區,ChIJBYzZqsipQjQRB3A8ncRMGaQ,Louisa Coffee 路易莎咖啡(新南京新生門市),25.0518885,121.5282754,3.4,100.0,1.0,"cafe,store,food,point_of_interest,establishment",南京東路二段6號1 樓
+台北市,中山區,ChIJB3aiMDqpQjQRJAglKoFd788,LOUISA COFFEE 路易莎咖啡(沅陵門市),25.0427651,121.5128236,3.5,265.0,1.0,"store,food,point_of_interest,establishment",沅陵街6號
+台北市,中山區,ChIJKRNL79yrQjQRikLl9k3XlmA,Louisa Coffee 路易莎咖啡 (八德台安門市),25.0483382,121.5466098,3.3,635.0,1.0,"cafe,food,point_of_interest,establishment",八德路二段429號
+台北市,中山區,ChIJ_4LjGSepQjQRAJtnqk38M6Q,Louisa Coffee 路易莎咖啡(庫倫承德門市),25.0726242,121.518547,4.1,599.0,1.0,"store,food,point_of_interest,establishment",承德路三段234+236+238號
+台北市,中山區,ChIJe07EcL-rQjQRSg8ImUOoFSY,Louisa Coffee 路易莎咖啡(忠孝延吉店),25.0419054,121.5546514,3.6,115.0,,"store,food,point_of_interest,establishment",延吉街137巷4號1樓
+台北市,中山區,ChIJyX1Da9qrQjQRg5JVCdh8q64,Louisa Coffee 路易莎咖啡(忠孝SOGO門市),25.0427416,121.5442039,3.4,600.0,1.0,"cafe,food,point_of_interest,establishment",復興南路一段133之1號133之1號
+台北市,中山區,ChIJE2gE4WKpQjQROP7bRy8pg3Y,Louisa Coffee 路易莎咖啡(台北轉運站門市),25.0490428,121.5185002,2.2,211.0,,"cafe,food,point_of_interest,establishment",市民大道一段209號
+台北市,中山區,ChIJxzq6y2OpQjQRGredNxJe854,Louisa Coffee 路易莎咖啡(松江長安店),25.0483395,121.5339035,3.6,354.0,1.0,"cafe,food,point_of_interest,establishment",長安東路二段78-1號
+台北市,中山區,ChIJoagG5VipQjQRkEQjPUwh_DQ,路易莎咖啡(民權門市),25.0616959,121.5348042,4.2,215.0,1.0,"cafe,store,food,point_of_interest,establishment",松江路313巷22號之2號
+台北市,中山區,ChIJiZrRUgGrQjQR4JDJgudKWBw,Louisa Coffee 路易莎咖啡 (光復南京門市),25.0512799,121.556747,3.4,681.0,1.0,"cafe,store,food,point_of_interest,establishment",南京東路四段166號
+台北市,中山區,ChIJW_PdaJypQjQR2T3ickLtzbg,Louisa Coffee 路易莎咖啡(Y17門市),25.0391392,121.5222359,1.9,272.0,1.0,"food,store,point_of_interest,establishment",仁愛路一段17號1樓
+台北市,中山區,ChIJHyklTAOrQjQReQtvP2QqhVQ,Louisa Coffee 路易莎咖啡(玉山總部門市),25.0590955,121.5502525,3.0,309.0,1.0,"food,store,point_of_interest,establishment",敦化北路315號
+台北市,中山區,ChIJaw63CsOpQjQRdpjLZqxL85g,Louisa Coffee 路易莎咖啡(忠孝善導寺門市),25.0440268,121.5256914,2.7,617.0,1.0,"food,store,point_of_interest,establishment",忠孝東路一段148號
+台北市,中山區,ChIJHZS0eUSpQjQRGntDS5DcHEc,Louisa Coffee 路易莎咖啡 (民權西門市),25.062965,121.5221216,3.7,2045.0,1.0,"cafe,food,point_of_interest,establishment",民權西路3號
+台北市,中山區,ChIJeVItyJ85aTQR2qX93MI79o4,Louisa Coffee 路易莎咖啡(樂群直營店),25.079711,121.5571415,3.1,224.0,,"cafe,food,store,point_of_interest,establishment",樂群二路150號
+台北市,中山區,ChIJHWLil2SrQjQRK9b2LcwDnm0,Louisa Coffee 路易莎咖啡(民權復興門市),25.0618104,121.5462473,3.1,300.0,1.0,"food,store,point_of_interest,establishment",民權東路三段132號1樓
+台北市,中山區,ChIJPV_9uuOrQjQRUAnk_P4rSWY,Louisa Coffee 路易莎咖啡(仁愛明曜門市),25.0394901,121.5519434,2.6,410.0,,"cafe,food,store,point_of_interest,establishment",仁愛路四段151巷25號
+台北市,中山區,ChIJ69o0OSirQjQRh_UHP6-hMUQ,Louisa Coffee 路易莎咖啡(正義國宅門市),25.0414766,121.5386648,3.1,74.0,,"food,store,point_of_interest,establishment",忠孝東路三段172號
+台北市,中山區,ChIJ4xsDxx-rQjQRZ2flYBW14jU,Louisa Bakery 路易莎麵包店 (大巨蛋門市),25.042717,121.5583566,4.1,97.0,,"food,store,point_of_interest,establishment",忠孝東路四段505號C區B2樓B2221櫃位
+台北市,中山區,ChIJyWKxu6irQjQRIIuq7qElW2Y,Louisa Coffee 路易莎咖啡(合江門市),25.055383,121.5391913,3.6,168.0,,"cafe,food,store,point_of_interest,establishment",合江街27號29號1樓
+台北市,中山區,ChIJ344DzMCrQjQR8f3La2PL1dA,Louisa Coffee 路易莎咖啡(中山國中門市),25.0601137,121.5428231,2.9,162.0,1.0,"food,store,point_of_interest,establishment",錦州街436號
+台北市,中山區,ChIJc9UtlS6rQjQROVFsJyuaiWA,Louisa Coffee 路易莎咖啡(民生敦北門市),25.0580381,121.5512357,3.3,285.0,1.0,"food,store,point_of_interest,establishment",民生東路四段71號
+台北市,中山區,ChIJeT9n0JWrQjQRKOD3Ddb2aIo,Louisa Coffee 路易莎咖啡(中崙大全聯門市),25.0456932,121.5429316,2.5,288.0,1.0,"food,store,point_of_interest,establishment",八德路二段306號B1
+台北市,中山區,ChIJSUj_ca-rQjQRQVFtmVW4FLo,Louisa Coffee 路易莎咖啡(健康門市),25.0530644,121.5525396,3.9,267.0,,"food,store,point_of_interest,establishment",健康路9號
+台北市,中山區,ChIJrYbR-CGpQjQRPhsbMqTqu_4,Louisa Coffee 路易莎咖啡(錦州門市),25.0604277,121.5238157,2.9,325.0,1.0,"food,store,point_of_interest,establishment",錦州街3號
+台北市,中山區,ChIJa__eVPGpQjQRXD_OqE1uLkQ,Louisa Coffee 路易莎咖啡(金山南門市),25.0423546,121.5294242,3.4,777.0,1.0,"cafe,food,point_of_interest,establishment",金山南路一段8號
+台北市,中山區,ChIJWTEinmepQjQRNTj7tNs-NRU,Louisa Coffee 路易莎咖啡(建成圓環門市),25.0537185,121.5150276,3.3,1180.0,1.0,"cafe,food,store,point_of_interest,establishment",南京西路264號
+台北市,中山區,ChIJ4aHU53KpQjQRtiph1oralg4,Louisa Coffee 路易莎咖啡(新光保險小舖),25.046222,121.51583,2.8,580.0,1.0,"cafe,food,point_of_interest,establishment",忠孝西路一段50號
+台北市,中山區,ChIJqY27xOupQjQRw3h3JdnffT8,Louisa Coffee 路易莎咖啡(松江農安店),25.0638409,121.5334954,2.7,372.0,1.0,"cafe,food,point_of_interest,establishment",松江路363號1樓
+台北市,信義區,ChIJJVGOI_KrQjQRStT2h7m11KA,Louisa Coffee 路易莎咖啡(健安新城門市),25.0550977,121.5635197,3.2,61.0,,"store,food,point_of_interest,establishment",三民路29巷6號
+台北市,信義區,ChIJEX2J1sirQjQRmkeSFkfmuo4,路易莎咖啡(國泰門市),25.0367941,121.5544977,2.8,454.0,1.0,"cafe,store,food,point_of_interest,establishment",仁愛路四段300巷13-2號
+台北市,信義區,ChIJdT72VnWrQjQRnlV6dFXHKtc,路易莎咖啡(後山埤門市),25.04362,121.5827937,3.7,720.0,1.0,"cafe,store,food,point_of_interest,establishment",中坡南路13號
+台北市,大安區,ChIJ8zC_ddWpQjQRpi2my4N9bIk,Louisa Coffee 路易莎咖啡(師大直營店),25.02704,121.5253175,3.7,1138.0,1.0,"cafe,food,point_of_interest,establishment",和平東路一段79號
+台北市,大安區,ChIJQ1eOvcqpQjQRG1ATIlglhSQ,Louisa Coffee 路易莎咖啡 (古亭門市 捷運三號出口),25.0256914,121.5238467,3.0,133.0,,"food,store,point_of_interest,establishment",羅斯福路二段83-1號1樓
+台北市,大安區,ChIJNwQISJmrQjQRGsDas6TYAcA,Louisa Coffee 路易莎咖啡(捷運市府門市),25.0412937,121.5659685,3.1,696.0,1.0,"cafe,food,point_of_interest,establishment",忠孝東路五段33號
+台北市,文山區,ChIJw4NHs3aqQjQRmDw4jd8KgcE,Louisa Coffee 路易莎咖啡(木柵直營店),24.9886989,121.5666199,3.7,820.0,1.0,"cafe,food,point_of_interest,establishment",木柵路三段63號
+台南市,中西區,ChIJF0r-FXJ2bjQRs0BoEa51g2s,Louisa Coffee 路易莎咖啡(台南湖美門市),23.0029971,120.1871343,4.5,1256.0,1.0,"cafe,food,point_of_interest,establishment",中華西路二段588號
+台南市,中西區,ChIJU6aYFJNzbjQRc6qzBlSPh1Q,Louisa Coffee 路易莎咖啡(成大勝利店),22.9948294,120.2179589,4.3,507.0,1.0,"cafe,food,point_of_interest,establishment",勝利路125號
+台南市,中西區,ChIJE8P3Y1h2bjQREDMgkb3TqIM,Louisa Coffee 路易莎咖啡(小北店),23.009216,120.2061974,4.4,939.0,1.0,"cafe,food,point_of_interest,establishment",立賢路一段39號
+台南市,中西區,ChIJ8YOzNdB3bjQRrH15Jk_Pt_s,Louisa Coffee 路易莎咖啡（台南華平門市）,22.9897328,120.1746796,3.9,655.0,1.0,"cafe,food,point_of_interest,establishment",華平路269號
+台南市,中西區,ChIJ2droWwx2bjQRP0-udhYCXqY,Louisa Coffee 路易莎咖啡（台南文平店）,22.9922762,120.1787409,4.3,469.0,1.0,"cafe,food,point_of_interest,establishment",文平路400號
+台南市,中西區,ChIJn9biBeZ3bjQRjjDwH2vIlM4,Louisa Coffee 路易莎咖啡(台南大同門市),22.9826901,120.2111959,4.2,717.0,1.0,"cafe,food,point_of_interest,establishment",大同路一段214號
+台南市,中西區,ChIJw2Qe99x3bjQRS5Pg7N-Ryck,Louisa Coffee 路易莎咖啡(水萍塭門市),22.9894107,120.1953384,4.0,555.0,1.0,"cafe,food,point_of_interest,establishment",海安路一段96號
+台南市,中西區,ChIJE_f6DAl3bjQR_1aqWDUjjzY,Louisa Coffee 路易莎咖啡(台南文元門市),23.0158543,120.2005222,4.2,628.0,1.0,"cafe,food,store,point_of_interest,establishment",海安路三段800號
+台南市,中西區,ChIJ0RM2GZF2bjQRDJE4ivAl_K4,Louisa Coffee 路易莎咖啡(台南長榮店),22.990139,120.2206622,4.2,655.0,1.0,"cafe,food,point_of_interest,establishment",長榮路二段178號
+台南市,中西區,ChIJyyFdMwZ2bjQRbF47A0YqqfM,Louisa Coffee 路易莎咖啡(台南郡平門市),22.9888427,120.1697133,4.1,372.0,1.0,"cafe,food,point_of_interest,establishment",郡平路131號
+台南市,中西區,ChIJWxwiE3x2bjQRY4zkqTjJbog,Louisa Coffee 路易莎咖啡 (台南新光門市),22.9872303,120.2002634,4.1,261.0,1.0,"food,store,point_of_interest,establishment",永福路一段78號
+台南市,中西區,ChIJqW2Mic53bjQREVCQgxtcKQo,Louisa Coffee 路易莎咖啡(台南奇美門市),23.0213942,120.2214423,3.4,472.0,1.0,"cafe,food,point_of_interest,establishment",中華路903號
+台南市,中西區,ChIJBa_TbHx2bjQRm_bTJ3I2e5s,Carpenter 木匠手烘咖啡-永福店,22.9873228,120.2002478,4.7,370.0,1.0,"cafe,food,point_of_interest,establishment",永福路一段82號1 樓
+台南市,中西區,ChIJRUBUvm12bjQRVOT_50m21z8,McCafé 咖啡-台南中華二店,22.9957914,120.186116,3.9,52.0,,"cafe,restaurant,food,store,point_of_interest,establishment","號1樓, No. 491中華西路二段"
+台南市,中西區,ChIJKyt51HF3bjQRxpkh1qHCv1o,星巴克 海安和緯門市,23.0119166,120.2003094,4.1,212.0,2.0,"cafe,food,store,point_of_interest,establishment",海安路三段727號
+台南市,中西區,ChIJZxHvhch3bjQRJ7GufFHme9s,客美多咖啡 Komeda‘s Coffee - 台南民生店,22.9935444,120.2029094,4.2,797.0,,"food,store,point_of_interest,establishment",民生路一段76號
+台南市,中西區,ChIJ_zaS0WR2bjQRuMk5Cyti8xI,Barista Ray Coffee,22.9910406,120.2019579,4.5,1127.0,2.0,"cafe,food,store,point_of_interest,establishment",友愛街22號
+台南市,中西區,ChIJE1XuapJ2bjQRRHCH0BxFnXg,台南-CHADOR,22.9944711,120.2179277,4.3,945.0,2.0,"cafe,food,store,point_of_interest,establishment",勝利路115-1號
+台南市,中西區,ChIJH2i_54N2bjQR3zsvgcf11hE,聯合報[興南],22.982883,120.211311,3.0,1.0,,"transit_station,point_of_interest,establishment",701台灣臺南市東區
+台南市,中西區,ChIJkb46LuV3bjQR-aR2BYzYgcM,咖啡候機室 台南大同店,22.9832764,120.2112978,4.8,57.0,,"cafe,food,store,point_of_interest,establishment",大同路一段231號
+台南市,中西區,ChIJ63W2aJN2bjQRH3Do_2tYRYQ,星巴克 長榮門市,22.995907,120.221739,4.0,1237.0,2.0,"cafe,store,food,point_of_interest,establishment",長榮路三段139號
+台南市,中西區,ChIJf45PWO53bjQR6obXCoY4hrw,1 PLUS CAFE 一家咖啡 台南武英店,22.9894825,120.1926083,4.8,239.0,,"cafe,food,point_of_interest,establishment",武英街6巷11號
+台南市,中西區,ChIJEUVp3nV3bjQRkE0G7ZN1npA,I'M COFFEE 大學店,22.9959125,120.2186459,4.4,250.0,,"cafe,food,point_of_interest,establishment",勝利路118號
+台南市,中西區,ChIJXdi5eIl2bjQRkHoHkV0YZqc,多那之台南西門門市,22.997045,120.1997658,4.0,1974.0,2.0,"cafe,bakery,store,food,point_of_interest,establishment",西門路二段309號
+台南市,中西區,ChIJJ0waVmp3bjQRPzV9DbQJz6I,DAVIDYANG大衛洋咖啡(永福店),22.9862384,120.2002198,4.5,131.0,,"cafe,store,food,point_of_interest,establishment",永福路一段40號
+台南市,中西區,ChIJ0a3ofoJ2bjQRtKHiP_rvZ8M,咖啡深藏 台南大同門市,22.9779696,120.2136721,4.5,138.0,,"cafe,food,point_of_interest,establishment",大同路二段123號
+台南市,中西區,ChIJfY3fOrx3bjQRkDsOT-EhUDY,他她咖啡館｜連假營業至18:00,23.0014154,120.200116,4.6,527.0,,"store,restaurant,food,point_of_interest,establishment",海安路三段32巷18號
+台南市,中西區,ChIJKSejlIl2bjQR0R5HFKGTPSU,寮國咖啡,22.9943738,120.2068356,4.6,415.0,1.0,"cafe,food,point_of_interest,establishment",中山路79巷60號
+台南市,中西區,ChIJ278oMBJ2bjQRR2KArzVEreA,IZZY CAFE,22.9983804,120.176783,4.5,472.0,2.0,"store,food,point_of_interest,establishment",安平路350號
+台南市,中西區,ChIJERLCFXx3bjQRUUvYgjnp2z0,92度半咖啡（台南西門號）,22.9959481,120.1993355,4.9,96.0,,"cafe,food,point_of_interest,establishment",西門路二段269號
+台南市,中西區,ChIJhwoL61h3bjQRWS5ng4aAYZw,厝珈啡,23.0017418,120.2035816,4.6,214.0,,"store,food,point_of_interest,establishment",自強街132號
+台南市,中西區,ChIJtS2c9j93bjQRYeyMUZp-O30,木匠手烘咖啡 國華店,22.995449,120.1980317,4.8,493.0,,"cafe,store,food,point_of_interest,establishment",國華街三段81號
+台南市,中西區,ChIJ35Uy5CZ0bjQRAbAUzbf9C_k,巷隅咖啡,22.9731759,120.2206536,4.8,832.0,2.0,"cafe,food,point_of_interest,establishment",中華東路三段399巷5號
+台南市,中西區,ChIJK9yCh9t1bjQRC-5nRzuOL-k,巷弄咖啡,22.9744094,120.1885426,4.7,968.0,1.0,"cafe,store,food,point_of_interest,establishment",新興路481巷14弄6號
+台南市,中西區,ChIJkczc52N2bjQRCsewjQtsPEk,道南館 自家烘焙咖啡館,22.995927,120.2006268,4.6,769.0,2.0,"cafe,food,point_of_interest,establishment",民權路二段248號
+台南市,中西區,ChIJSdp4UWd3bjQRkwekZgNgCt8,古意人咖啡,22.9840821,120.2045425,4.9,238.0,,"cafe,store,food,point_of_interest,establishment",南門路227巷11號
+台南市,中西區,ChIJ00DHCh53bjQRdixQvW3gXLA,7-ELEVEN 新奇美門市,23.021015,120.22123,3.4,55.0,,"convenience_store,atm,store,food,finance,point_of_interest,establishment",甲頂路18、20號
+台南市,中西區,ChIJ6zQHhcJ1bjQRxJPLkhYEoDM,宇慶書屋,22.9811808,120.1897181,4.8,53.0,,"cafe,store,food,point_of_interest,establishment",賢南街5號
+台南市,中西區,ChIJNydw4lp3bjQRm6YucU6WqbU,有邑家 Home from Home Cafe,23.0049903,120.1997467,4.7,315.0,2.0,"cafe,restaurant,food,point_of_interest,establishment",海安路三段147號
+台南市,中西區,ChIJs3SPkZF2bjQRcMOkqrkYpkE,橋上看書bRidge+,22.991957,120.2186275,4.5,524.0,2.0,"cafe,store,restaurant,food,point_of_interest,establishment",勝利路52巷13號
+台南市,中西區,ChIJMWCA6WN2bjQRj0D8uHyYb8M,熨斗目花珈琲 珈哩WUDAO cafe,22.9956618,120.2005392,3.9,1465.0,2.0,"cafe,restaurant,food,point_of_interest,establishment",新美街90號
+台南市,中西區,ChIJO7qhn5F3bjQRcN_K-W1tOpQ,卡啡那 市府館,22.9892221,120.183419,4.4,1217.0,2.0,"cafe,store,food,point_of_interest,establishment",永華路二段141號
+台南市,中西區,ChIJnYD8V312bjQRbzFUXyAsR2M,品蓬咖啡,22.9896039,120.2051238,4.8,453.0,2.0,"cafe,restaurant,bakery,store,food,point_of_interest,establishment",府前路一段196巷17號
+台南市,中西區,ChIJF-cNgZh2bjQRZLHtsKu2wFs,L'esprit café 初衷咖啡 @lespritcafe_tainan,22.9974698,120.1881608,4.4,322.0,,"cafe,restaurant,store,food,point_of_interest,establishment",民生路二段401號
+台南市,中西區,ChIJl5lqowh2bjQR2gvj9Rir4nw,星巴克(永華國平門市),22.9908482,120.1712918,4.3,1431.0,2.0,"cafe,store,food,point_of_interest,establishment",永華路二段721號
+台南市,中西區,ChIJn5-iFvp2bjQRN3Mg-M6dSXQ,Share House Cafe(分享咖啡屋),22.9966998,120.2008033,4.8,149.0,2.0,"cafe,food,point_of_interest,establishment",新美街111號
+台南市,中西區,ChIJs3OSk75yBxQRh4rMAuH7Jh8,星巴克(台南健康門市),22.9814242,120.2107115,4.3,1190.0,2.0,"cafe,food,point_of_interest,establishment",健康路一段36號
+台南市,中西區,ChIJI235AIh2bjQRnwRxjdz8ndM,豆儿 DOR,22.9884852,120.2204791,4.7,131.0,,"cafe,art_gallery,store,food,point_of_interest,establishment",長榮路二段32巷127號
+台南市,中西區,ChIJx_VshxF2bjQRdemuWSoNsO0,歐塔克手作咖啡烘焙館,22.9985988,120.1760921,4.8,604.0,1.0,"cafe,food,point_of_interest,establishment",華平路726號
+台南市,中西區,ChIJ7WXRwZF2bjQRYp7V7JdMVCc,波哥茶飲,22.9918048,120.217947,4.3,2875.0,1.0,"cafe,store,food,point_of_interest,establishment",勝利路58號
+台南市,東區,ChIJ5330up52bjQRRA1ulT9UbIM,Louisa Coffee 路易莎咖啡(崇善門市),22.9802994,120.2235221,4.2,676.0,1.0,"cafe,food,point_of_interest,establishment",崇善路172號
+台南市,東區,ChIJ6QpO79x2bjQR4WYEjdR5gk4,Louisa Coffee 路易莎咖啡(台南永康門市),23.0083176,120.2319187,4.3,382.0,1.0,"cafe,restaurant,food,store,point_of_interest,establishment",中華二路365號
+台南市,東區,ChIJFwubopV2bjQRM7hZeWQR-DY,Louisa Coffee 路易莎咖啡(東安門市),22.9933392,120.2267299,3.9,817.0,1.0,"cafe,food,point_of_interest,establishment",東安路100號
+台南市,東區,ChIJfeKh0YN3bjQRGcn1TsQECLQ,Louisa Coffee 路易莎咖啡(台南東門門市)（提供外送）,22.9780108,120.2334355,3.5,663.0,1.0,"cafe,food,store,point_of_interest,establishment",東門路三段180號
+台南市,東區,ChIJmdr7DgN3bjQRmQAKGBFXWAg,Louisa Coffee 路易莎咖啡(台南復國門市),23.0111746,120.2464013,4.0,486.0,1.0,"cafe,food,point_of_interest,establishment",復國一路339-1、399-2號
+台南市,東區,ChIJHSd_fBF1bjQR2roSktc4BGY,MINI.D COFFEE 崇德館,22.9666318,120.2273808,4.6,1019.0,,"cafe,food,store,point_of_interest,establishment",崇明二十四街82號
+台南市,東區,ChIJEwCxssZ2bjQRDAoS53H-RG4,MIX Coffee,22.9997968,120.2340207,4.8,189.0,1.0,"cafe,food,point_of_interest,establishment",中華路23巷9號
+台南市,東區,ChIJIXtRpNd3bjQRDjkz3mC8myg,Django決哥手烘咖啡吧-裕農店,22.9898967,120.2445329,4.6,153.0,,"cafe,food,store,point_of_interest,establishment",裕農路952號
+嘉義市,東區,ChIJLy7l_-mVbjQRYg54iOOvoUg,Louisa Coffee 路易莎咖啡(嘉義圓環門市),23.4799931,120.4493224,3.6,680.0,1.0,"cafe,food,point_of_interest,establishment",中山路294號
+嘉義市,東區,ChIJ7S3G_yyVbjQRDATdETHjgtY,Louisa Coffee 路易莎咖啡 (嘉義垂楊門市),23.4740178,120.4499647,4.2,101.0,,"restaurant,food,store,point_of_interest,establishment",垂楊路396號398號
+嘉義市,東區,ChIJIbDIDyKUbjQRykvCkESaYY4,卓武咖啡(裝修中！僅提供外帶、外送；無內用！）,23.4787031,120.4465082,4.4,438.0,2.0,"cafe,food,point_of_interest,establishment",民生北路194號192號
+嘉義市,東區,ChIJoSB_pcqVbjQR5IC8TEIU5w0,幸福原在咖啡,23.4862223,120.4579132,4.7,183.0,2.0,"cafe,food,point_of_interest,establishment",維新路195號
+嘉義市,東區,ChIJdw1dD1CVbjQR5HWMQnbj6-8,suicafe隧咖啡,23.4775367,120.4523167,4.7,153.0,,"cafe,food,store,point_of_interest,establishment",成仁街111號
+嘉義市,東區,ChIJhdCLmCaUbjQRPgiPTqAa6SU,MIMICO COFFEE 秘密客咖啡館,23.4836716,120.4499184,4.5,730.0,2.0,"cafe,food,point_of_interest,establishment",興中街200號
+嘉義市,東區,ChIJkSndeEqUbjQRj6o-KJuqk3s,花磚咖啡。淺嚐館,23.4804613,120.4592053,4.6,431.0,1.0,"cafe,food,point_of_interest,establishment",公明路59-1號
+嘉義市,東區,ChIJ8XaP1ik0BhQRYeZTVyskNPs,古典咖啡,23.4774049,120.4624411,4.5,84.0,2.0,"cafe,food,point_of_interest,establishment",啟明路58號
+嘉義市,東區,ChIJ7VBA3SGUbjQRe4S90T8vXEQ,多那之嘉義新民門市,23.4669392,120.4399582,3.7,948.0,2.0,"cafe,bakery,food,store,point_of_interest,establishment",新民路643號
+嘉義市,東區,ChIJVQ0EdZKVbjQRQeOwHVAeR8A,多那之嘉義民國門市,23.4791462,120.4601848,3.1,351.0,,"cafe,bakery,food,store,point_of_interest,establishment",民國路143號
+嘉義市,東區,ChIJxUUDdyyVbjQRRl5r_ulHrSQ,cama café 嘉義中山店,23.4794755,120.4464182,4.3,208.0,1.0,"cafe,food,store,point_of_interest,establishment",中山路441號
+嘉義市,東區,ChIJkTIgq06VbjQRJKBAWQjamyc,星巴克 嘉義世賢門市,23.464145,120.4512745,4.5,612.0,2.0,"cafe,food,store,point_of_interest,establishment",世賢路四段432-1號
+嘉義市,東區,ChIJy5M1jy2UbjQRrxERunH9GJQ,BES coffee,23.4828685,120.4469261,4.8,292.0,,"cafe,food,point_of_interest,establishment",長榮街278號
+嘉義市,東區,ChIJ9-a0iMqVbjQRqrlXj3zFgfQ,Daisy的雜貨店,23.4816218,120.4587068,4.6,497.0,2.0,"cafe,restaurant,food,point_of_interest,establishment",維新路73號
+嘉義市,東區,ChIJk5BHbeWVbjQRvRM9kHUbuN8,IN COFFEE,23.4768875,120.4476871,4.7,871.0,2.0,"cafe,food,point_of_interest,establishment",忠義街50號
+嘉義市,東區,ChIJL_iG1S-UbjQRCcYCXqloXkU,小口品s,23.4777303,120.4470138,4.9,465.0,2.0,"cafe,restaurant,food,point_of_interest,establishment",光彩街453號
+嘉義市,東區,ChIJSY_Sgj-VbjQRAy1vMJTlwDk,她的咖啡 HER COFFEE,23.4764743,120.4516215,4.8,208.0,,"cafe,food,point_of_interest,establishment",興中街64號
+嘉義市,東區,ChIJl-EjDACVbjQR3pFjMuy7sHs,黑嶼白 Black Islands White Coffee&Tea。義式咖啡/茶飲/藍莓貝果/鹽可頌/自製奶酥法棍。嘉義咖啡。,23.4699912,120.4426197,5.0,86.0,,"cafe,food,store,point_of_interest,establishment",永安街385號1樓
+宜蘭縣,羅東鎮,ChIJGVI2pnzmZzQReTv7CkmeNUE,Louisa Coffee 路易莎咖啡(宜蘭聖博門市),24.67116,121.770688,4.1,221.0,1.0,"cafe,food,store,point_of_interest,establishment",中正南路135號
+屏東縣,屏東市,ChIJx7n8QJoXbjQRr85BxnTwUqc,路易莎咖啡 屏東太平洋店,22.6740711,120.490687,4.0,576.0,1.0,"cafe,food,point_of_interest,establishment",中華路80號
+屏東縣,屏東市,ChIJNwCp9pYXbjQRrYMpslEtOQA,Louisa Coffee 路易莎咖啡(屏東環球門市),22.6731934,120.4940187,3.8,368.0,,"store,food,point_of_interest,establishment",仁愛路90號
+屏東縣,屏東市,ChIJwwp0DpgXbjQRJtgzJFxQ3P8,多那之屏東中正門市,22.6825645,120.4922855,4.3,1053.0,2.0,"cafe,bakery,store,food,point_of_interest,establishment",中正路360號
+屏東縣,屏東市,ChIJJfXPw5YXbjQREz-cdy3RpXM,就是咖啡,22.6780752,120.4972122,4.5,101.0,,"store,food,point_of_interest,establishment",自由路317號
+屏東縣,屏東市,ChIJn_QvOOYXbjQREaNDCPUHvYg,CityReader讀者城市閱讀文創館,22.6633696,120.5061328,4.7,282.0,,"cafe,food,point_of_interest,establishment",民生路4-17號號
+屏東縣,屏東市,ChIJvTGmv4MXbjQR-Ac-5EwGBnU,CAMA CAFE 屏東站前店,22.6701495,120.486131,4.3,182.0,1.0,"cafe,food,point_of_interest,establishment",民族路165號
+屏東縣,屏東市,ChIJV-Nci4QXbjQRRaezUizNezs,McCafé 咖啡-屏東復興店,22.6641778,120.4879959,4.3,35.0,,"cafe,store,restaurant,food,point_of_interest,establishment",復興路220號
+彰化縣,彰化市,ChIJiWIPVYk4aTQR45Yi3yCi-vs,Louisa Coffee 路易莎咖啡(彰化中興店),24.0699452,120.5449028,3.7,360.0,1.0,"cafe,food,store,point_of_interest,establishment",中興路136號之 1
+彰化縣,彰化市,ChIJw70b10I5aTQRb2PQLHy-VAs,Louisa Coffee 路易莎咖啡(彰美門市),24.088259,120.5381936,4.0,342.0,,"food,store,point_of_interest,establishment",彰美路一段159號
+彰化縣,彰化市,ChIJT91Ks8M4aTQRBREYqwa2EOw,育承坊,24.0859583,120.5585553,,,,"cafe,food,store,point_of_interest,establishment",中山路三段220號1樓
+彰化縣,彰化市,ChIJY7lK0Hs5aTQROtK4Mtw9hD4,McCafé 咖啡-彰化中正店,24.0817361,120.5395339,4.7,27.0,,"cafe,restaurant,food,store,point_of_interest,establishment","號1樓, No. 566中正路一段"
+彰化縣,彰化市,ChIJq0gGBJQ4aTQR6huFxtC3wgI,Skinny Cafe 瘦子咖啡·彰化店｜咖啡專賣店,24.0804474,120.5398926,4.7,822.0,2.0,"cafe,restaurant,food,store,point_of_interest,establishment",光復路143巷4號
+彰化縣,彰化市,ChIJFSXCwaY5aTQRxepm48exQtY,M.s caf'e,24.0752883,120.5455112,,,,"cafe,food,store,point_of_interest,establishment",南郭路一段47巷2號
+新北市,三重區,ChIJsYgG4XOpQjQRWBHpvTXDqhs,Louisa Coffee 路易莎咖啡(三重忠孝門市),25.0699389,121.4840162,3.9,579.0,1.0,"cafe,food,point_of_interest,establishment",忠孝路二段99-1號1樓
+新北市,三重區,ChIJDROr5wmpQjQRAyTULrzx7mg,Louisa Coffee 路易莎咖啡(三重中華門市),25.0617545,121.4836178,4.3,227.0,,"store,food,point_of_interest,establishment",中華路41號1樓 、2樓
+新北市,三重區,ChIJlXy3QR6pQjQR6hjxmB8vgsQ,Louisa Coffee 路易莎咖啡 (三重重新門市)捷運菜寮站旁,25.0605287,121.4929779,3.9,770.0,1.0,"cafe,store,restaurant,food,point_of_interest,establishment",重新路三段94號
+新北市,三重區,ChIJ06Z9HCSpQjQRmtgv1bJ6QM8,Louisa Coffee 路易莎咖啡(蘆洲湧蓮門市),25.0835851,121.4702624,3.9,128.0,,"store,food,point_of_interest,establishment",中正路78號
+新北市,三重區,ChIJc2sw9iCpQjQRC6wTuD4TqS8,Louisa Coffee 路易莎咖啡(三重自強店),25.067078,121.493348,4.0,606.0,1.0,"cafe,food,point_of_interest,establishment",自強路一段236號
+新北市,三重區,ChIJwbpfEnqpQjQRzR5GqvalCfc,Louisa Coffee 路易莎咖啡(蘆洲佳瑪門市),25.0812555,121.464494,4.1,210.0,,"store,food,point_of_interest,establishment",九芎街90巷27號1樓
+新北市,三重區,ChIJo-2snGCoQjQR_FQXRzFmj1o,Louisa Coffee 路易莎咖啡(三重旗艦門市),25.0455568,121.4683546,3.5,277.0,1.0,"cafe,store,food,point_of_interest,establishment",重新路5段609巷2-1號
+新北市,三重區,ChIJ0yNnZNaoQjQRv9CqhIqUd7g,Louisa Coffee 路易莎咖啡(三重溪尾店),25.080405,121.488899,3.8,346.0,1.0,"cafe,store,food,point_of_interest,establishment",溪尾街175號
+新北市,三重區,ChIJc2KvtAupQjQRYh7uCZfz3V4,路易莎咖啡(寶慶店),25.0421239,121.50992,3.5,454.0,1.0,"cafe,store,food,point_of_interest,establishment",衡陽路114號
+新北市,三重區,ChIJfSWh_iapQjQRt_FDAyroIrM,Louisa Coffee 路易莎咖啡(三重龍門店),25.0717435,121.4945549,3.8,511.0,1.0,"cafe,store,food,point_of_interest,establishment",三和路三段84號
+新北市,三重區,ChIJ5Xi-SPyoQjQRbhcoqD0Tnlk,Louisa Coffee 路易莎咖啡(三重成功店),25.0511785,121.4878629,3.8,385.0,2.0,"cafe,store,restaurant,food,point_of_interest,establishment",成功路98號
+新北市,三重區,ChIJ-5wtaImoQjQRjmeF1ma_nx0,Louisa Coffee 路易莎咖啡 (新莊中原門市),25.0542522,121.4612663,3.8,706.0,1.0,"store,food,point_of_interest,establishment",中原東路127號
+新北市,三重區,ChIJf2JCbxKpQjQRxuoP2cqfkbs,Louisa Coffee 路易莎咖啡(昆明門市),25.0453265,121.5053333,3.5,425.0,,"store,food,point_of_interest,establishment",昆明街86號
+新北市,三重區,ChIJGXSrWwypQjQRlsD4kJJQMoE,路易．莎咖啡(城中店),25.0460525,121.5108201,3.9,272.0,1.0,"cafe,store,food,point_of_interest,establishment",延平南路13號
+新北市,三重區,ChIJk5q-gRipQjQRukh_FExQoAs,Louisa Coffee 路易莎咖啡(台北橋門市),25.062707,121.4995652,3.7,436.0,1.0,"cafe,store,food,point_of_interest,establishment",重新路二段12號
+新北市,三重區,ChIJHy_ouqKvQjQR-cjt-dhxSTI,Louisa Coffee 路易莎咖啡(三重集智門市),25.0873746,121.4863403,3.8,514.0,1.0,"store,food,point_of_interest,establishment",集智街56號
+新北市,三重區,ChIJxUlApgypQjQRNJ6lWuZV0k0,路易．莎咖啡(重慶南店),25.0439572,121.5134681,3.9,375.0,1.0,"cafe,store,food,point_of_interest,establishment",重慶南路一段77-2號1樓
+新北市,板橋區,ChIJ4QpV6nSpQjQRb_LZ3DmGayk,Louisa Coffee 路易莎咖啡(新莊中正旗艦門市),25.0352229,121.4488111,3.6,455.0,1.0,"cafe,food,store,point_of_interest,establishment",中正路285號
+新北市,板橋區,ChIJwwbi31OpQjQRkcYGN_30Up8,Louisa Coffee 路易莎咖啡(新板傑仕堡門市),25.0176242,121.469552,3.5,758.0,1.0,"cafe,food,store,point_of_interest,establishment",縣民大道二段277號
+新北市,板橋區,ChIJU6t12BOoQjQR0ftkxBJRmek,Louisa Coffee 路易莎咖啡(新海直營門市),25.0241508,121.4607052,3.6,726.0,1.0,"cafe,food,point_of_interest,establishment",雨農路58號
+新北市,永和區,ChIJYcPDHNWpQjQRFAE3DXJFwyo,Louisa Coffee 路易莎咖啡(萬華青年公園門市),25.026106,121.5058474,3.4,278.0,,"store,food,point_of_interest,establishment",青年路14號1樓
+新北市,永和區,ChIJWZI3q6SpQjQRUnXWzXZk1MA,Louisa Coffee 路易莎咖啡(南昌直營門市),25.0299438,121.5183082,3.3,605.0,1.0,"cafe,food,point_of_interest,establishment",南昌路一段123號1樓
+新北市,永和區,ChIJzWwP8wgCaDQRz7I0JDSyOps,Louisa Coffee 路易莎咖啡 (中和捷運門市),25.0027899,121.496522,3.9,489.0,1.0,"cafe,food,point_of_interest,establishment",景平路673號
+新竹市,東區,ChIJo9k3pcs1aDQRYNVP64ej0Ik,Louisa Coffee 路易莎咖啡(新竹武陵店),24.8211193,120.9683786,3.7,511.0,1.0,"cafe,food,point_of_interest,establishment",武陵路173-3號
+新竹市,東區,ChIJ5Q97_vY3aDQR6MIz8cNVkqY,Louisa Coffee 路易莎咖啡 (新竹建中店),24.802335,120.9953945,4.1,687.0,1.0,"cafe,food,point_of_interest,establishment",建中路71號
+新竹市,東區,ChIJXXeYgKk1aDQR5CcWLv0ZHrw,Louisa Coffee 路易莎咖啡(新竹站前店),24.8023615,120.9717535,3.1,492.0,,"food,store,point_of_interest,establishment",中正路2號
+新竹市,東區,ChIJv3jzIbY1aDQR2Q2aeYlCQus,Louisa Coffee 路易莎咖啡(新竹市府門市),24.8098065,120.9678325,3.7,1005.0,1.0,"cafe,food,point_of_interest,establishment",北大路162號
+新竹市,東區,ChIJx6BLsAk1aDQR9TQ3ZlGP0is,Louisa Coffee 路易莎咖啡 (新竹綠光門市),24.8107031,120.9850591,4.0,351.0,1.0,"cafe,food,point_of_interest,establishment",中華路一段426號
+新竹市,東區,ChIJyb1-t-o1aDQRA6rab0jc-KI,Louisa Coffee 路易莎咖啡(新竹遠百店),24.8020187,120.9657062,3.2,775.0,1.0,"cafe,food,store,point_of_interest,establishment",西大路360號1-3樓
+新竹市,東區,ChIJ-2hwqUo1aDQR-f3E53Ywd08,Louisa Coffee 路易莎咖啡(新竹巨城門市),24.8094384,120.9774577,3.4,571.0,1.0,"cafe,food,point_of_interest,establishment",民生路99號
+新竹市,東區,ChIJxbv38eA1aDQRtv-H0mEBZIc,Louisa Coffee 路易莎咖啡(新竹食品門市),24.7987944,120.9791083,3.9,245.0,,"food,store,point_of_interest,establishment",食品路63號
+新竹市,東區,ChIJKQfdNh83aDQRBNDIZPjzpLo,Louisa Coffee 路易莎咖啡(清大圖書館門市),24.7956227,120.9949754,3.1,379.0,1.0,"food,store,point_of_interest,establishment",光復路二段101號清大圖書館 旺宏館
+新竹市,東區,ChIJUSxFX4o1aDQRzzJKqAkhqtc,Louisa Coffee 路易莎咖啡 (新竹公園門市),24.8003202,120.9773452,3.9,94.0,1.0,"cafe,food,point_of_interest,establishment",公園路133號
+新竹市,東區,ChIJdzb21TI1aDQRGdDH-It6wck,好里家在家居生活館 新竹旗艦館,24.8197856,120.9813035,5.0,6.0,,"furniture_store,home_goods_store,store,point_of_interest,establishment",公道五路三段565巷58號
+新竹縣,竹北市,ChIJ5Q7yQfo2aDQRC4VN1ac0Ns8,Louisa Coffee 路易莎咖啡(竹北成功店),24.8187031,121.0234517,3.9,624.0,1.0,"cafe,food,point_of_interest,establishment",成功五街76號
+新竹縣,竹北市,ChIJHTlHtOQ2aDQR0_Tm50bdGYk,Louisa Coffee 路易莎咖啡(竹北莊敬門市),24.8219942,121.0265854,3.5,578.0,1.0,"cafe,food,store,point_of_interest,establishment",莊敬五街38號
+新竹縣,竹北市,ChIJn_yUjRk3aDQRTa9itsR6hYk,Louisa Coffee 路易莎咖啡 (竹北昌益門市),24.8445054,121.0090776,3.5,4.0,,"food,store,point_of_interest,establishment",環科一路11號 (5D1號
+新竹縣,竹北市,ChIJtZ0UKpM2aDQRmc7JJbem_TY,Louisa Coffee 路易莎咖啡(竹北縣政門市),24.8282261,121.0102893,3.4,411.0,1.0,"cafe,food,store,point_of_interest,establishment",縣政九路153號
+新竹縣,竹北市,ChIJyxmRaPI2aDQR-doSg_Tf638,Louisa coffee,24.8234676,121.0141124,4.2,257.0,1.0,"cafe,food,store,point_of_interest,establishment",縣政二路55號
+新竹縣,竹北市,ChIJfzGo5us2aDQRVHgtAxG0R3I,Louisa Coffee 路易莎咖啡(竹北光明門市),24.830525,121.0159144,4.0,326.0,1.0,"cafe,food,point_of_interest,establishment",光明一路196號
+新竹縣,竹北市,ChIJhczqsbg3aDQRmYbD_l5JA3Q,Louisa Coffee 路易莎咖啡(國道湖口門市),24.8574485,121.009867,3.1,158.0,,"food,store,point_of_interest,establishment",國強街1巷8號
+新竹縣,竹北市,ChIJbY4zR5Q2aDQRFg3-JTPygws,路易莎咖啡 竹北博愛店,24.8333511,121.00638,3.9,444.0,1.0,"cafe,food,point_of_interest,establishment",博愛街239號
+新竹縣,竹北市,ChIJp4bYWG03aDQR6xK1Q9Pe3QQ,路易莎咖啡 竹北嘉豐門市,24.8167749,121.0294319,4.1,178.0,,"food,store,point_of_interest,establishment",嘉豐一街33號
+新竹縣,竹北市,ChIJ94A_CtM3aDQR8Le0zOoKYL0,Louisa Coffee 路易莎咖啡(台元聯發科門市),24.8416909,121.0126664,3.9,29.0,1.0,"cafe,food,store,point_of_interest,establishment",台元街26號3樓之3
+新竹縣,竹北市,ChIJPZQ8aD83aDQR-KOmdZD9-kI,Louisa Coffee 路易莎咖啡 (緯創總部門市),24.8292359,121.0208596,,,,"food,store,point_of_interest,establishment",智慧二路1號
+桃園市,中壢區,ChIJ1_mM9NQjaDQR7pfWhvCZz-8,Louisa Coffee 路易莎咖啡(平鎮文化門市),24.9560073,121.2030587,4.1,602.0,1.0,"cafe,store,food,point_of_interest,establishment",文化街25號
+桃園市,中壢區,ChIJCU0NsiYiaDQRay86Kxr6j9c,Louisa Coffee 路易莎咖啡(中壢南園店),24.9715532,121.2337387,4.2,281.0,1.0,"cafe,food,point_of_interest,establishment",南園二路81號
+桃園市,中壢區,ChIJ-Rhsi0kiaDQRQHb4PUsEgR4,Louisa Coffee 路易莎咖啡(中壢延平門市),24.9559394,121.2229281,4.0,396.0,1.0,"cafe,store,food,point_of_interest,establishment",延平路536號
+桃園市,中壢區,ChIJWQF9QrgjaDQRw6fbDvP9XgY,Louisa Coffee 路易莎咖啡(中壢復興門市),24.9581265,121.2257948,2.9,994.0,1.0,"cafe,food,point_of_interest,establishment",復興路17號
+桃園市,中壢區,ChIJEbT4JzciaDQRJ_XkOlo5uQI,Louisa Coffee 路易莎咖啡(中壢SOGO門市),24.9622104,121.2252347,3.2,623.0,1.0,"cafe,food,point_of_interest,establishment",元化路303號
+桃園市,中壢區,ChIJNcNbSUcjaDQRyOV93OISAmY,Louisa Coffee 路易莎咖啡(中原家樂福門市),24.9623966,121.23241,1.9,129.0,,"store,food,point_of_interest,establishment",中華路二段501號
+桃園市,中壢區,ChIJc1nHX-cjaDQR2Bt49hyZhkM,Louisa Coffee 路易莎咖啡 (中原大學門市),24.9590191,121.2412934,2.2,82.0,,"store,food,point_of_interest,establishment",中北路200號中原大學(活動中心1F
+桃園市,中壢區,ChIJFYCEAFwjaDQRAdum39v3Ujs,老窩咖啡☕️平鎮環南店(˶‾᷄ ⁻̫ ‾᷅˵),24.9518007,121.2064814,4.6,264.0,,"cafe,food,point_of_interest,establishment",環南路222號
+桃園市,中壢區,ChIJ-ei3JTYiaDQRbqEfU7aa3QI,老窩咖啡館-中壢站前店,24.9571182,121.2244255,4.1,631.0,1.0,"cafe,food,point_of_interest,establishment",中央東路23號
+桃園市,桃園區,ChIJz14elAofaDQRHHnhEXVECcs,Louisa Coffee 路易莎咖啡(桃園大興門市),25.0140032,121.3044739,4.1,518.0,1.0,"cafe,food,point_of_interest,establishment",大興西路一段179-1號
+桃園市,桃園區,ChIJlStrbdYfaDQRWx1dr_YeOUE,Louisa Coffee 路易莎咖啡(桃園中路門市),24.9960864,121.2949655,4.2,481.0,,"store,food,point_of_interest,establishment",正光路181號
+桃園市,桃園區,ChIJEe6ID7kfaDQR6kgWq4TEVYQ,Louisa Coffee 路易莎咖啡(桃園莊敬店),25.0225225,121.2935146,3.9,336.0,1.0,"cafe,food,point_of_interest,establishment",莊敬路二段47號
+桃園市,桃園區,ChIJl073K2UfaDQRcn9SxFQFgKc,Louisa Coffee 路易莎咖啡 (桃園市府門市),24.9949295,121.3011337,4.0,331.0,1.0,"store,food,point_of_interest,establishment",縣府路186號
+桃園市,桃園區,ChIJJYE-EbcfaDQRV4Jgi5GQs7I,Louisa Coffee 路易莎咖啡(桃園中正門市),24.9926279,121.3119931,3.3,879.0,1.0,"cafe,food,point_of_interest,establishment",中正路103號
+桃園市,桃園區,ChIJg99KVAMfaDQRYrq4WhiGqNU,路易莎咖啡(桃園縣府門市),24.9920291,121.3028784,4.5,341.0,1.0,"cafe,store,food,point_of_interest,establishment",中山路426號
+桃園市,桃園區,ChIJSUxIDO0faDQRk3hGKpTsSkg,Louisa Coffee路易莎咖啡桃園大有店,25.0107166,121.3195901,3.8,449.0,1.0,"cafe,food,point_of_interest,establishment",大有路366號
+桃園市,桃園區,ChIJT6UfWlIeaDQRwj3ZLLVHQn0,Louisa Coffee 路易莎咖啡(春日直營店),25.0090677,121.3113612,3.1,739.0,1.0,"cafe,food,point_of_interest,establishment",春日路618號
+桃園市,桃園區,ChIJGUnukbofaDQRgIat6eKRx1Q,Louisa Coffee 路易・莎咖啡(桃園藝文門市),25.0165185,121.2963076,3.8,311.0,1.0,"cafe,food,point_of_interest,establishment",中埔六街32號
+桃園市,桃園區,ChIJ30d5eH4faDQRdol6hULftyY,Louisa Coffee 路易莎咖啡(桃園青溪門市),24.9969224,121.3183363,4.2,137.0,,"store,food,point_of_interest,establishment",中山東路108號
+桃園市,桃園區,ChIJIcdW9xQfaDQRPdPqUQLa-k8,Louisa Coffee 路易莎咖啡(桃園國聖店),24.988195,121.2879791,3.9,408.0,1.0,"cafe,store,food,point_of_interest,establishment",國聖一街2號
+花蓮縣,花蓮市,ChIJW5eSfm6faDQRbD31NTZd8HU,Louisa Coffee 路易莎咖啡 (花蓮太昌門市),23.9879878,121.5862664,4.2,15.0,,"food,store,point_of_interest,establishment",建國路一段282號
+花蓮縣,花蓮市,ChIJf0io4AifaDQRzgQUzdDdKyg,Louisa Coffee 路易莎咖啡(花蓮民國門市),23.9777374,121.6037193,4.1,483.0,,"cafe,food,point_of_interest,establishment",民國路79-3號
+花蓮縣,花蓮市,ChIJfXD7XsGfaDQR1ynC_pVnHr0,762轉運咖啡站,23.9793687,121.6109914,4.8,8.0,1.0,"cafe,food,point_of_interest,establishment",中正路600號
+花蓮縣,花蓮市,ChIJ5QktjhGfaDQRA_oA-nPCKmc,週六郊區咖啡豆專賣店,23.9882981,121.6225357,4.7,123.0,,"cafe,food,point_of_interest,establishment",民權七街22號
+花蓮縣,花蓮市,ChIJ5fO1ZGefaDQRRRXfADr5uXI,雨林Scone&Coffee 司康專賣店,23.9740542,121.6074765,4.7,363.0,2.0,"cafe,bakery,restaurant,food,store,point_of_interest,establishment",明義街55號
+花蓮縣,花蓮市,ChIJqWyp28OfaDQR1gcahCSf1KQ,cama café 花蓮中山店,23.9771542,121.6093639,4.1,160.0,1.0,"cafe,food,point_of_interest,establishment",中山路150號
+花蓮縣,花蓮市,ChIJxUvNJjmfaDQRAcsjmAAtBBE,伊萊莎咖啡館Fair Lady coffee shop,23.9860611,121.6223827,4.9,95.0,,"cafe,restaurant,food,bar,store,point_of_interest,establishment",民德一街128號
+花蓮縣,花蓮市,ChIJe99mFdSfaDQRq_W_Tyy3rXA,羅伯咖啡中美店,23.9901164,121.6247872,4.2,168.0,1.0,"cafe,food,point_of_interest,establishment",中美路95號
+花蓮縣,花蓮市,ChIJvQ4csd2faDQRxsUFdS9vCkM,PP cake 露天咖啡,23.9755733,121.6096808,4.6,39.0,,"cafe,parking,food,point_of_interest,establishment",福町路成功街口
+花蓮縣,花蓮市,ChIJ9f06UACfaDQRXBE2LJqb3J4,南日咖啡 Namli,23.9751167,121.6045252,4.8,116.0,1.0,"cafe,food,point_of_interest,establishment",仁愛街45號一樓
+花蓮縣,花蓮市,ChIJOblsaYCfaDQRpJDMgIIIgdc,單行道咖啡,23.995457,121.6045173,5.0,833.0,,"cafe,food,store,point_of_interest,establishment",國聯五路250號
+花蓮縣,花蓮市,ChIJfzcdarufaDQRIibxw7-ys2g,羅伯咖啡 建國本館,23.9851195,121.595405,4.0,184.0,1.0,"cafe,food,point_of_interest,establishment","建國路一段40-6號號, No"
+花蓮縣,花蓮市,ChIJ2Q48saWfaDQRysB5O_XUm6s,樂見里8號閱覽室,23.9767324,121.6040107,4.9,76.0,,"cafe,restaurant,food,point_of_interest,establishment",中華路144號
+花蓮縣,花蓮市,ChIJe3Khi-qfaDQR_hY8tRU9r5M,半寓咖啡,23.97472,121.6080927,4.7,568.0,2.0,"cafe,food,point_of_interest,establishment",成功街316號
+花蓮縣,花蓮市,ChIJOUVyZ7-faDQRCv9b2Z1HtCw,Prince 王子 廚義/花蓮美食 花蓮餐廳 花蓮義大利麵 花蓮甜點 花蓮下午茶,23.9776296,121.6031688,4.3,1235.0,2.0,"restaurant,food,store,point_of_interest,establishment",民國路67號
+花蓮縣,花蓮市,ChIJEf_Z15efaDQRYrA_sAeq75k,UNCONDITIONAL COFFEE ROASTERY【無攝限咖啡】,23.9786532,121.5963067,4.8,362.0,2.0,"cafe,food,point_of_interest,establishment",國風街84號 由林政街進入
+花蓮縣,花蓮市,ChIJr-LtlKOfaDQRyU1fEqJK_2o,小室咖啡 花蓮總店,23.975993,121.6032142,4.6,143.0,,"cafe,food,point_of_interest,establishment",有恆街3號
+花蓮縣,花蓮市,ChIJabY88-qfaDQRd4oZ2BFhAGc,珈琲宅（KOHI宅 / 休假日期請見臉書公告）,23.9745564,121.6078106,4.8,386.0,,"cafe,food,point_of_interest,establishment",成功街298號
+雲林縣,斗六市,ChIJs4zS8lHJbjQRQ6yHzgLNSjA,Louisa Coffee 路易莎咖啡 (雲林科大門市),23.6937804,120.5352517,4.4,30.0,,"store,food,point_of_interest,establishment",大學路三段123號雲泰表演廳 EZ Plus
+雲林縣,斗六市,ChIJDToCXb7JbjQRebRpgTswCL4,Louisa Coffee 路易莎咖啡 (斗六中堅店),23.7007076,120.5351957,3.9,275.0,2.0,"cafe,food,point_of_interest,establishment",中堅西路533號1樓
+雲林縣,斗六市,ChIJCcNGQj3IbjQROR4NzFr6EgA,王鏘汽車旅館,23.7027605,120.5407845,3.5,217.0,,"lodging,point_of_interest,establishment",鎮南路87號
+雲林縣,斗六市,ChIJ4UqGEjrIbjQROdCq2npusoc,騷咖啡,23.7111768,120.5439015,4.5,548.0,2.0,"cafe,food,point_of_interest,establishment",文化路15號
+高雄市,苓雅區,ChIJAxL2X9YDbjQRSU-U-TVCRAM,Louisa Coffee 路易莎咖啡(高雄一心門市),22.6109404,120.3110946,4.1,451.0,,"cafe,food,store,point_of_interest,establishment",一心二路39號
+高雄市,苓雅區,ChIJn4D0epcEbjQRgvAivrBT6Xo,Louisa Coffee 路易莎咖啡(高雄文化直營門市),22.6239937,120.3170611,4.0,658.0,1.0,"cafe,food,point_of_interest,establishment",廣州一街141號
+高雄市,苓雅區,ChIJeRx7ajoFbjQRZ4xRrnYaqvQ,Louisa Coffee 路易莎咖啡(高雄青年仁愛門市),22.6223387,120.308762,4.0,499.0,,"food,store,point_of_interest,establishment","210號, No. 210號青年一路"
+高雄市,苓雅區,ChIJIxjX_7IFbjQRvtP8qEgmPtE,Louisa Coffee 路易莎咖啡 (高雄七賢門市),22.6339753,120.3051264,4.1,433.0,,"food,store,point_of_interest,establishment",林森一路230號
+高雄市,苓雅區,ChIJSV4pGRwFbjQRoogyscn00ag,Louisa Coffee 路易莎咖啡(高雄大立蔦屋門市),22.6216445,120.2984761,3.2,209.0,,"food,store,point_of_interest,establishment",五福三路59號2樓
+高雄市,苓雅區,ChIJgRrexCYFbjQRgzU00DiUUFU,Louisa Coffee 路易莎咖啡(高醫自由門市),22.6437446,120.308767,3.9,817.0,1.0,"cafe,food,point_of_interest,establishment",自由一路56號
+高雄市,苓雅區,ChIJkYRxgXwFbjQRCM3yOSqF6ZQ,路易莎咖啡大昌覺民店,22.6408706,120.3321177,3.9,740.0,1.0,"cafe,food,point_of_interest,establishment",大昌二路89號
+高雄市,苓雅區,ChIJv0-Kjo0EbjQRRpSS2QElBc8,【咖啡深藏復興門市】 新興 中正路 好喝咖啡鮮奶茶飲料純茶 廳店早餐下午推薦美食青紅精品外帶送內用單品團手搖飲探店手沖平價附近的訂購西西里麥當勞全家星巴克路易莎卡瑪starbucks coffee shops near me menu cafe,22.6323318,120.3084223,4.3,114.0,,"cafe,food,point_of_interest,establishment",復興一路70-15號號
+高雄市,苓雅區,ChIJ0SACk_oFbjQRz_naC4KLpaE,咖啡覺醒 中山店,22.6213769,120.3013617,4.3,1373.0,2.0,"cafe,restaurant,food,store,point_of_interest,establishment",中山二路547號
+高雄市,苓雅區,ChIJv52625cEbjQRFDdQ4ZyADEE,多那之高雄文化門市,22.6247474,120.3199552,3.8,1084.0,2.0,"cafe,bakery,food,store,point_of_interest,establishment",和平一路149-15號
+高雄市,苓雅區,ChIJQY3WZIsFbjQRleml25GDDTw,客美多咖啡 (高雄大立店),22.6217962,120.2977565,4.1,1561.0,2.0,"cafe,food,point_of_interest,establishment",五福三路59號目前尚無訂位服務
+高雄市,苓雅區,ChIJBdXrqYAEbjQRQ6zwzafBTW4,大立A館,22.6217077,120.2982807,4.1,7086.0,,"department_store,store,point_of_interest,establishment",五福三路57號
+高雄市,苓雅區,ChIJ-_ldvXwEbjQRZ8KPQ_yQ4o4,季洋莊園咖啡-成功店,22.6272607,120.2924407,4.2,520.0,1.0,"cafe,restaurant,food,store,point_of_interest,establishment",成功一路431號
+高雄市,苓雅區,ChIJGz-YuVgFbjQRQ3i0qoj9rxw,TSUTAYA BOOKSTORE 高雄大立店,22.6216235,120.2985194,4.5,996.0,,"book_store,store,point_of_interest,establishment",五福三路57號1&2樓（大立百貨A棟
+高雄市,鼓山區,ChIJz_GcLjwFbjQRoIB3G9i_-MQ,Louisa Coffee 路易莎咖啡(博愛北平門市),22.650059,120.3037315,3.5,515.0,1.0,"store,food,point_of_interest,establishment",博愛一路336號
+高雄市,鼓山區,ChIJlXNHsWoFbjQRk0f610x9Ic0,Louisa Coffee 路易莎咖啡 (中山大學門市),22.6272837,120.2647843,3.9,58.0,,"store,food,point_of_interest,establishment",蓮海路70號360藝文空間
+高雄市,鼓山區,ChIJh5bkelAEbjQRVLuMGLflEIY,Louisa Coffee 路易莎咖啡(高雄美術館門市),22.6515511,120.2883462,4.0,808.0,1.0,"cafe,food,point_of_interest,establishment",青海路112號
+高雄市,鼓山區,ChIJ29N3zfIFbjQRNLOJjiHWPZ4,Louisa Coffee 路易莎咖啡(高雄龍德直營門市),22.6573994,120.2968966,3.8,618.0,1.0,"store,food,point_of_interest,establishment",龍德路409號
+高雄市,鼓山區,ChIJW7JsV4oDbjQRvfKA6z0lDVw,Louisa Coffee 路易莎咖啡(棧二庫門市),22.6187084,120.2778335,3.8,780.0,1.0,"cafe,food,point_of_interest,establishment",蓬萊路17號
+高雄市,鼓山區,ChIJgcLVcFAEbjQR07mcu9Bb1PM,卡啡那 美術館,22.6512528,120.2876702,4.3,4994.0,2.0,"cafe,bakery,store,food,point_of_interest,establishment",美術東二路3號
+高雄市,鼓山區,ChIJ8zqNH2UEbjQRp_1UdhLak0Y,真心豆行 - 七賢分店,22.6306673,120.2887057,4.5,477.0,2.0,"cafe,food,point_of_interest,establishment",七賢二路365號
+高雄市,鼓山區,ChIJEet8z-4FbjQRtpCUJJTd0Nc,MINI.D COFFEE 至聖館,22.6597156,120.3052708,4.5,874.0,1.0,"cafe,food,point_of_interest,establishment",至聖路250號
+高雄市,鼓山區,ChIJcwkV1nwEbjQRR_wFigS7NCw,烘豆房-自強店,22.6277369,120.2945089,4.0,112.0,,"store,food,point_of_interest,establishment",自強二路170號

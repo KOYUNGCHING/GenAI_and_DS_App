@@ -1,0 +1,17 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+新竹市,東區,ChIJXWGWksY1aDQRFrauvUJKv8w,星巴克 新竹北大門市,24.8102721,120.9690116,4.2,1191,2.0,"cafe,food,store,point_of_interest,establishment",北大路109號
+新竹市,東區,ChIJRTzE0HI2aDQRWUCg5LibBp4,星巴克 光復清大門市,24.7971631,120.996692,4.2,1198,2.0,"cafe,food,store,point_of_interest,establishment",光復路二段406號
+新竹市,東區,ChIJPau9rjc1aDQRsSxlBGUC_jM,星巴克 新竹州圖門市,24.8052159,120.9712285,4.3,682,2.0,"cafe,food,store,point_of_interest,establishment",文化街8號
+新竹市,東區,ChIJUWWAdbw1aDQRax5KGRoNK0E,星巴克 新竹竹光門市,24.8112273,120.9564486,4.2,1108,2.0,"cafe,food,point_of_interest,establishment",西大路687號
+新竹市,東區,ChIJg6NHz-o1aDQRFir5orlEqAE,星巴克 西大門市,24.8019347,120.9648374,4.0,651,2.0,"cafe,food,store,point_of_interest,establishment",西大路323號
+新竹市,東區,ChIJlVNAE141aDQREbYAaPPmb7k,STARBUCKS 星巴克 (新竹動物園門市),24.800135,120.9791945,4.5,738,2.0,"cafe,food,point_of_interest,establishment",博愛街111號1樓、2樓
+新竹市,東區,ChIJtWvN3sQ1aDQRuh-OjdNsHMM,星巴克 新竹巨城門市,24.809876,120.9744458,4.1,1210,2.0,"cafe,food,store,point_of_interest,establishment",中央路223號1樓
+新竹市,東區,ChIJpxgT_Gc1aDQRwVij48dIlTE,星巴克 新竹大魯閣門市,24.8190756,120.9697376,4.2,744,2.0,"cafe,food,point_of_interest,establishment",湳雅街91-2號
+新竹市,東區,ChIJQ553_ps1aDQRRFXMsf-WE5o,星巴克 新竹大全聯門市,24.8053763,120.9845738,3.9,188,2.0,"cafe,food,store,point_of_interest,establishment",忠孝路300號
+新竹市,東區,ChIJ76MBfAA3aDQRi_IbQ18TJnw,星巴克 瑞昱門市,24.7806554,120.9981233,4.3,39,,"cafe,food,store,point_of_interest,establishment",園區二路9號
+新竹市,東區,ChIJ-Vn8SwQ1aDQR8R28hyy3dms,星巴克 新竹台醫門市,24.8162232,120.9797103,4.0,22,2.0,"cafe,food,store,point_of_interest,establishment",經國路一段442巷25號
+新竹市,東區,ChIJV_dOzcM1aDQRWEXv2ECbYpc,市定古蹟-新竹州立圖書館 (星巴克新竹州圖門市),24.8052354,120.9711503,4.4,365,,"point_of_interest,establishment",文化街8號
+新竹市,東區,ChIJxQMcFEQ1aDQR8uxWAdYiP80,泥巴水北大店,24.8057864,120.9614839,5.0,2,,"cafe,food,store,point_of_interest,establishment",北大路346號9樓
+新竹市,東區,ChIJv0QqXU83aDQRctPD39t0-lI,Defcoffee,24.7980554,120.9961541,4.9,104,,"cafe,food,point_of_interest,establishment",建新路7號1Ｆ
+新竹市,東區,ChIJDyo8QGY1aDQRLe1RyLR-MXw,23 Coffee Roasters - 東大店,24.8097984,120.9710654,4.4,116,,"cafe,food,point_of_interest,establishment",東大路一段196號
+新竹市,東區,ChIJUSxFX4o1aDQRzzJKqAkhqtc,Louisa Coffee 路易莎咖啡 (新竹公園門市),24.8003202,120.9773452,3.9,94,1.0,"cafe,food,point_of_interest,establishment",公園路133號

@@ -1,0 +1,4 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,文山區,ChIJvw9yit8BaDQRV2eihWWzXwk,85度C 文山興隆店,24.9845895,121.5615355,4.2,183,1.0,"cafe,food,point_of_interest,establishment",興隆路四段68之6號68之6號
+台北市,文山區,ChIJ_0zQYXWqQjQR5hjHqT8bd2k,知味魯肉飯,24.9846589,121.5615121,3.8,274,1.0,"store,food,point_of_interest,establishment",興隆路四段68之4號
+台北市,文山區,ChIJG5bMqUqrQjQRaUm1XL9Ab98,MU Pâtisserie 沐林甜點烘焙坊-木柵店,24.9999507,121.5735779,4.4,194,,"bakery,store,food,point_of_interest,establishment",和平東路四段308號

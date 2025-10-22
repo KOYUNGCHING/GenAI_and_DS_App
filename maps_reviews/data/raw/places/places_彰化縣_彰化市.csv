@@ -1,0 +1,8 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+彰化縣,彰化市,ChIJTc2ANgM4aTQR5H9x6bHrfmk,STARBUCKS 星巴克 (彰化中山門市),24.0677688,120.5398159,4.1,1228,2.0,"cafe,store,food,point_of_interest,establishment",中山路二段76號
+彰化縣,彰化市,ChIJ0S1c7IM4aTQRqcq3QK6foW8,星巴克典藏™ 彰化曉陽門市,24.0740136,120.5329156,4.3,1868,2.0,"cafe,store,food,point_of_interest,establishment",曉陽路358號
+彰化縣,彰化市,ChIJH66RxPg5aTQRXA29eIa-cqk,STARBUCKS 星巴克（彰化金馬門市）,24.0960381,120.5467586,4.2,581,2.0,"cafe,store,food,point_of_interest,establishment",金馬路二段85號
+彰化縣,彰化市,ChIJi5zcHYw4aTQRACslP1zeiZg,STARBUCKS 星巴克 (彰基門市),24.0711406,120.5453869,4.1,932,2.0,"cafe,store,food,point_of_interest,establishment",旭光路235號
+彰化縣,彰化市,ChIJu498VQA5aTQRwdb3jM7aXJc,星巴克 彰基二門市,24.0716852,120.5446271,4.0,19,2.0,"cafe,store,food,point_of_interest,establishment",南校街135號
+彰化縣,彰化市,ChIJiWIPVYk4aTQR45Yi3yCi-vs,Louisa Coffee 路易莎咖啡(彰化中興店),24.0699452,120.5449028,3.7,360,1.0,"cafe,store,food,point_of_interest,establishment",中興路136號之 1
+彰化縣,彰化市,ChIJAd0_f0k5aTQReF5qTGLg0S4,Kia安亞汽車 彰化展示中心,24.091051,120.5365148,4.7,169,,"car_dealer,car_repair,store,point_of_interest,establishment",金馬路二段699號
