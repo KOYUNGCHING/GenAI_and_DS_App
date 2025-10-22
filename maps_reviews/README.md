@@ -9,7 +9,12 @@
 2. 連鎖品牌是否普遍獲得更高評價？  
 3. 價格層級與評分之間是否呈現正相關？  
 4. 哪些縣市的高價咖啡廳評價最高？
-   
+
+## 報告連結
+報告統整 https://docs.google.com/document/d/1_trkdtZWhjqde4wiOfxy-79Jz3wapQfdN-WIfVmxIDo/edit?usp=sharing
+colab link:https://colab.research.google.com/drive/1MGVZW5loRnklkX0X2W7wvZxRjFZttSmK?usp=sharing
+
+
 ## 使用步驟（簡版）
 1. `git checkout -b feature/maps-reviews`
 2. `cd maps_reviews && python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
