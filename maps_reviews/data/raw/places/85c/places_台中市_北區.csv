@@ -1,0 +1,16 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台中市,北區,ChIJQTrgVhM9aTQRkot9weBeX6k,85度C咖啡蛋糕飲料麵包-台中自由店,24.1409445,120.6829352,3.7,853,1.0,"cafe,bakery,store,food,point_of_interest,establishment",成功路152號
+台中市,北區,ChIJUWqhFWY9aTQRXifZRVMEUx4,85度C咖啡蛋糕飲料烘焙-台中健行店,24.159238,120.6798435,4.0,1004,1.0,"cafe,bakery,store,food,point_of_interest,establishment",健行路480號
+台中市,北區,ChIJsQBKPNwXaTQRUbu8Ob8qrK8,85度C咖啡蛋糕飲料麵包-台中崇德店,24.168565,120.684894,4.0,646,1.0,"point_of_interest,establishment",崇德路二段1號
+台中市,北區,ChIJ8Yj7LVA9aTQRRsF7MaKPsuE,85度C 咖啡蛋糕飲料-太平中山店,24.1482516,120.703035,3.6,561,1.0,"cafe,food,point_of_interest,establishment",中山路四段174號
+台中市,北區,ChIJsQBKPNwXaTQRIdkPHpnXBrk,85度C咖啡蛋糕飲料麵包 台中昌平店,24.1767665,120.6904667,3.5,591,1.0,"cafe,food,point_of_interest,establishment",昌平路一段454號
+台中市,北區,ChIJlzR3iJ09aTQRz5lS0AeePbM,85度C 咖啡蛋糕飲料-台中英才店,24.1524663,120.6659501,3.9,324,1.0,"cafe,food,point_of_interest,establishment",英才路462號
+台中市,北區,ChIJHSbytCYWaTQRgcvTa6H3Ie8,85度C咖啡蛋糕飲料烘焙 台中漢口店,24.1664676,120.6640144,3.9,464,1.0,"cafe,restaurant,food,point_of_interest,establishment",漢口路二段219號
+台中市,北區,ChIJMaNuoxgYaTQRPuqPZLpebiY,85度C咖啡蛋糕飲料麵包-台中東山店,24.1700674,120.7083958,3.6,416,1.0,"cafe,bakery,store,food,point_of_interest,establishment",東山路一段156之10號
+台中市,北區,ChIJUWqhFWY9aTQR55_b1jCNeJE,85度C咖啡蛋糕飲料烘焙-台中北平店（直營）,24.1714719,120.6745122,3.7,656,1.0,"cafe,food,point_of_interest,establishment",北平路二段78號
+台中市,北區,ChIJuWfCjHkXaTQRG_ZEwXZEgSA,Caster Coffee C.P,24.1709606,120.6848926,4.8,179,,"store,food,point_of_interest,establishment",崇德路二段101號1樓
+台中市,北區,ChIJw-_K-t4XaTQRo2jucpL_3lw,多那之 台中崇德門市,24.1654031,120.6852588,3.7,1194,2.0,"bakery,cafe,store,food,point_of_interest,establishment",崇德路一段508號
+台中市,北區,ChIJlRBVUUI9aTQRaWSfjEYNZ1w,ORIG BLACK Coffee 美村店,24.1492894,120.6614915,4.7,520,,"store,restaurant,food,point_of_interest,establishment",美村路一段206號
+台中市,北區,ChIJv67YDEE9aTQRr9EGZEaSih0,梅笙蛋糕工作室1店(進德店),24.143198,120.692401,4.4,714,2.0,"bakery,store,food,point_of_interest,establishment",進德路154號
+台中市,北區,ChIJ3WPx6WM9aTQRU9U82pfnbtM,梅笙蛋糕工作室2店（永興店）,24.1587999,120.6822827,4.4,651,2.0,"bakery,store,food,point_of_interest,establishment",永興街23號
+台中市,北區,ChIJ9-aPJAI9aTQRW2_PEbT3IbU,洪瑞珍食品有限公司,24.1399505,120.6806563,4.1,3207,2.0,"bakery,store,restaurant,food,point_of_interest,establishment",中山路125-2號

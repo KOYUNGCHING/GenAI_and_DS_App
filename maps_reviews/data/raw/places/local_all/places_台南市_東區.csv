@@ -1,0 +1,61 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台南市,東區,ChIJkczc52N2bjQRCsewjQtsPEk,道南館 自家烘焙咖啡館,22.995927,120.2006268,4.6,769,2.0,"cafe,food,point_of_interest,establishment",民權路二段248號
+台南市,東區,ChIJVWRw-X13bjQRIj_-W_2uqBA,NOTHING but coffee,22.9925433,120.2209058,4.8,246,,"cafe,store,food,point_of_interest,establishment",東寧路15巷14號
+台南市,東區,ChIJvfO_R-J3bjQRwT19oopIt3I,1 PLUS CAFE 一家咖啡 台南西門店,23.0105132,120.2062212,4.9,646,,"cafe,food,point_of_interest,establishment",西門路四段171巷19弄6-10號
+台南市,東區,ChIJ35Uy5CZ0bjQRAbAUzbf9C_k,巷隅咖啡,22.9731759,120.2206536,4.8,832,2.0,"cafe,food,point_of_interest,establishment",中華東路三段399巷5號
+台南市,東區,ChIJG3FpOCd0bjQRxzOJfj5zDbk,咖啡部屋｜咖啡｜下午茶｜輕食點心｜異國餐點｜內用外帶,22.974472,120.2213691,4.8,694,2.0,"cafe,restaurant,food,point_of_interest,establishment",中華東路三段332號
+台南市,東區,ChIJ_zaS0WR2bjQRuMk5Cyti8xI,Barista Ray Coffee,22.9910406,120.2019579,4.5,1127,2.0,"cafe,store,food,point_of_interest,establishment",友愛街22號
+台南市,東區,ChIJacVFtfh3bjQRis2xST2Zank,你聽我說COFFEE HOLLOW,22.9942125,120.200557,4.9,378,,"cafe,store,food,point_of_interest,establishment",民生路一段148號
+台南市,東區,ChIJm65KbSt3bjQR6g2AOlTeF5o,在古董咖啡,22.9795717,120.2083783,5.0,477,2.0,"cafe,home_goods_store,store,food,point_of_interest,establishment",體育路41巷30之1號
+台南市,東區,ChIJSdp4UWd3bjQRkwekZgNgCt8,古意人咖啡,22.9840821,120.2045425,4.9,238,,"cafe,store,food,point_of_interest,establishment",南門路227巷11號
+台南市,東區,ChIJk0p6Q5B3bjQRD5arzwCgVxs,MR GOOD 古德先生澳式咖啡 忠義店,22.9893082,120.2022736,4.9,552,,"cafe,bar,store,restaurant,food,point_of_interest,establishment",忠義路一段102號 中間號那間
+台南市,東區,ChIJHSd_fBF1bjQR2roSktc4BGY,MINI.D COFFEE 崇德館,22.9666318,120.2273808,4.6,1019,,"cafe,store,food,point_of_interest,establishment",崇明二十四街82號
+台南市,東區,ChIJRbN9c_53bjQRtmYrD_LWLLU,"B.B.Cafe 小黑熊咖啡(週一固定店休，其他店休請看Google Map, IG或來電詢問)",22.9944431,120.2052155,5.0,107,,"cafe,store,restaurant,food,point_of_interest,establishment",民權路二段48號2樓
+台南市,東區,ChIJh6ZruGd3bjQRRvu4vMx_VKk,密境咖啡 Mystery Coffee | 精品咖啡 | 咖啡豆批發 | 濾掛咖啡,22.9963671,120.2333729,5.0,71,,"cafe,store,food,point_of_interest,establishment",莊敬路158巷6號
+台南市,東區,ChIJKUoSp8B3bjQR77ZH_GqjFT0,睦美咖啡Mu Mei Cafe,22.9989255,120.2272056,4.9,139,,"cafe,store,restaurant,food,point_of_interest,establishment",小東路198巷40弄18號
+台南市,東區,ChIJv9IWwT53bjQRUnv03yItOF0,HaaaO2 含氧咖啡,22.9778626,120.2243913,4.9,151,,"cafe,store,food,point_of_interest,establishment",崇德四街7巷47號1F
+台南市,東區,ChIJkb46LuV3bjQR-aR2BYzYgcM,咖啡候機室 台南大同店,22.9832764,120.2112978,4.8,57,,"cafe,store,food,point_of_interest,establishment",大同路一段231號
+台南市,東區,ChIJP1Mra4l2bjQRMvTvyle_pCw,ALFEE Coffee 台南艾咖啡,22.9934535,120.2093014,4.5,391,1.0,"cafe,food,point_of_interest,establishment",西華南街15號1樓
+台南市,東區,ChIJuXZBK492bjQR77v1Dtavras,木華咖啡 Hua Coffee,22.9922857,120.2059518,4.7,173,,"cafe,food,point_of_interest,establishment",青年路12號
+台南市,東區,ChIJ84anjNR3bjQRLL6kFNPkLt8,太卡啡Time For Coffee東安店,22.9943239,120.2268708,4.8,140,2.0,"cafe,food,point_of_interest,establishment",東安路146-1號
+台南市,東區,ChIJgRWSEOV3bjQRBe7UgH_A2xY,古董咖 Antique Café,22.9900818,120.2082347,4.8,245,,"cafe,food,point_of_interest,establishment",城隍街39號
+台南市,東區,ChIJY9SAxJF2bjQRnO0kJ9CJnBQ,二子（不定休、無訂位）,22.9666716,120.2365308,4.7,449,1.0,"cafe,food,point_of_interest,establishment",城東街66號
+台南市,東區,ChIJw3u5sNp3bjQR4itZ8tJN4c8,Y café森活轉角 照顧咖啡館,23.0000209,120.224945,4.9,81,,"cafe,food,point_of_interest,establishment",林森路二段500號A棟1樓
+台南市,東區,ChIJEwCxssZ2bjQRDAoS53H-RG4,MIX Coffee,22.9997968,120.2340207,4.8,189,1.0,"cafe,food,point_of_interest,establishment",中華路23巷9號
+台南市,東區,ChIJKbqsQFd3bjQRUmk2TxfGfjk,IBT COffee,22.9894706,120.2059422,4.5,305,,"cafe,food,point_of_interest,store,establishment",開山路122巷54號
+台南市,東區,ChIJY3F6_492bjQRDcO6nwdpNWw,城東合作咖啡,22.9880637,120.2164975,4.7,775,2.0,"cafe,restaurant,food,point_of_interest,establishment",東門路一段211巷13號
+台南市,東區,ChIJlfksz7d3bjQRDVMBcOgSCxU,握咖啡台南赤崁店,22.9984181,120.2039787,4.4,679,2.0,"cafe,food,point_of_interest,store,establishment",成功路223號與赤崁東街口 早安美芝城巷弄進來第一間後棟
+台南市,東區,ChIJSRwdHdp3bjQRHplxUYMXxO8,Coffee Nonstop不停咖啡室,22.9986942,120.2303395,4.7,203,,"cafe,food,point_of_interest,store,establishment",東和路9號
+台南市,東區,ChIJae5fAoR2bjQR2JHOO39V72k,基因咖啡 Espresso Bar & Specialty Coffee,22.9840829,120.2106054,4.5,483,1.0,"cafe,food,point_of_interest,store,establishment",府連路127號
+台南市,東區,ChIJP3JZXCh3bjQRHqehLICnQac,Cross Café克勞斯咖啡店（台南店）,22.9976257,120.2065063,4.7,159,,"cafe,food,point_of_interest,store,establishment",公園路129號
+台南市,東區,ChIJfwFtjpN2bjQRznvF-RENbqI,賦于咖啡FuYu Cafe[公休:ig公告為主]禁七歲以下孩童〔寵物友善〕,22.9939711,120.2218295,4.6,399,2.0,"cafe,food,point_of_interest,store,establishment",長榮路三段76號
+台南市,東區,ChIJy2RNUVR3bjQR0E1fxlZiwpU,波斯納書店咖啡館 Posner Bookstore Cafe,22.9960207,120.2169717,5.0,96,,"cafe,food,point_of_interest,establishment",勝利路171巷10號
+台南市,東區,ChIJEUVp3nV3bjQRkE0G7ZN1npA,I'M COFFEE 大學店,22.9959125,120.2186459,4.4,250,,"cafe,food,point_of_interest,establishment",勝利路118號
+台南市,東區,ChIJkXNctu53bjQRRJOPYtzu9U0,REVIVAL COFFEE ROASTERS/溫故知新咖啡館,22.9911483,120.2054839,4.4,351,,"cafe,food,point_of_interest,establishment",南門路37號1室
+台南市,東區,ChIJt8zVli90bjQRwn_fz58baIQ,這裏有咖啡 [10/10-10/24公休],22.9689614,120.215433,4.9,229,,"cafe,food,point_of_interest,store,establishment",大同路二段634號
+台南市,東區,ChIJ0f3Y8Lt2bjQRD4z1RdQyN2k,神汸萃咖啡裕農門市,22.9887343,120.2343821,4.8,217,1.0,"cafe,food,point_of_interest,establishment",裕農路591號1樓
+台南市,東區,ChIJS0lFTNJ3bjQRHNbsvBS1j2k,安內咖啡 An Coffee 成功外帶店,22.9989021,120.203964,4.7,35,,"cafe,food,point_of_interest,establishment",成功路184號
+台南市,東區,ChIJUWPUZuh2bjQRK4LlNcGNrkg,雷克斯咖啡吧,23.0063328,120.2257369,4.8,341,,"cafe,food,point_of_interest,establishment",南園街153巷2號
+台南市,東區,ChIJQbONAwB3bjQRPJomgJU1Rp4,真與舊法式古董咖啡店,22.9872675,120.2165083,4.7,29,,"cafe,food,point_of_interest,establishment",東門路一段210號
+台南市,東區,ChIJg5P0NgB3bjQRK6asE0jx17Q,昇陞咖啡shēngshēng coffee - 台南東區咖啡店推薦 咖啡廳 雞蛋糕 手沖咖啡 在地美食 必吃 探店 人氣食記 網紅餐廳 打卡熱門景點 寵物友善 活動包場,22.9828513,120.2273942,4.8,127,,"cafe,restaurant,food,point_of_interest,store,establishment",東門路二段343號
+台南市,東區,ChIJv8efU9p1bjQREEijEX1f-K8,118咖啡,22.9703311,120.2109933,4.6,40,,"cafe,food,point_of_interest,store,establishment",中華南路一段178號
+台南市,東區,ChIJj7to-9x2bjQRJ7Ub8yQvJKY,街客咖啡,23.0082908,120.2315972,4.7,225,2.0,"cafe,food,point_of_interest,store,establishment",中華二路381號
+台南市,東區,ChIJBa_TbHx2bjQRm_bTJ3I2e5s,Carpenter 木匠手烘咖啡-永福店,22.9873228,120.2002478,4.7,370,1.0,"cafe,food,point_of_interest,establishment",永福路一段82號1 樓
+台南市,東區,ChIJVQWgan12bjQRKDZjyiRK2AI,菓溱是咖啡館,22.9890616,120.2037677,4.5,160,2.0,"cafe,restaurant,food,point_of_interest,establishment",府前路一段221號
+台南市,東區,ChIJS_V1K1R3bjQRxS5-iEWwFIU,上島咖啡台南店,22.979511,120.2185821,4.9,43,,"cafe,food,point_of_interest,store,establishment",崇明路147號
+台南市,東區,ChIJE1XuapJ2bjQRRHCH0BxFnXg,台南-CHADOR,22.9944711,120.2179277,4.3,945,2.0,"cafe,food,point_of_interest,store,establishment",勝利路115-1號
+台南市,東區,ChIJQwYl3CN3bjQRkqolX8QrSPk,HWC coffee | 黑沃咖啡 | 台南南一擁糧店,22.9957872,120.2096829,4.3,68,2.0,"cafe,food,point_of_interest,establishment","中山路125 號之 69, 70"
+台南市,東區,ChIJyXLzbZR2bjQRxhXiCn2V8M4,For you espresso 為你·煮咖啡,22.9935186,120.2231725,4.5,252,,"cafe,food,point_of_interest,establishment",長榮路三段66巷62-1號
+台南市,東區,ChIJyUBLYIl2bjQRVDbhnOGO4eQ,django決哥手烘咖啡吧,22.9942934,120.2098499,4.6,401,1.0,"cafe,food,point_of_interest,establishment",民族路二段63號
+台南市,東區,ChIJU6aYFJNzbjQRc6qzBlSPh1Q,Louisa Coffee 路易莎咖啡(成大勝利店),22.9948294,120.2179589,4.3,507,1.0,"cafe,food,point_of_interest,establishment",勝利路125號
+台南市,東區,ChIJ51eycm13bjQRlVhPMbZtE48,洄響咖啡 In echo cafe,22.9865877,120.2288727,4.7,83,2.0,"cafe,food,point_of_interest,establishment",裕農路310號
+台南市,東區,ChIJozSX4953bjQRkTKMPOnIAsA,潤珈琲 Lub. Café,22.9840763,120.2108075,5.0,24,,"cafe,food,point_of_interest,store,establishment",府連路132號
+台南市,東區,ChIJnzn-cVB3bjQRZ-IxeH4legM,銅板咖啡,22.9949307,120.2036149,4.4,236,1.0,"cafe,food,point_of_interest,establishment",民權路二段116號
+台南市,東區,ChIJjcg8fWB3bjQRlNIhgSKNsSU,CUP&GO前鋒來速咖啡,23.0045866,120.2150432,4.5,84,,"cafe,food,point_of_interest,establishment",前鋒路283號
+台南市,東區,ChIJKSejlIl2bjQR0R5HFKGTPSU,寮國咖啡,22.9943738,120.2068356,4.6,415,1.0,"cafe,food,point_of_interest,establishment",中山路79巷60號
+台南市,東區,ChIJZaiyVL52bjQRcxjJZEUa6s0,Map Cafe 旅圖咖啡,22.9928271,120.2307991,4.5,120,1.0,"cafe,food,point_of_interest,establishment","No. 25號, 凱旋路"
+台南市,東區,ChIJ38Y89013bjQRXALcsesHTuE,雷巴咖啡烘焙道場-山形店(外帶專門),23.0003126,120.2334495,5.0,42,,"cafe,food,point_of_interest,store,establishment",小東路423巷16-3號
+台南市,東區,ChIJ9VqQ4od2bjQR21EwKeN8AEc,海洋微風輕食咖啡館,22.9900974,120.2059572,4.9,163,,"cafe,food,point_of_interest,establishment",府中街103號孔廟商圈1樓
+台南市,東區,ChIJH3k4sbx2bjQRGqPAMvDK5xw,福沃滋｜精品咖啡,22.9849174,120.2329362,4.2,341,1.0,"cafe,food,point_of_interest,establishment",中華東路二段181號
+台南市,東區,ChIJU7HRpbB3bjQRy539f_7SJiY,車庫咖啡,22.9875711,120.24465,4.9,34,,"cafe,food,point_of_interest,store,establishment",裕和路308號
+台南市,東區,ChIJdwbzKQBxbjQRZVhReh2UJ1s,歐拉拉咖啡 OLaLa咖啡( 公告依IG、FB公佈),22.998692,120.253041,5.0,20,,"cafe,food,point_of_interest,establishment","旁, 停車場中島, No. 258號崑大路"

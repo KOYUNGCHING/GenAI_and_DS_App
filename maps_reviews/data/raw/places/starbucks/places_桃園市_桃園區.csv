@@ -1,0 +1,14 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+桃園市,桃園區,ChIJQT3dz7EfaDQRGOp5kfuqank,STARBUCKS 星巴克 桃園藝文門市,25.0145768,121.30052,4.2,1250,2,"cafe,store,food,point_of_interest,establishment",同德五街61號
+桃園市,桃園區,ChIJb7SVbvweaDQRkQG4Tm2zD_8,星巴克 桃園成功門市,24.993092,121.3131688,4.2,1167,2,"cafe,store,food,point_of_interest,establishment",成功路一段2-1號
+桃園市,桃園區,ChIJ3W4my4kfaDQRYIeUxLgtN34,星巴克 桃園國際門市,24.9995773,121.2881597,4.2,959,2,"cafe,store,food,point_of_interest,establishment",國際路二段468號
+桃園市,桃園區,ChIJL3XdmZYfaDQRD9ydfo_HRiQ,星巴克 桃園春日門市,25.0025954,121.3138482,4.3,445,2,"cafe,store,food,point_of_interest,establishment",春日路372號
+桃園市,桃園區,ChIJbWmsxhQfaDQRzzl5dlBetsU,STARBUCKS 星巴克 (桃園中山門市),24.9886446,121.2864945,4.2,740,2,"cafe,food,point_of_interest,establishment",中山路879號
+桃園市,桃園區,ChIJaXdf6ckfaDQRFctr9Z90Guc,星巴克 經國二門市,25.0252042,121.30138,4.2,835,2,"cafe,store,food,point_of_interest,establishment",經國路737號
+桃園市,桃園區,ChIJ07HthQQfaDQRJ4ZjWQqHvOY,星巴克 桃園縣府門市,24.9944782,121.3020477,4.2,998,2,"cafe,food,point_of_interest,establishment",縣府路116號
+桃園市,桃園區,ChIJrbSsM_AfaDQRyAMqXM921o8,星巴克（桃園總圖門市）,25.0181789,121.3003811,3.9,176,2,"cafe,store,food,point_of_interest,establishment",南平路301號
+桃園市,桃園區,ChIJKWJHoq8faDQRhvyr8winaKM,統一星巴克 桃興門市,25.0119066,121.2983964,4.1,972,2,"cafe,store,food,point_of_interest,establishment",大興西路二段76巷6號
+桃園市,桃園區,ChIJg5z_prMfaDQRHUetMbeOsnA,STARBUCKS 星巴克 經國門市,25.0163191,121.3049942,4.0,647,2,"cafe,store,food,point_of_interest,establishment",經國路369號
+桃園市,桃園區,ChIJRaJ8rPweaDQRaCXfXJhCQiw,星巴克 桃園遠百門市,24.9897253,121.3137634,3.9,483,2,"cafe,store,food,point_of_interest,establishment","b1 No, No. 20號中正路"
+桃園市,桃園區,ChIJ7bkbqeQeaDQRxPrchUjR1Uo,星巴克（桃園臺鐵門市）,24.9888878,121.3143681,3.7,380,2,"cafe,food,point_of_interest,establishment",中正路1號2樓
+桃園市,桃園區,ChIJJYE-EbcfaDQRV4Jgi5GQs7I,Louisa Coffee 路易莎咖啡(桃園中正門市),24.9926279,121.3119931,3.3,879,1,"cafe,food,point_of_interest,establishment",中正路103號

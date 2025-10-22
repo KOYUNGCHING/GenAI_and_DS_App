@@ -1,0 +1,61 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,信義區,ChIJPzzGHvurQjQRP-5UfEESPZM,南京貳叄咖啡 Nanjing23 Cafe,25.052309,121.5581002,4.9,116,,"cafe,food,point_of_interest,store,establishment",南京東路五段23巷6弄1-5號
+台北市,信義區,ChIJs3f9sRKrQjQREWcG4NtoZdY,NeXT Coffee 下一杯咖啡 | 咖啡廳 | 精品咖啡 | 西西里 | 水果茶 | 甜點 | 檸檬蛋糕 | 布朗尼 | 肉桂卷 | 工業風 | 復古風 | 沙發座椅 | 餅乾禮盒,25.0288213,121.5575391,5.0,48,,"cafe,restaurant,food,point_of_interest,store,establishment",嘉興街131號1樓
+台北市,信義區,ChIJKYOLiBGrQjQRdh8L5KE3YS4,豐咖啡 松山店,25.0542792,121.5620889,4.8,124,2.0,"cafe,food,point_of_interest,establishment",健康路195號
+台北市,信義區,ChIJJxk04eqrQjQRjpOFZEerukE,ASK for Cafe | 咖啡 輕食 工作空間 寵物友善餐廳,25.0519186,121.5626265,4.8,203,,"cafe,bakery,food,point_of_interest,store,establishment",南京東路五段163-3號
+台北市,信義區,ChIJNecpT2SrQjQRlSwKa_vgBv4,九日咖啡（復興店）9 Days Coffee,25.0513241,121.5437946,4.7,247,1.0,"cafe,meal_delivery,bakery,restaurant,food,point_of_interest,store,establishment",復興北路88號
+台北市,信義區,ChIJb_SbINSrQjQR5IYvheBv2PE,有kaffe冇/台北手沖咖啡 台北咖啡豆 大安區咖啡廳 大安區咖啡豆 忠孝復興咖啡廳 忠孝復興咖啡豆,25.0371182,121.5410407,4.7,354,2.0,"cafe,food,point_of_interest,establishment",信義路三段147巷36弄24號
+台北市,信義區,ChIJK_BQd8-rQjQRrrEHdDAOqXM,Tzubi coffee,25.0393619,121.5515775,4.3,889,2.0,"cafe,food,point_of_interest,establishment",安和路一段21巷24號
+台北市,信義區,ChIJV2-CyPKrQjQRm-UOCra_X-g,HAPI CAFE 台北旗艦店,25.0390418,121.557448,4.6,773,2.0,"cafe,restaurant,food,point_of_interest,store,establishment",光復南路302號
+台北市,信義區,ChIJx5pbLJCrQjQR-bUq5x-2j2s,Sky Cofi 咖啡館,25.0520768,121.5462024,4.7,601,,"cafe,restaurant,food,point_of_interest,store,establishment",南京東路三段287號16樓
+台北市,信義區,ChIJV_BUy3qrQjQRKDEZ3o_zD6Q,UUCAFE 北歐精品咖啡 台北概念店,25.0427826,121.5656683,4.9,110,,"cafe,food,point_of_interest,store,establishment",基隆路一段145號一樓
+台北市,信義區,ChIJgRbU1SKrQjQREeIz-NXP5_g,Oasis Coffee Roasters - Nanjing,25.0529187,121.5474658,4.7,217,,"cafe,food,point_of_interest,establishment",南京東路三段335巷13-1號
+台北市,信義區,ChIJV-5wyASrQjQRJrUM3cE9X9o,kafeD 台北101店,25.0337938,121.5648629,4.5,482,,"cafe,food,point_of_interest,store,establishment",信義路五段7號89樓
+台北市,信義區,ChIJT2Oz1pKrQjQRRnykvhE9Bns,ALL DAY ROASTING COMPANY 民生店,25.0568643,121.5602372,4.4,2205,2.0,"cafe,food,point_of_interest,establishment",延壽街329號1樓
+台北市,信義區,ChIJY-JuuXOrQjQRZA5wqDOYtFY,Oasis Coffee Roasters - Anhe,25.0340488,121.5517352,4.6,682,2.0,"cafe,food,point_of_interest,establishment",信義路四段199巷7-3號
+台北市,信義區,ChIJgzu_3EqrQjQRygLRQcZKTts,咖啡屋 珈琲や 台北松山工房,25.0500307,121.5788363,4.5,729,2.0,"cafe,food,point_of_interest,establishment",八德路四段758號
+台北市,信義區,ChIJeytXpc2rQjQRr5wP80LPwTQ,Congrats Café,25.0329519,121.5505806,4.4,1376,2.0,"cafe,food,point_of_interest,store,establishment",文昌街49號
+台北市,信義區,ChIJpf_DTsirQjQRM5BI04uxHWI,Museum Coffee 50年代博物館咖啡,25.0362492,121.5580065,4.7,984,2.0,"cafe,museum,restaurant,food,point_of_interest,establishment",光復南路421巷9-1號
+台北市,信義區,ChIJWwAHEg-rQjQRM4fkMLY5EeA,暖窩咖啡信義永春店,25.0428777,121.5754904,4.9,136,,"cafe,food,point_of_interest,store,establishment",忠孝東路五段423巷50號1樓
+台北市,信義區,ChIJnzS1TEurQjQRigcsV0RpA8U,Coffee by U co.,25.044065,121.562883,4.6,46,,"cafe,restaurant,food,point_of_interest,store,establishment",忠孝東路四段553巷42-1號1樓
+台北市,信義區,ChIJOSbdSz2rQjQRtqbdUdBUfr8,布納咖啡館 信義館｜網美餐廳｜下午茶｜早午餐｜聚餐｜慶生｜包場｜包廂,25.0331987,121.5594265,4.7,3406,2.0,"restaurant,cafe,food,point_of_interest,establishment",信義路四段415之3號
+台北市,信義區,ChIJCcE6D-urQjQRmMoqrBnbLso,鉑珈荳子,25.0393016,121.5771431,5.0,21,,"cafe,restaurant,food,point_of_interest,store,establishment",松德路22號
+台北市,信義區,ChIJZ7B5RRerQjQRUYpjFzzwdHU,HOOD COFFEE,25.0400544,121.5472278,4.7,163,,"cafe,food,point_of_interest,store,establishment",仁愛路四段71巷28-3號
+台北市,信義區,ChIJxWTf08SrQjQR9nCBczJII1c,雲卷雲舒 La Nubes 精品咖啡．身心靈空間,25.0523771,121.5557471,4.9,113,2.0,"cafe,food,point_of_interest,establishment",南京東路四段133巷5弄16號1樓
+台北市,信義區,ChIJibZ1qP6rQjQR6p8ApU4WkvU,(beanroom) - 咖啡豆 Coffee Beans / 咖啡內用 Dine-in coffee,25.0439012,121.549808,4.9,57,,"cafe,food,point_of_interest,establishment",忠孝東路四段181巷40弄20號1樓
+台北市,信義區,ChIJuwSAUgKrQjQRcoehOnVjvHo,根本在旅行,25.0431582,121.5631859,4.7,357,,"cafe,food,point_of_interest,store,establishment",忠孝東路四段553巷22弄4-1號
+台北市,信義區,ChIJU44ddXirQjQRXl6nayWdmHI,香瓜咖啡 Melon Coffee,25.0508853,121.5446617,4.7,240,,"cafe,food,point_of_interest,store,establishment",南京東路三段256巷21號僅有一樓
+台北市,信義區,ChIJCYjCVQWsQjQRO0JyJQjbWhU,樂悅咖啡館 / 精品咖啡 / 觀音卡占卜 /複合式咖啡,25.0435236,121.5683465,4.9,102,,"cafe,food,point_of_interest,establishment",永吉路30巷102弄13號
+台北市,信義區,ChIJOYPRMS6qQjQRTi9a5xoTSd4,大爆咖啡 BOOM coffee roasters,25.0228101,121.5475394,4.3,609,2.0,"cafe,bakery,food,point_of_interest,store,establishment",敦化南路二段200巷16號
+台北市,信義區,ChIJsTD170irQjQR3GMN6s2BMJY,兜麥咖啡大安店,25.0234586,121.5436651,4.6,151,,"cafe,food,point_of_interest,establishment",復興南路二段341號一樓
+台北市,信義區,ChIJCdBOMP6rQjQRPExzFfbBQ9k,Fika Fika Cafe A13,25.0368519,121.5677823,4.3,760,,"cafe,food,point_of_interest,store,establishment",松仁路58號 號B3
+台北市,信義區,ChIJDy5K6GurQjQRwCnRqYoXBpo,Coffee blablabla 松德,25.0362076,121.5749578,4.6,117,1.0,"cafe,food,point_of_interest,establishment",松德路169號
+台北市,信義區,ChIJqz2hKjeqQjQR-gpoOOgQRts,PearNature 梨本,25.0208564,121.5542082,4.5,214,2.0,"cafe,food,point_of_interest,establishment",安居街34巷6號
+台北市,信義區,ChIJ4xjH9ierQjQR169ymBtb2Fw,CURISTA COFFEE奎士咖啡 新光A11店,25.0365446,121.5672369,4.5,192,,"cafe,food,point_of_interest,establishment",松壽路11號2樓
+台北市,信義區,ChIJv9NDQACrQjQRoIiLhqrOdnw,暖嶼咖啡所 Warm Island & Coffee｜自烘咖啡所,25.046674,121.545885,4.8,77,,"cafe,food,point_of_interest,store,establishment",八德路二段346巷7弄42號
+台北市,信義區,ChIJf6FaKTirQjQRVWaZiD55weI,Oguri Coffee 小栗原珈琲・咖啡,25.044913,121.577973,4.7,381,,"cafe,food,point_of_interest,store,establishment",松山路221號
+台北市,信義區,ChIJAYCMh9yrQjQRnRzCnR3athA,Full of Beans 充滿豆豆咖啡,25.047833,121.541085,4.7,215,2.0,"cafe,food,point_of_interest,establishment",龍江路21巷9之6號號1樓
+台北市,信義區,ChIJu6zFktGrQjQRsEF_hRn3JWc,Kafemera 卡菲米朗精品咖啡館,25.036612,121.5469985,4.6,320,2.0,"cafe,food,point_of_interest,store,establishment",大安路一段175巷11號
+台北市,信義區,ChIJv8VDQ8irQjQRr_fwwmEaDvA,打卡咖啡館,25.0369913,121.5577641,4.3,413,1.0,"cafe,food,point_of_interest,store,establishment",光復南路415-3號
+台北市,信義區,ChIJdyN9F_mrQjQRpTAtu12_-c4,Cafe insomnie,25.0465146,121.5430856,4.7,258,2.0,"cafe,food,point_of_interest,establishment",復興南路一段30巷14號
+台北市,信義區,ChIJSePciUirQjQRhIzSuQJi65U,CAFE!N 硬咖啡 延吉門市,25.0411395,121.5544446,4.1,830,,"cafe,food,point_of_interest,establishment",忠孝東路四段250-2號
+台北市,信義區,ChIJNVTXAWqrQjQRVQ7W_r1muwA,RE- COFFEE LAW 再再基地 (不提供訂位服務）,25.0401563,121.5635514,4.2,31,,"cafe,food,point_of_interest,store,establishment","B1, No. 200號基隆路一段"
+台北市,信義區,ChIJYQ_vH-urQjQRharbCC_YFbs,1/2 CAFÉ,25.0517241,121.5584902,4.2,483,2.0,"cafe,food,point_of_interest,establishment","35號, 南京東路五段"
+台北市,信義區,ChIJd6N2gW-sQjQR125Jb-E4ruQ,《 Oh！Café 》握咖啡台北店—咖啡與豆專賣,25.0310854,121.560314,4.4,634,2.0,"cafe,food,point_of_interest,establishment",吳興街55號一樓
+台北市,信義區,ChIJYSdFIk6rQjQR8WThTjst3BM,ABG COFFEE 台北信安店,25.0250894,121.5597663,4.2,315,,"cafe,food,point_of_interest,store,establishment",信安街103巷22號
+台北市,信義區,ChIJr99VEp6rQjQRnl0xZf_paLs,For All Coffee,25.0481266,121.5814968,4.6,357,1.0,"cafe,food,point_of_interest,establishment","No. 1, No. 115玉成街52巷"
+台北市,信義區,ChIJoV5Vt-CrQjQRX99q0bEVO_k,Le Park Cafe公園咖啡館,25.0538831,121.5420318,4.5,1452,2.0,"cafe,food,point_of_interest,store,establishment",遼寧街146號
+台北市,信義區,ChIJqc0HUNCrQjQRaVFxGqEdNo8,FOMO COFFEE,25.0390158,121.5463067,4.1,700,,"cafe,food,point_of_interest,establishment",大安路一段125號
+台北市,信義區,ChIJDRMDkcirQjQRb7tVfD7DRnY,NORMAL COFFEE 仁愛店,25.0379866,121.5560285,4.4,392,2.0,"cafe,food,point_of_interest,store,establishment",仁愛路四段413號
+台北市,信義區,ChIJvWsy2ZSrQjQRxcmq7LilQsY,咖啡講(南五店),25.0511697,121.5608776,4.1,403,1.0,"cafe,food,point_of_interest,store,establishment",南京東路五段68之1號
+台北市,信義區,ChIJo4Ncs1mrQjQR6NbTBW7-B40,客美多咖啡 Komeda's Coffee 敦南信義店,25.0327206,121.5491577,4.1,1201,2.0,"cafe,food,point_of_interest,store,establishment",敦化南路二段9號
+台北市,信義區,ChIJdwl0FuSrQjQRdYCD1jXo4e4,CAFE!N 硬咖啡 復北門市,25.0508981,121.5438184,4.1,422,,"cafe,food,point_of_interest,establishment",復興北路76號
+台北市,信義區,ChIJA4wENpSrQjQR4B_YtrLbFwQ,Caffe LaVita 咖啡趣,25.0501012,121.5463232,4.2,132,2.0,"cafe,restaurant,food,point_of_interest,establishment",敦化北路4巷21號1樓
+台北市,信義區,ChIJLxY3ANCrQjQRP2uJyfvvDNo,COFFEE LOVER's PLANET 遠東SOGO台北敦化店,25.0402774,121.5484173,4.4,1436,3.0,"cafe,food,point_of_interest,establishment","B1, No. 246號敦化南路1段"
+台北市,信義區,ChIJtczSR--rQjQRHLBL3YF8mJU,莫凡彼咖啡館 微風松高,25.038489,121.5673837,4.3,190,,"cafe,restaurant,food,point_of_interest,store,establishment","3樓, No. 16號松高路"
+台北市,信義區,ChIJTc05q9qrQjQRIIQb0cRJWqY,老咖啡館,25.0409425,121.5483811,4.1,1983,2.0,"cafe,food,point_of_interest,establishment",敦化南路1段228號2樓
+台北市,信義區,ChIJIXPAgRerQjQRnPZU02O95QM,客美多咖啡 Komeda‘s Coffee - 小巨蛋店,25.0519465,121.5496206,3.8,743,2.0,"cafe,food,point_of_interest,establishment",南京東路四段11號
+台北市,信義區,ChIJ0Uo57rSrQjQRdFIHysVIoCc,MORE&MORE COFFEE ROASTERY,25.0284502,121.5636392,4.7,211,,"cafe,food,point_of_interest,store,establishment",莊敬路289巷4弄24號
+台北市,信義區,ChIJLdvc1hOrQjQRinVKYUcBe5s,客美多咖啡 忠孝光復店,25.0398581,121.5574696,3.9,912,2.0,"cafe,food,point_of_interest,establishment",光復南路268號1樓
+台北市,信義區,ChIJ-eGUqrurQjQRYWrEkZUAfkg,客美多咖啡 Komeda‘s Coffee 八德店,25.0480765,121.5515014,4.2,1038,2.0,"cafe,food,point_of_interest,store,establishment",八德路三段30號
+台北市,信義區,ChIJvU8_KbmrQjQRW5_bCp7WaKs,湛盧咖啡 市府館,25.0422129,121.5630112,4.4,980,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路四段553巷6弄4號

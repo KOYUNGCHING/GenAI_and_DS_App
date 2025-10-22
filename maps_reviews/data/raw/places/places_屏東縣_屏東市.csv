@@ -1,0 +1,9 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+屏東縣,屏東市,ChIJyd5jt58XbjQRcakRgxvT1MM,Starbucks 星巴克（屏東自由門市）,22.6831259,120.4837604,4.3,1598,2.0,"cafe,food,point_of_interest,establishment",自由路601號
+屏東縣,屏東市,ChIJQxGR1BkXbjQR9nvn0fHBVPQ,星巴克 屏東民生門市,22.66111,120.5088917,4.5,546,2.0,"cafe,store,food,point_of_interest,establishment",民生路5-5號
+屏東縣,屏東市,ChIJywAHFgAZbjQRRP0_KmiWEV8,星巴克 屏東建國門市,22.6653288,120.4750728,4.2,128,2.0,"cafe,store,food,point_of_interest,establishment",建國路242號
+屏東縣,屏東市,ChIJvYsuO5sXbjQRpbuEJ6U_4Lo,星巴克-屏東門市,22.6739858,120.489677,4.2,1139,2.0,"cafe,food,point_of_interest,establishment",中正路72號
+屏東縣,屏東市,ChIJvTGmv4MXbjQR-Ac-5EwGBnU,CAMA CAFE 屏東站前店,22.6701495,120.486131,4.3,182,1.0,"cafe,food,point_of_interest,establishment",民族路165號
+屏東縣,屏東市,ChIJleA0QQAXbjQRZAN6VJV9GUA,Mazu Café｜媽祖喝咖啡,22.6707563,120.4866562,5.0,42,,"cafe,food,point_of_interest,establishment",中山路12-1號
+屏東縣,屏東市,ChIJZbpPkigXbjQR4yn3y8YP6TM,7-ELEVEN 勝星門市,22.6755075,120.4848043,4.3,52,,"convenience_store,atm,finance,store,food,point_of_interest,establishment",中山路61-13號
+屏東縣,屏東市,ChIJWSxmAoUXbjQRe_9MvPnnjsc,咖啡深藏 屏東民生門市,22.670831,120.490561,4.5,133,1.0,"cafe,food,point_of_interest,establishment",民生路282號

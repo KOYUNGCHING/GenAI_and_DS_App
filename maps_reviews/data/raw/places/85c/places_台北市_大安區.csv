@@ -1,0 +1,12 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,大安區,ChIJwZNRZKarQjQRjsWDDkvjf68,85度C咖啡蛋糕飲料麵包(台北莊敬店),25.027134,121.5662102,3.8,389,1.0,"cafe,food,point_of_interest,establishment",莊敬路416號
+台北市,大安區,ChIJJ3Za7syrQjQRoippNkAn2sc,85度C咖啡蛋糕飲料麵包(台北和平東店),25.0196574,121.5573347,3.8,492,1.0,"cafe,food,point_of_interest,establishment",和平東路三段342號
+台北市,大安區,ChIJZfp1NeyrQjQR9FfJqnHIKg8,85度C咖啡蛋糕飲料(台北光復北店),25.0573585,121.5555371,3.6,490,1.0,"cafe,food,point_of_interest,establishment",光復北路167號
+台北市,大安區,ChIJ5x69H7yrQjQRcu1B77HEw3k,85度C咖啡蛋糕飲料麵包 科技大樓店,25.0249706,121.5414512,4.0,143,1.0,"cafe,store,food,point_of_interest,establishment",和平東路二段98號
+台北市,大安區,ChIJP-DTBcOrQjQRQTUb2NehQCg,Coffeeology,25.0475796,121.5508311,4.3,325,1.0,"cafe,food,point_of_interest,establishment",八德路三段12巷5弄2號
+台北市,大安區,ChIJTW_h3LSrQjQR1CQQteePjco,加爾第咖啡 (莊敬店),25.0276053,121.5639383,4.4,508,2.0,"cafe,food,point_of_interest,establishment",吳興街269巷1弄21號
+台北市,大安區,ChIJd6N2gW-sQjQR125Jb-E4ruQ,《 Oh！Café 》握咖啡台北店—咖啡與豆專賣,25.0310854,121.560314,4.4,634,2.0,"cafe,food,point_of_interest,establishment",吳興街55號一樓
+台北市,大安區,ChIJqfydviWpQjQRgYSytVEZAjs,8%ice CAFÉ 中山店,25.0574071,121.5226233,4.2,356,,"cafe,store,food,point_of_interest,establishment",中山北路二段78-3號
+台北市,大安區,ChIJFam_hyK1QjQRyW5zld0ZepU,德佈Debut Cafe 台北店,25.0466869,121.5319512,4.6,968,2.0,"cafe,food,point_of_interest,establishment",新生北路一段15號
+台北市,大安區,ChIJP5CF7pmrQjQRY1MyLg_GRrw,Simple Kaffa Sola 天空興波,25.033976,121.5645389,4.3,1534,,"cafe,store,food,point_of_interest,establishment",信義路五段7號88樓
+台北市,大安區,ChIJjbpb32ypQjQRmWMmZJGk9KE,雪球咖啡-師大店 手作厚蛋三明治 鍋煮鮮奶茶（近古亭捷運站四號出口）,25.0267818,121.5235212,4.7,91,1.0,"cafe,store,food,point_of_interest,establishment",和平東路一段16號

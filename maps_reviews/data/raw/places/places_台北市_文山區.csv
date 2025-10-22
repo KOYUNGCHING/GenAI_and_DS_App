@@ -1,13 +1,10 @@
 ﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
-台北市,文山區,ChIJrfpxNCyrQjQR8vXq80fN1Y8,CBC SPACE 景美咖啡圖書館 Cafe Boven Co-working,24.9923871,121.5442589,4.5,502,2.0,"cafe,restaurant,food,point_of_interest,establishment",景興路193號
-台北市,文山區,ChIJRbStNQCrQjQR7mRaTOYruOI,樸樹咖啡 （興岩店）,25.0002197,121.5487248,4.8,119,,"cafe,food,point_of_interest,store,establishment",興隆路二段88號
-台北市,文山區,ChIJOVErIr0CaDQR20wOUZl40b8,Portafiltro Coffee。撥啡,24.9956349,121.5596908,4.8,224,1.0,"cafe,food,point_of_interest,store,establishment",興隆路三段290號
-台北市,文山區,ChIJB8RCKNarQjQRqwi4T2kptV0,𝗦𝗵𝗼𝘂 𝗦𝗵𝗼𝘂 𝗖𝗼𝗳𝗳𝗲𝗲 惜惜咖啡,24.9901566,121.5751778,4.5,291,,"cafe,food,point_of_interest,store,establishment",秀明路二段112巷19號
-台北市,文山區,ChIJDRV3GQCrQjQR6WC4vRbxqSM,周詮咖啡 Roundful Cafe,24.9897689,121.573614,5.0,45,,"cafe,food,point_of_interest,store,establishment",新光路一段44號
-台北市,文山區,ChIJe2ft7PIBaDQR4jvWGqTC81k,CAFE!N 硬咖啡 新店裕隆城門市,24.978061,121.546478,4.0,336,2.0,"cafe,food,point_of_interest,establishment",中興路三段70號1F
-台北市,文山區,ChIJnzRiWJUBaDQRwTqx0QUC9lE,Miss May Café,24.9790687,121.5429139,4.8,131,,"cafe,food,point_of_interest,establishment",寶強路5號
-台北市,文山區,ChIJab9AFzYiaDQRykJY1oH_K7Y,Mars Coffee,25.0013587,121.5550895,4.6,283,2.0,"cafe,restaurant,food,point_of_interest,establishment",辛亥路四段235號
-台北市,文山區,ChIJXeRhIwCrQjQRxkfFUoaIolc,Ruins Coffee Roasters廢墟 湖村店,24.9882482,121.5789989,4.2,194,,"cafe,food,point_of_interest,store,establishment",No. 36號 萬壽路政大里
-台北市,文山區,ChIJ01BimRqqQjQRZ5zTyTCXskk,聯禾咖啡,25.0000181,121.547969,4.1,341,2.0,"cafe,food,point_of_interest,establishment",興隆路二段129號
-台北市,文山區,ChIJpbe_xEirQjQRbrGqQygQF1w,昇咖啡｜會議包廂・空間租借（包廂預約制）（店內有日式扭蛋機等你來玩喔！））,24.9866475,121.5678618,4.2,120,,"cafe,food,point_of_interest,store,establishment",木柵路三段102巷14號
-台北市,文山區,ChIJhU7fFACrQjQRTdCxctYPSuc,DoDo Cafe 豆荳先生,24.9879709,121.5653592,4.9,124,,"cafe,food,point_of_interest,store,establishment",木柵路三段48巷1弄2號1樓
+台北市,文山區,ChIJMQq8ZPABaDQRlzRW7MTIo0E,星巴克 新中門市,24.9776452,121.5456118,3.9,1223,2.0,"cafe,store,food,point_of_interest,establishment",中興路三段3號
+台北市,文山區,ChIJc63e6nuqQjQRnUdJZsI4Y78,STARBUCKS 星巴克 (政大門市),24.9877654,121.5756229,4.1,506,2.0,"cafe,store,food,point_of_interest,establishment",指南路二段105號
+台北市,文山區,ChIJj1TBSnGqQjQRhUW8goVK6_0,星巴克 木柵門市,24.9887216,121.566914,4.1,719,2.0,"cafe,store,food,point_of_interest,establishment",木柵路三段75號
+台北市,文山區,ChIJ1U0zNN4BaDQRCBSni34S-CQ,星巴克 木新門市,24.9819444,121.5611111,4.2,687,2.0,"cafe,food,point_of_interest,establishment",木新路三段162號
+台北市,文山區,ChIJ_3wx6waqQjQROQUsjLOxfJ4,星巴克 景美門市,24.9925974,121.5443434,4.1,1123,2.0,"cafe,store,food,point_of_interest,establishment",景興路185號1-2F
+台北市,文山區,ChIJwbaoahOqQjQR8UMWS835gGo,星巴克 萬芳門市,24.9998323,121.5574809,3.9,640,2.0,"cafe,store,food,point_of_interest,establishment",興隆路三段111號
+台北市,文山區,ChIJw4NHs3aqQjQRmDw4jd8KgcE,Louisa Coffee 路易莎咖啡(木柵直營店),24.9886989,121.5666199,3.7,820,1.0,"cafe,food,point_of_interest,establishment",木柵路三段63號
+台北市,文山區,ChIJC8Pi4M4BaDQRHaPvsxTEi3A,星巴克 新店裕隆城門市,24.9781993,121.5464781,3.8,140,,"cafe,store,food,point_of_interest,establishment",中興路三段70號1 樓
+台北市,文山區,ChIJHRBHnbwBaDQREeLK7nn1ISs,DREAMERS COFFEE ROASTERS 新店寶橋店,24.9756816,121.546759,4.1,468,2.0,"cafe,food,point_of_interest,establishment",寶橋路92號

@@ -1,61 +1,16 @@
 ﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
-新北市,永和區,ChIJ3StPMempQjQRGPVwT5Fsszo,Tamping coffee 填平咖啡,25.0358497,121.512957,4.8,217,,"cafe,store,food,point_of_interest,establishment",愛國西路1號圖書館
-新北市,永和區,ChIJMTZ4aYupQjQRTSA-3d9mon0,Timing cafe 太迷咖啡,25.032583,121.5189259,4.9,90,,"cafe,store,food,point_of_interest,establishment",金華街19號
-新北市,永和區,ChIJGcCqgQCpQjQR82gbxNrBurY,時々珈琲/時時咖啡 TokiDoki Coffee Roastery,25.0368966,121.524936,4.7,155,,"cafe,store,restaurant,food,point_of_interest,establishment",杭州南路一段115號 2號樓之1
-新北市,永和區,ChIJD--InlipQjQRC7Zq_UerBzs,HWC 黑沃咖啡｜永和竹林店,25.009836,121.520265,4.5,272,2.0,"cafe,food,point_of_interest,establishment",竹林路178號
-新北市,永和區,ChIJld1d_gKpQjQRi1vozXuMX54,布子咖啡 BUZI CAFE,25.0330943,121.5293115,4.7,316,,"cafe,store,food,point_of_interest,establishment",永康街4巷5號
-新北市,永和區,ChIJt2WlXsCpQjQRqStJVlw48Fs,肆拾肆號館,25.0082095,121.520187,4.7,495,2.0,"cafe,food,point_of_interest,establishment",福和路198巷6號
-新北市,永和區,ChIJ7xZzeYCpQjQRe79ET1L1k_o,I Care Cafe 長照咖啡館,25.0162693,121.5104739,4.7,221,,"cafe,food,point_of_interest,establishment",文化路155號
-新北市,永和區,ChIJe3lTjT2pQjQRC3cZsyq6xU8,肯都咖啡 Cando Coffee 自烘焙咖啡與甜點,25.034507,121.5012149,4.7,418,,"cafe,store,food,point_of_interest,establishment",康定路263號
-新北市,永和區,ChIJd4mAsJqrQjQRuHRrdtmznPw,咖啡．拾虎 by cafecar,25.0334003,121.5273626,4.6,57,,"cafe,food,point_of_interest,establishment",金山南路二段15號
-新北市,永和區,ChIJjVyOXQCpQjQRLu_-gQWcx8A,咖啡 梟 BraveCoffeeCompany（深夜咖啡、甜點、餐食）,25.0032241,121.5106736,4.9,73,,"cafe,store,food,point_of_interest,establishment",水源街39巷26號
-新北市,永和區,ChIJB-Rm2bupQjQRRcoTIkdNh3k,Notch咖啡 永安店(新店面僅有一層樓),25.0025525,121.5121267,4.8,407,1.0,"cafe,food,point_of_interest,establishment",新興街6巷1號
-新北市,永和區,ChIJ329i_rypQjQRiW6XtoYFWfA,Bellissimo Coffee Taiwan 布里斯哞師大店,25.0212235,121.527967,4.8,306,,"cafe,store,food,point_of_interest,establishment",羅斯福路三段181號
-新北市,永和區,ChIJU4okmyqpQjQRsRO4mSqqfXY,深巷咖啡館,25.0200012,121.4966277,4.3,123,1.0,"cafe,food,point_of_interest,establishment",萬大路486巷25號
-新北市,永和區,ChIJLfib6p6pQjQRZ6sICwYK19A,黑川郁咖啡,25.0333063,121.5183796,4.7,138,,"cafe,food,point_of_interest,establishment",林森南路142號
-新北市,永和區,ChIJw1Fjk_GpQjQRwezp7ogCV8M,咖啡休日 Day off. - 手沖咖啡專門店,25.012259,121.5358363,4.8,222,,"bakery,cafe,store,food,point_of_interest,establishment",羅斯福路四段136巷6弄23號
-新北市,永和區,ChIJgaAO3a2pQjQRsNFIp34wAhY,帕妃咖啡館,25.0331294,121.4964709,4.1,15,,"cafe,food,point_of_interest,establishment",艋舺大道303號
-新北市,永和區,ChIJYSd0BHmpQjQR3-tR4djSKBY,Saturn Landing Turkish Coffee 客家公園店,25.0201137,121.5250305,4.7,126,,"cafe,food,point_of_interest,establishment",汀州路三段2號
-新北市,永和區,ChIJdWVC94GpQjQReHmt7UVVH8g,努得世界冠軍咖啡,25.0333479,121.5315725,4.4,335,2.0,"cafe,food,point_of_interest,establishment",No. 2號 信義路二段228巷
-新北市,永和區,ChIJkeEwI36pQjQRl9mATU3pHqE,樂米 LaMeet 精品咖啡&烘豆體驗,25.0180856,121.5292905,4.9,114,,"cafe,store,food,point_of_interest,establishment",羅斯福路三段210巷8弄12號
-新北市,永和區,ChIJ481QM46pQjQRAsT3Kc7SK0g,珍妃咖啡坊,25.0217824,121.5266902,4.3,150,1.0,"cafe,store,food,point_of_interest,establishment",羅斯福路三段88號
-新北市,永和區,ChIJZe_Nv_6pQjQRmTO-DR-A6T8,CAFE!N 硬咖啡 和平門市,25.0271782,121.5230121,4.2,353,,"cafe,food,point_of_interest,establishment",和平東路一段21號
-新北市,永和區,ChIJOVtsVtKrQjQRGauT-2ZfoZw,CAMA CAFE 森林公園店,25.033762,121.5343124,4.3,172,1.0,"cafe,store,food,point_of_interest,establishment",信義路三段25號
-新北市,永和區,ChIJow40vm-pQjQRO5n1qK06Fbg,怡客咖啡 南昌牯嶺店,25.0321015,121.5156055,4.6,413,2.0,"cafe,food,point_of_interest,establishment",南海路46-1號
-新北市,永和區,ChIJI5z5FHypQjQRZncvFWdkqoU,CAMA CAFE 忠孝新生店,25.0403446,121.532581,4.1,203,1.0,"cafe,store,food,point_of_interest,establishment",新生南路一段90號
-新北市,永和區,ChIJ2225jiupQjQR3Nmu2XiaoR4,HITOKUCHI COFFEE,25.0137318,121.5175818,4.8,477,,"cafe,meal_delivery,restaurant,store,food,point_of_interest,establishment",復興街102號
-新北市,永和區,ChIJV_XMTYGpQjQR2i-DIcksgrk,學校咖啡館 Ecole Cafe(接待1-4人）,25.028912,121.532172,4.3,917,2.0,"cafe,food,point_of_interest,establishment",青田街1巷6號
-新北市,永和區,ChIJDXMcF5CrQjQRam-vMjrTO2E,The Quiet Light 默光咖啡（瑞安店）,25.0273704,121.54016,4.7,393,,"cafe,store,food,point_of_interest,establishment",瑞安街111號
-新北市,永和區,ChIJb_SbINSrQjQR5IYvheBv2PE,有kaffe冇/台北手沖咖啡 台北咖啡豆 大安區咖啡廳 大安區咖啡豆 忠孝復興咖啡廳 忠孝復興咖啡豆,25.0371182,121.5410407,4.7,354,2.0,"cafe,food,point_of_interest,establishment",信義路三段147巷36弄24號
-新北市,永和區,ChIJXX3FtaapQjQRGB50uwxWZcU,CAMA CAFE 台北小南門店,25.0354602,121.508167,4.2,376,1.0,"cafe,food,point_of_interest,establishment",廣州街10號
-新北市,永和區,ChIJTaDOTMOpQjQR8IadBk4E2kI,CAMA CAFE 台大新生南,25.0191257,121.5335469,4.1,327,1.0,"cafe,food,point_of_interest,establishment",新生南路三段76巷1號
-新北市,永和區,ChIJ_-WsWPupQjQRB5LWZQc2uvM,朵拉歐拉咖啡館,24.9982944,121.5264833,3.8,109,,"cafe,store,food,point_of_interest,establishment",成功路二段100號
-新北市,永和區,ChIJ_RwGSkapQjQRP2pCJHb2CeE,九日咖啡（中華店）9Days Coffee,25.0379813,121.5066805,4.4,291,,"cafe,store,food,point_of_interest,establishment",中華路一段204號
-新北市,永和區,ChIJ2WvYcX-pQjQR62iQUsj5j6U,湛盧咖啡 大安館,25.0345666,121.5332974,4.4,1207,2.0,"cafe,store,food,point_of_interest,establishment",新生南路一段161巷2-1號
-新北市,永和區,ChIJke6C896pQjQRd2JFkTTPW8s,CAMA CAFE 四號公園店,25.003103,121.5132552,4.3,325,1.0,"cafe,store,food,point_of_interest,establishment",中安街24號
-新北市,永和區,ChIJj9RB632pQjQRyc3a9CbWquY,彼得好咖啡 古亭店,25.026067,121.5228971,4.3,683,1.0,"cafe,food,point_of_interest,establishment",羅斯福路二段132號
-新北市,永和區,ChIJI0_fnsKpQjQRc9GuolE8Evk,CAMA CAFE 永和福和店,25.0073571,121.5177061,4.1,135,,"cafe,store,food,point_of_interest,establishment",福和路271號
-新北市,永和區,ChIJTW9wBGqpQjQREpa8bc9E3fQ,咖啡學人-老傑克 The Cafeist & Old Jack,25.0229925,121.524443,4.6,357,,"cafe,food,point_of_interest,establishment",金門街4號
-新北市,永和區,ChIJN1y6RacCaDQRElenCbyeN2w,墨爾本布蕾斯咖啡廳,25.0204776,121.5335175,4.4,569,2.0,"cafe,restaurant,store,food,point_of_interest,establishment",新生南路三段56巷11號
-新北市,永和區,ChIJCRed4JmpQjQRpOEwyWt1wwU,達文西咖啡 - 台大旗艦店（溫州店）,25.0206288,121.5329411,4.6,652,2.0,"cafe,food,point_of_interest,establishment",溫州街58巷2號1F
-新北市,永和區,ChIJheiMcwapQjQR-tHQmvZa5XY,布納咖啡館 中和公園館｜網美餐廳｜下午茶｜早午餐｜聚餐｜慶生｜包場｜包廂,25.0014761,121.5126447,4.6,2677,2.0,"restaurant,cafe,food,point_of_interest,establishment",中安街85號B1
-新北市,永和區,ChIJp5iGbq2pQjQRhwCJTeqyLOs,小咖啡 .J. cafe｜貓咪中途咖啡廳 (無候位不限時/提供部分插座座位),25.0114755,121.5202773,4.9,240,,"cafe,restaurant,store,food,point_of_interest,establishment",竹林路119巷3號
-新北市,永和區,ChIJVy-ckF2pQjQRDSZ9ceRWuUw,Coffee九號公寓手作咖啡館,25.013538,121.5144065,4.7,190,,"cafe,food,point_of_interest,establishment",仁愛路36號
-新北市,永和區,ChIJV_SOYpqpQjQRA9cnwa-fRdc,咖啡學人-傑克威爾 The Cafeist & Jackwell,25.026468,121.5227586,4.6,836,1.0,"cafe,food,point_of_interest,establishment",羅斯福路二段118號
-新北市,永和區,ChIJy1iegzqpQjQRROvb2hdUH4Y,LAOO COFFEE老窩咖啡迪卡儂中和店,25.0029495,121.4987411,4.8,323,,"cafe,food,point_of_interest,establishment",中山路二段228號2樓
-新北市,永和區,ChIJ6wfdtaapQjQRkrOS7r-qOMU,Cafe365咖啡館,25.0355667,121.5079653,4.8,531,,"cafe,restaurant,food,point_of_interest,establishment",廣州街10-4號號 & 2樓座位區
-新北市,永和區,ChIJW4jvitOpQjQR7Lv7Ml38akU,圈外咖啡專門店Kengai coffea,25.000033,121.5139786,4.6,555,2.0,"cafe,store,food,point_of_interest,establishment",安平路222號
-新北市,永和區,ChIJtStsZH-pQjQRTf9LGcurRyE,湛盧咖啡 台大館,25.0161111,121.5319444,4.3,1252,2.0,"cafe,store,food,point_of_interest,establishment",羅斯福路三段284巷2號
-新北市,永和區,ChIJh170TACpQjQRvsqCUPEsbhc,鶴野咖啡 HOYA COFFEE,24.9986742,121.5106246,4.7,84,,"cafe,store,food,point_of_interest,establishment",中安街178巷13弄9號
-新北市,永和區,ChIJ9ZdOiYipQjQRPPhSsgTk8J0,葛樂蒂咖啡館,25.0220939,121.5338849,4.4,1080,2.0,"cafe,food,point_of_interest,establishment",辛亥路一段136號
-新北市,永和區,ChIJqZbAbI2rQjQR-IFw5aOt5Ok,咖啡舍Chez Cafe(咖啡外帶.外送. 會議咖啡),25.0041514,121.5047828,4.9,18,,"cafe,food,point_of_interest,establishment",光華街19-5號
-新北市,永和區,ChIJYRmyvXWpQjQRoJPrtsQFgbQ,彼得好咖啡 東門永康門市,25.0338135,121.5276491,4.2,580,1.0,"cafe,store,food,point_of_interest,establishment",信義路二段108號
-新北市,永和區,ChIJ5xYmZtirQjQRJZetI_CIovw,樂波波珈琲,25.0381102,121.5257867,4.9,231,,"cafe,store,food,point_of_interest,establishment",仁愛路二段10-1號
-新北市,永和區,ChIJqSmkTiqqQjQR9lD1JB7ktsc,Louisa Coffee 路易莎咖啡(瑞安店),25.0286304,121.5394976,4.0,1153,1.0,"cafe,store,food,point_of_interest,establishment",建國南路二段151巷40號
-新北市,永和區,ChIJVzzqqTipQjQRhd5jKnhXqAU,覓暘咖啡 MIYA CAFE,25.0231093,121.5171577,4.9,141,,"cafe,store,food,point_of_interest,establishment",廈門街114巷2號3樓
-新北市,永和區,ChIJ42i9KaSpQjQRU0n_unrcr_4,藍門咖啡早午餐,25.0242038,121.5213454,4.4,806,,"cafe,restaurant,store,food,point_of_interest,establishment",汀州路二段150號一樓
-新北市,永和區,ChIJGwlw1MCpQjQRP7MwVo__y4I,Naturdise戶外裝備咖啡廳 Outdoor Gears Caf’e-大安人氣必吃早午餐|大安在地輕食下午茶|網美不限時咖啡廳|熱門健康早午餐|熱門下午茶|人氣咖啡|早餐拼盤,25.02908,121.5256699,4.6,170,,"cafe,finance,restaurant,store,food,point_of_interest,establishment",潮州街75號1樓
-新北市,永和區,ChIJf0EcSz-pQjQRx3Z918LoACw,彼得好咖啡 金門街店,25.0231748,121.5249616,4.0,187,1.0,"cafe,store,food,point_of_interest,establishment",金門街1巷1號
-新北市,永和區,ChIJVy-gWgCpQjQRKlb-WW5w9Xc,布納咖啡館公園館,25.001419,121.512086,4.3,78,,"cafe,store,food,point_of_interest,establishment",中安街92號B1
-新北市,永和區,ChIJ3ZVjz5ypQjQR1Aar6O3WxfU,K珈琲小売所,25.0008787,121.5180485,4.9,177,,"cafe,store,food,point_of_interest,establishment",中正路368巷5號1樓
-新北市,永和區,ChIJS8PFBnypQjQRd1zxLxoO93I,Jack & NaNa COFFEE STORE,25.0267483,121.5316241,4.6,869,2.0,"cafe,food,point_of_interest,establishment",和平東路一段157巷11號
+新北市,永和區,ChIJDUmD13moQjQREo8j1iLK9HY,星巴克（辛亥門市）,25.0217296,121.5411881,4.1,1407,2.0,"cafe,food,store,point_of_interest,establishment",辛亥路二段175號
+新北市,永和區,ChIJY1uqz8irQjQRnetWuLM8xzQ,星巴克（和平門市）,25.0268191,121.5229239,3.9,1234,2.0,"cafe,food,store,point_of_interest,establishment",和平東路一段2號
+新北市,永和區,ChIJnxRYZ66pQjQRnGcHDW3tTq0,星巴克 艋舺門市,25.0334993,121.4984257,4.5,4071,2.0,"cafe,food,point_of_interest,establishment",西園路一段306巷24號
+新北市,永和區,ChIJIV5dCLCpQjQRmqOq_DsdmGw,星巴克 萬華西藏門市,25.0295592,121.5025289,4.1,1407,2.0,"cafe,food,store,point_of_interest,establishment",西藏路123號
+新北市,永和區,ChIJJ5L21Z6pQjQRgrSFseDy92M,星巴克（南海門市）,25.0323876,121.5168813,4.1,1546,2.0,"cafe,food,store,point_of_interest,establishment",南海路20號
+新北市,永和區,ChIJTXE7AaepQjQRx9F9XvZdt9Q,星巴克 西門桂林門市,25.037703,121.5061818,4.1,646,2.0,"cafe,food,store,point_of_interest,establishment",桂林路1號
+新北市,永和區,ChIJ4bT0-oupQjQRIzo8NiGCeAY,STARBUCKS 星巴克 (羅斯福門市),25.0174952,121.5318679,4.1,982,2.0,"cafe,food,store,point_of_interest,establishment",羅斯福路三段301號
+新北市,永和區,ChIJmdpeC9apQjQRV75csFYgLBU,星巴克 中和連城門市,25.0011651,121.4975883,4.2,1338,2.0,"cafe,food,point_of_interest,establishment",連城路71號1-2樓
+新北市,永和區,ChIJo5NwS9upQjQRq3v2PksgmEw,星巴克 永和永安門市,25.0035719,121.514717,4.0,1224,2.0,"cafe,food,store,point_of_interest,establishment",安樂路248-7號1F
+新北市,永和區,ChIJ40rVCLipQjQRP9GMIxWM9PY,STARBUCKS 星巴克 (師大和平門市),25.0268111,121.5292026,4.3,110,,"food,store,point_of_interest,establishment",和平東路一段129-1號1樓
+新北市,永和區,ChIJ4bT0-oupQjQR7L09td6Ndhg,星巴克（建和門市）,25.0255264,121.5372233,4.1,916,2.0,"cafe,food,store,point_of_interest,establishment",和平東路二段42-1號
+新北市,永和區,ChIJIcFPa4KpQjQR5SlT6EQMkiI,星巴克 永康街2F門市,25.0332989,121.529752,4.1,966,2.0,"cafe,food,store,point_of_interest,establishment",永康街2號2樓
+新北市,永和區,ChIJ5aXDWJ2pQjQR1q32d8yhJPU,STARBUCKS 星巴克 (杭州門市),25.0355845,121.5245834,4.0,911,2.0,"cafe,food,store,point_of_interest,establishment",信義路二段1-1號
+新北市,永和區,ChIJo5NwS9upQjQRN23WOydJE7M,星巴克 雙和門市,25.0073641,121.5071354,4.0,813,2.0,"cafe,food,store,point_of_interest,establishment",中山路一段240號1樓
+新北市,永和區,ChIJXZu3TU-pQjQRbGJOx06QCvA,星巴克 古亭門市,25.0244561,121.5246387,4.1,306,2.0,"cafe,food,store,point_of_interest,establishment",羅斯福路二段109號

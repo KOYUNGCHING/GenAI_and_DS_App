@@ -1,0 +1,13 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+高雄市,鼓山區,ChIJ-V5UblAEbjQR-BNCplM9AOE,星巴克(美術願景門市),22.6518719,120.2877355,4.3,1847,2.0,"cafe,food,point_of_interest,establishment",美術東二路9號
+高雄市,鼓山區,ChIJP6tu7X8EbjQRGQGMHd6SOqQ,星巴克(青年門市),22.6178117,120.296112,4.1,786,2.0,"cafe,food,point_of_interest,establishment",成功一路221號
+高雄市,鼓山區,ChIJS64Rlv0EbjQRQVbZVXrGVhs,星巴克 大順富民門市,22.656774,120.3050701,4.1,1325,2.0,"cafe,food,point_of_interest,establishment",大順一路380號
+高雄市,鼓山區,ChIJ8WdqfH0DbjQRM0U9f4DIgzU,星巴克（高雄三多門市）,22.6147206,120.3063753,4.1,883,2.0,"cafe,store,food,point_of_interest,establishment",三多三路234號
+高雄市,鼓山區,ChIJTVJLimUEbjQRiC7FBj4Fksc,星巴克 愛河門市,22.6332235,120.2862141,4.1,1574,2.0,"cafe,food,point_of_interest,establishment",河東路356號
+高雄市,鼓山區,ChIJ5zSmFWYFbjQR06q5MqqFKiM,星巴克 中正自強門市,22.6289754,120.2940818,4.0,309,2.0,"cafe,store,food,point_of_interest,establishment",中正四路190號
+高雄市,鼓山區,ChIJ6xHlNIcEbjQRe88RkuRFx_4,星巴克 中央公園門市,22.6218927,120.2991275,4.2,960,2.0,"cafe,store,food,point_of_interest,establishment",五福三路31號
+高雄市,鼓山區,ChIJ41dOPAAFbjQRgRmCsjET4_Q,星巴克 建國自立門市,22.6377377,120.2963801,4.6,111,,"cafe,store,food,point_of_interest,establishment",建國三路241號
+高雄市,鼓山區,ChIJC4B6S6UFbjQRxcibc8Yc6fM,星巴克 鼓山華榮門市,22.6620497,120.2972665,4.4,246,2.0,"cafe,store,food,point_of_interest,establishment",華榮路32號
+高雄市,鼓山區,ChIJreIP1FIEbjQRby-mR4wZX8w,星巴克(美術館門市),22.6614836,120.2900955,4.1,1048,2.0,"cafe,store,food,point_of_interest,establishment",明誠四路118號
+高雄市,鼓山區,ChIJZTgxXgADbjQR69LVs3DGwFM,星巴克 哈瑪星門市,22.6196179,120.270364,4.5,149,2.0,"cafe,food,point_of_interest,establishment",濱海一路109號
+高雄市,鼓山區,ChIJgcLVcFAEbjQR07mcu9Bb1PM,卡啡那 美術館,22.6512528,120.2876702,4.3,4994,2.0,"cafe,bakery,store,food,point_of_interest,establishment",美術東二路3號

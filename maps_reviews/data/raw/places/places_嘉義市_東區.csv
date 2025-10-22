@@ -1,0 +1,16 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+嘉義市,東區,ChIJ02DRQC6UbjQRsAJ5GixpBBM,星巴克 (嘉義中山門市),23.4794682,120.4457994,4.3,957,2.0,"cafe,store,food,point_of_interest,establishment",中山路471號
+嘉義市,東區,ChIJKwNjq0mUbjQREMYVJ59cffY,STARBUCKS 星巴克 (嘉邑門市）,23.475111,120.4613235,4.3,1218,2.0,"cafe,store,food,point_of_interest,establishment",垂楊路2號
+嘉義市,東區,ChIJkTIgq06VbjQRJKBAWQjamyc,星巴克 嘉義世賢門市,23.464145,120.4512745,4.5,612,2.0,"cafe,store,food,point_of_interest,establishment",世賢路四段432-1號
+嘉義市,東區,ChIJgRV8WgmVbjQRFH4g-Fjp7w8,STARBUCKS 星巴克 (嘉義新民門市）,23.467279,120.4403691,4.2,182,,"cafe,store,food,point_of_interest,establishment",新民路668號
+嘉義市,東區,ChIJ2wHYmCaUbjQRCgOUM99xxYQ,STARBUCKS 星巴克 (垂楊門市）,23.472695,120.44116,3.9,388,2.0,"cafe,food,point_of_interest,establishment",垂楊路537號1樓
+嘉義市,東區,ChIJy-U8VcSVbjQRjtnxyojXlAg,STARBUCKS 星巴克 嘉基門市,23.4994169,120.4501669,4.0,377,2.0,"cafe,store,food,point_of_interest,establishment",忠孝路539號
+嘉義市,東區,ChIJN-CO-cWVbjQRPlTLgCkZZww,STARBUCKS 星巴克 耐斯門市,23.4965197,120.4525821,4.2,410,2.0,"cafe,store,food,point_of_interest,establishment",忠孝路600號
+嘉義市,東區,ChIJbcOiMxWVbjQRi2_T7YKrAl8,STARBUCKS 星巴克 嘉義市府門市,23.4811305,120.4527291,4.0,258,2.0,"cafe,store,food,point_of_interest,establishment",中山路201號
+嘉義市,東區,ChIJLy7l_-mVbjQRYg54iOOvoUg,Louisa Coffee 路易莎咖啡(嘉義圓環門市),23.4799931,120.4493224,3.6,680,1.0,"cafe,food,point_of_interest,establishment",中山路294號
+嘉義市,東區,ChIJhRehxe2VbjQRXIuBHu-sWcU,秘書店 Meet store,23.4811305,120.4527291,4.2,130,,"cafe,library,food,point_of_interest,establishment",中山路201號3樓
+嘉義市,東區,ChIJiwuxhQOVbjQRwMXkB0tfybw,美好咖啡店ＭihoCoffee 最後營業日2024/06/30,23.4789282,120.4631377,4.6,487,2.0,"cafe,store,food,point_of_interest,establishment",啟明路146號
+嘉義市,東區,ChIJJwVGzCyVbjQRalCVFSr3JXk,橘子咖啡,23.4759616,120.4607539,4.6,31,1.0,"cafe,food,point_of_interest,establishment",朝陽街30號
+嘉義市,東區,ChIJTTNIaUGUbjQRn_hry14RDZc,7-ELEVEN 立宣門市,23.4648408,120.463525,3.7,84,,"convenience_store,atm,store,food,finance,point_of_interest,establishment",立仁路120號
+嘉義市,東區,ChIJ8XaP1ik0BhQRYeZTVyskNPs,古典咖啡,23.4774049,120.4624411,4.5,84,2.0,"cafe,food,point_of_interest,establishment",啟明路58號
+嘉義市,東區,ChIJYSNMmdSVbjQRyoRqXpzNYso,Y.J COFFEE 玉津咖啡-嘉義中山店,23.4808796,120.4520927,4.5,114,,"cafe,store,food,point_of_interest,establishment",中山路225號

@@ -1,0 +1,11 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+新竹縣,竹北市,ChIJ6dnBqfg2aDQR0HddAK8PMGI,星巴克 竹北文興門市,24.8106988,121.0274479,4.3,1853,2.0,"cafe,food,point_of_interest,store,establishment",文興路一段186號
+新竹縣,竹北市,ChIJ3ewLo_k2aDQR4xHCrN3hr-0,星巴克 竹北自強店,24.8154086,121.0242827,4.2,1797,2.0,"cafe,food,point_of_interest,store,establishment",自強南路182號
+新竹縣,竹北市,ChIJk_Ygk5Q2aDQRk4jlpDJoPm8,星巴克 新竹北門市,24.8310282,121.0126793,4.2,2429,2.0,"cafe,food,point_of_interest,store,establishment",光明一路372號
+新竹縣,竹北市,ChIJDbuZnvw2aDQRRPQGu-JqUYE,星巴克 竹北光明門市,24.8196996,121.0276152,4.1,1027,2.0,"cafe,food,point_of_interest,store,establishment",光明六路東一段316號
+新竹縣,竹北市,ChIJa8VcegA3aDQRDrzRPxzQ4Uw,星巴克 AI智慧園區門市,24.8289124,121.0231896,4.9,88,2.0,"cafe,food,point_of_interest,store,establishment",智慧一路99號
+新竹縣,竹北市,ChIJ78WWKsQ2aDQRBSJ3CL2pVK4,星巴克 台元門市,24.8426814,121.0162353,4.3,554,2.0,"cafe,food,point_of_interest,store,establishment",台元街34號
+新竹縣,竹北市,ChIJtY86_T43aDQRJ0uYJ5D0TNk,星巴克 竹北嘉豐南門市,24.810187,121.0335204,3.7,74,,"cafe,food,point_of_interest,store,establishment",嘉豐南路一段100號
+新竹縣,竹北市,ChIJO10k8sQ2aDQRsplo0enmfnw,星巴克 台元二門市,24.8410191,121.0197824,4.1,346,2.0,"cafe,food,point_of_interest,store,establishment",台元一街2號
+新竹縣,竹北市,ChIJdU9X0iU3aDQR4K4ziaRjynA,星巴克 竹北遠百門市,24.8226606,121.023617,3.4,188,,"food,point_of_interest,store,establishment",莊敬北路18號7F
+新竹縣,竹北市,ChIJ-Vn8SwQ1aDQR8R28hyy3dms,星巴克 新竹台醫門市,24.8162232,120.9797103,4.0,22,2.0,"cafe,food,point_of_interest,store,establishment",經國路一段442巷25號

@@ -1,0 +1,12 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,信義區,ChIJJ3Za7syrQjQRoippNkAn2sc,85度C咖啡蛋糕飲料麵包(台北和平東店),25.0196574,121.5573347,3.8,492,1.0,"cafe,food,point_of_interest,establishment",和平東路三段342號
+台北市,信義區,ChIJ5x69H7yrQjQRcu1B77HEw3k,85度C咖啡蛋糕飲料麵包 科技大樓店,25.0249706,121.5414512,4.0,143,1.0,"cafe,store,food,point_of_interest,establishment",和平東路二段98號
+台北市,信義區,ChIJBxbccnWrQjQRkepzYI8q6_w,85度C咖啡蛋糕飲料(台北同德店),25.0450955,121.5839835,3.8,277,1.0,"cafe,food,point_of_interest,establishment",同德路26號
+台北市,信義區,ChIJwZNRZKarQjQRjsWDDkvjf68,85度C咖啡蛋糕飲料麵包(台北莊敬店),25.027134,121.5662102,3.8,389,1.0,"cafe,food,point_of_interest,establishment",莊敬路416號
+台北市,信義區,ChIJwZNRZKarQjQRqazSK1QcRsc,85度C咖啡蛋糕飲料烘培(台北永吉店),25.0456967,121.5753643,3.7,478,1.0,"cafe,food,point_of_interest,establishment",永吉路269號
+台北市,信義區,ChIJZfp1NeyrQjQR9FfJqnHIKg8,85度C咖啡蛋糕飲料(台北光復北店),25.0573585,121.5555371,3.6,490,1.0,"cafe,food,point_of_interest,establishment",光復北路167號
+台北市,信義區,ChIJI9QfewCrQjQRnfORR1qSOFM,武蔵野森珈琲Diner 遠東Garden City店,25.0429561,121.5602043,4.1,454,,"cafe,store,food,point_of_interest,establishment",忠孝東路四段515號
+台北市,信義區,ChIJP5CF7pmrQjQRY1MyLg_GRrw,Simple Kaffa Sola 天空興波,25.033976,121.5645389,4.3,1534,,"cafe,store,food,point_of_interest,establishment",信義路五段7號88樓
+台北市,信義區,ChIJh1WkbZCrQjQRGwpAySRWadE,CAMA CAFE 南港玉德店,25.0449764,121.583856,4.1,116,1.0,"cafe,food,point_of_interest,establishment","1樓, No. 156號玉成街"
+台北市,信義區,ChIJP-DTBcOrQjQRQTUb2NehQCg,Coffeeology,25.0475796,121.5508311,4.3,325,1.0,"cafe,food,point_of_interest,establishment",八德路三段12巷5弄2號
+台北市,信義區,ChIJY3_x9I2rQjQRRTSEChUzsGo,BoKa,25.0506211,121.5587423,4.2,600,2.0,"bakery,store,food,point_of_interest,establishment",光復北路85巷15號

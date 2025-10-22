@@ -1,0 +1,215 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台中市,北區,ChIJQTrgVhM9aTQRkot9weBeX6k,85度C咖啡蛋糕飲料麵包-台中自由店,24.1409445,120.6829352,3.7,853,1.0,"cafe,bakery,store,food,point_of_interest,establishment",成功路152號
+台中市,北區,ChIJUWqhFWY9aTQRXifZRVMEUx4,85度C咖啡蛋糕飲料烘焙-台中健行店,24.159238,120.6798435,4.0,1004,1.0,"cafe,bakery,store,food,point_of_interest,establishment",健行路480號
+台中市,北區,ChIJsQBKPNwXaTQRUbu8Ob8qrK8,85度C咖啡蛋糕飲料麵包-台中崇德店,24.168565,120.684894,4.0,646,1.0,"point_of_interest,establishment",崇德路二段1號
+台中市,北區,ChIJ8Yj7LVA9aTQRRsF7MaKPsuE,85度C 咖啡蛋糕飲料-太平中山店,24.1482516,120.703035,3.6,561,1.0,"cafe,food,point_of_interest,establishment",中山路四段174號
+台中市,北區,ChIJsQBKPNwXaTQRIdkPHpnXBrk,85度C咖啡蛋糕飲料麵包 台中昌平店,24.1767665,120.6904667,3.5,591,1.0,"cafe,food,point_of_interest,establishment",昌平路一段454號
+台中市,北區,ChIJlzR3iJ09aTQRz5lS0AeePbM,85度C 咖啡蛋糕飲料-台中英才店,24.1524663,120.6659501,3.9,324,1.0,"cafe,food,point_of_interest,establishment",英才路462號
+台中市,北區,ChIJHSbytCYWaTQRgcvTa6H3Ie8,85度C咖啡蛋糕飲料烘焙 台中漢口店,24.1664676,120.6640144,3.9,464,1.0,"cafe,restaurant,food,point_of_interest,establishment",漢口路二段219號
+台中市,北區,ChIJMaNuoxgYaTQRPuqPZLpebiY,85度C咖啡蛋糕飲料麵包-台中東山店,24.1700674,120.7083958,3.6,416,1.0,"cafe,bakery,store,food,point_of_interest,establishment",東山路一段156之10號
+台中市,北區,ChIJUWqhFWY9aTQR55_b1jCNeJE,85度C咖啡蛋糕飲料烘焙-台中北平店（直營）,24.1714719,120.6745122,3.7,656,1.0,"cafe,food,point_of_interest,establishment",北平路二段78號
+台中市,北區,ChIJuWfCjHkXaTQRG_ZEwXZEgSA,Caster Coffee C.P,24.1709606,120.6848926,4.8,179,,"store,food,point_of_interest,establishment",崇德路二段101號1樓
+台中市,北區,ChIJw-_K-t4XaTQRo2jucpL_3lw,多那之 台中崇德門市,24.1654031,120.6852588,3.7,1194,2.0,"bakery,cafe,store,food,point_of_interest,establishment",崇德路一段508號
+台中市,北區,ChIJlRBVUUI9aTQRaWSfjEYNZ1w,ORIG BLACK Coffee 美村店,24.1492894,120.6614915,4.7,520,,"store,restaurant,food,point_of_interest,establishment",美村路一段206號
+台中市,北區,ChIJv67YDEE9aTQRr9EGZEaSih0,梅笙蛋糕工作室1店(進德店),24.143198,120.692401,4.4,714,2.0,"bakery,store,food,point_of_interest,establishment",進德路154號
+台中市,北區,ChIJ3WPx6WM9aTQRU9U82pfnbtM,梅笙蛋糕工作室2店（永興店）,24.1587999,120.6822827,4.4,651,2.0,"bakery,store,food,point_of_interest,establishment",永興街23號
+台中市,北區,ChIJ9-aPJAI9aTQRW2_PEbT3IbU,洪瑞珍食品有限公司,24.1399505,120.6806563,4.1,3207,2.0,"bakery,store,restaurant,food,point_of_interest,establishment",中山路125-2號
+台中市,西屯區,ChIJHSbytCYWaTQR2QIJbLkc7r8,85度C咖啡蛋糕飲料-台中西屯店,24.1859226,120.6232732,3.5,282,1.0,"cafe,bakery,store,food,point_of_interest,establishment",西屯路三段148之43號
+台中市,西屯區,ChIJjXe-iDUWaTQRd5Lq5v5A3Fw,85度C 咖啡蛋糕飲料麵包-中清經貿店,24.1882516,120.6623271,3.6,310,1.0,"cafe,food,point_of_interest,establishment",中清路二段937號
+台中市,西屯區,ChIJHSbytCYWaTQR8XuaXUkGMTs,85度C咖啡蛋糕飲料麵包-台中逢甲店,24.1749582,120.6488185,3.7,670,1.0,"cafe,bakery,store,food,point_of_interest,establishment",河南路二段282號
+台中市,西屯區,ChIJHSbytCYWaTQRvB_ZBwB-4Y4,85度C麵包坊-台中青海店,24.1654887,120.6530155,3.9,284,1.0,"cafe,bakery,store,restaurant,food,point_of_interest,establishment",青海路一段172號
+台中市,西屯區,ChIJYfe55mQXaTQRoGJxFgDQ6Ew,童話泡芙 逢甲店,24.1747633,120.648891,4.7,417,,"store,food,point_of_interest,establishment",河南路二段241號85度C正對面
+台中市,西屯區,ChIJiUxQz8Y9aTQRTbrqQMskiIk,Mixo Coffee 米索咖啡 (大墩店),24.1604521,120.6527689,4.9,308,,"point_of_interest,establishment",臺灣大道二段825-2號
+台北市,中山區,ChIJ56dQHrupQjQR7Zt0IsvtKwI,85度C-台北西門店（內用有低消）,25.0416791,121.5072605,3.7,1308,1.0,"cafe,food,point_of_interest,establishment",漢中街151號
+台北市,中山區,ChIJRTf7EFypQjQRyMkgt4ZWTt4,85度C咖啡蛋糕飲料(台北錦州店),25.0602221,121.5246932,3.7,498,1.0,"cafe,bakery,food,store,point_of_interest,establishment",錦州街28-8號
+台北市,中山區,ChIJZfp1NeyrQjQR9FfJqnHIKg8,85度C咖啡蛋糕飲料(台北光復北店),25.0573585,121.5555371,3.6,490,1.0,"cafe,food,point_of_interest,establishment",光復北路167號
+台北市,中山區,ChIJRTf7EFypQjQRu2sf7xw4p48,85度C咖啡蛋糕飲料(台北榮星店),25.0661206,121.5408342,3.7,396,1.0,"cafe,food,point_of_interest,establishment",龍江路358號
+台北市,中山區,ChIJP-DTBcOrQjQRQTUb2NehQCg,Coffeeology,25.0475796,121.5508311,4.3,325,1.0,"cafe,food,point_of_interest,establishment",八德路三段12巷5弄2號
+台北市,中山區,ChIJI5z5FHypQjQRZncvFWdkqoU,CAMA CAFE 忠孝新生店,25.0403446,121.532581,4.1,203,1.0,"cafe,food,store,point_of_interest,establishment",新生南路一段90號
+台北市,中山區,ChIJqfydviWpQjQRgYSytVEZAjs,8%ice CAFÉ 中山店,25.0574071,121.5226233,4.2,356,,"cafe,food,store,point_of_interest,establishment",中山北路二段78-3號
+台北市,中山區,ChIJCw3n6TWrQjQRv3BRablqFqE,8%ice CAFÉ 民權店,25.0628827,121.5273682,4.4,1040,,"cafe,food,store,point_of_interest,establishment",民權東路一段79號1樓
+台北市,中山區,ChIJ1RueFhGpQjQRXZSxmBhu47U,McCafé 咖啡-台北濟南店,25.0401115,121.5325229,4.0,9,,"cafe,restaurant,food,store,point_of_interest,establishment",濟南路二段66號1樓
+台北市,信義區,ChIJJ3Za7syrQjQRoippNkAn2sc,85度C咖啡蛋糕飲料麵包(台北和平東店),25.0196574,121.5573347,3.8,492,1.0,"cafe,food,point_of_interest,establishment",和平東路三段342號
+台北市,信義區,ChIJ5x69H7yrQjQRcu1B77HEw3k,85度C咖啡蛋糕飲料麵包 科技大樓店,25.0249706,121.5414512,4.0,143,1.0,"cafe,store,food,point_of_interest,establishment",和平東路二段98號
+台北市,信義區,ChIJBxbccnWrQjQRkepzYI8q6_w,85度C咖啡蛋糕飲料(台北同德店),25.0450955,121.5839835,3.8,277,1.0,"cafe,food,point_of_interest,establishment",同德路26號
+台北市,信義區,ChIJwZNRZKarQjQRjsWDDkvjf68,85度C咖啡蛋糕飲料麵包(台北莊敬店),25.027134,121.5662102,3.8,389,1.0,"cafe,food,point_of_interest,establishment",莊敬路416號
+台北市,信義區,ChIJwZNRZKarQjQRqazSK1QcRsc,85度C咖啡蛋糕飲料烘培(台北永吉店),25.0456967,121.5753643,3.7,478,1.0,"cafe,food,point_of_interest,establishment",永吉路269號
+台北市,信義區,ChIJI9QfewCrQjQRnfORR1qSOFM,武蔵野森珈琲Diner 遠東Garden City店,25.0429561,121.5602043,4.1,454,,"cafe,store,food,point_of_interest,establishment",忠孝東路四段515號
+台北市,信義區,ChIJP5CF7pmrQjQRY1MyLg_GRrw,Simple Kaffa Sola 天空興波,25.033976,121.5645389,4.3,1534,,"cafe,store,food,point_of_interest,establishment",信義路五段7號88樓
+台北市,信義區,ChIJh1WkbZCrQjQRGwpAySRWadE,CAMA CAFE 南港玉德店,25.0449764,121.583856,4.1,116,1.0,"cafe,food,point_of_interest,establishment","1樓, No. 156號玉成街"
+台北市,信義區,ChIJY3_x9I2rQjQRRTSEChUzsGo,BoKa,25.0506211,121.5587423,4.2,600,2.0,"bakery,store,food,point_of_interest,establishment",光復北路85巷15號
+台北市,大安區,ChIJTW_h3LSrQjQR1CQQteePjco,加爾第咖啡 (莊敬店),25.0276053,121.5639383,4.4,508,2.0,"cafe,food,point_of_interest,establishment",吳興街269巷1弄21號
+台北市,大安區,ChIJd6N2gW-sQjQR125Jb-E4ruQ,《 Oh！Café 》握咖啡台北店—咖啡與豆專賣,25.0310854,121.560314,4.4,634,2.0,"cafe,food,point_of_interest,establishment",吳興街55號一樓
+台北市,大安區,ChIJFam_hyK1QjQRyW5zld0ZepU,德佈Debut Cafe 台北店,25.0466869,121.5319512,4.6,968,2.0,"cafe,food,point_of_interest,establishment",新生北路一段15號
+台北市,大安區,ChIJjbpb32ypQjQRmWMmZJGk9KE,雪球咖啡-師大店 手作厚蛋三明治 鍋煮鮮奶茶（近古亭捷運站四號出口）,25.0267818,121.5235212,4.7,91,1.0,"cafe,store,food,point_of_interest,establishment",和平東路一段16號
+台北市,文山區,ChIJvw9yit8BaDQRV2eihWWzXwk,85度C 文山興隆店,24.9845895,121.5615355,4.2,183,1.0,"cafe,food,point_of_interest,establishment",興隆路四段68之6號68之6號
+台北市,文山區,ChIJ_0zQYXWqQjQR5hjHqT8bd2k,知味魯肉飯,24.9846589,121.5615121,3.8,274,1.0,"store,food,point_of_interest,establishment",興隆路四段68之4號
+台北市,文山區,ChIJG5bMqUqrQjQRaUm1XL9Ab98,MU Pâtisserie 沐林甜點烘焙坊-木柵店,24.9999507,121.5735779,4.4,194,,"bakery,store,food,point_of_interest,establishment",和平東路四段308號
+台南市,中西區,ChIJjYJi62d2bjQRz-TU-S8lr90,85度C咖啡蛋糕飲料烘焙-台南成功店,23.0021935,120.194877,3.9,899,1.0,"cafe,bakery,food,point_of_interest,store,establishment",成功路515號
+台南市,中西區,ChIJ9X7ht_t2bjQRkdPWrfQOTN4,85度C 台南小北店,23.0133773,120.209173,3.9,782,1.0,"bakery,cafe,food,point_of_interest,store,establishment",西門路四段277號
+台南市,中西區,ChIJX04Bcth1bjQR_EONfUc_qRI,85度C咖啡蛋糕飲料烘培-台南健康店,22.9817494,120.1916844,3.9,793,2.0,"cafe,bakery,food,point_of_interest,store,establishment",健康路二段222號
+台南市,中西區,ChIJXap0iQ52bjQR18Hnh05ocTQ,85度C咖啡蛋糕飲料麵包-台南華平店,22.9937159,120.175331,3.8,449,1.0,"cafe,bakery,food,point_of_interest,store,establishment",華平路507號
+台南市,中西區,ChIJG8tcSqZ3bjQR_XmQYO49mGU,鳳盒子Café,22.9942218,120.2153386,4.7,135,,"cafe,food,point_of_interest,establishment",民族路一段15號
+台南市,中西區,ChIJXdi5eIl2bjQRkHoHkV0YZqc,多那之台南西門門市,22.997045,120.1997658,4.0,1974,2.0,"cafe,bakery,food,point_of_interest,store,establishment",西門路二段309號
+台南市,中西區,ChIJOXr-l_l3bjQRQswq7DTpzng,貴貴腹地,22.9881652,120.207107,4.7,530,,"cafe,restaurant,food,point_of_interest,store,establishment",建業街18號1樓
+台南市,中西區,ChIJr495Ytd1bjQRPPV2rNH9sCU,Dr.Bean,22.9946234,120.1748523,4.9,152,,"cafe,food,point_of_interest,establishment",怡平路410巷33號
+台南市,中西區,ChIJyRMlEnB2bjQR2sp4fGkczM4,UMAC吾馬咖啡,22.9918636,120.192797,4.7,160,1.0,"cafe,food,point_of_interest,establishment",金華路三段137號
+台南市,東區,ChIJIR30j5Z2bjQRMT-XpBnuyqQ,85度C咖啡蛋糕飲料麵包-台南中華東店(直營),22.9756894,120.2248668,3.8,1034,1.0,"bakery,store,food,point_of_interest,establishment",中華東路三段229號
+台南市,東區,ChIJr2vBFpV2bjQRYhm9ER2uJZA,多那之台南東寧門市,22.9903305,120.2273557,4.0,854,2.0,"cafe,bakery,store,food,point_of_interest,establishment",東寧路269號
+台南市,東區,ChIJy2qweNt2bjQRMyNEJgNo2aM,多那之台南永康門市,23.008311,120.234364,3.8,1126,2.0,"cafe,bakery,store,food,point_of_interest,establishment",中華路330號
+台南市,東區,ChIJbSo6nWd3bjQRCrfKPKmJK28,McCafé 咖啡-台南裕農店,22.9898545,120.2424462,4.3,16,,"cafe,store,restaurant,food,point_of_interest,establishment",裕農路855號
+台南市,東區,ChIJE1XuapJ2bjQRRHCH0BxFnXg,台南-CHADOR,22.9944711,120.2179277,4.3,945,2.0,"cafe,store,food,point_of_interest,establishment",勝利路115-1號
+台南市,東區,ChIJUcsQCFJ3bjQR5v7_ydtufuE,【烘焙DIY】甘單作-台南崇德店 固定每周二店休,22.9756451,120.224964,4.9,2374,,"bakery,store,food,point_of_interest,establishment",中華東路三段229號
+台南市,東區,ChIJ3xL0ucB3bjQR5JRIwcKcLTE,HARUKO CAFE閱讀咖啡館（預約制Reservation Only）,22.9888377,120.230045,5.0,60,,"cafe,health,store,food,point_of_interest,establishment",東寧路510巷23號
+台南市,東區,ChIJgetH1Z92bjQRZn5jCyfKLQg,運動彩券,22.975517,120.2252367,2.0,6,,"store,point_of_interest,establishment",崇德路396號
+嘉義市,東區,ChIJN0GLcjWUbjQRbVQfXduMj44,85度C咖啡蛋糕飲料麵包-嘉義中山店,23.4819218,120.4575046,3.8,267,1.0,"bakery,cafe,store,food,point_of_interest,establishment",中山路115號
+嘉義市,東區,ChIJN0GLcjWUbjQR1AedI2DCmHA,85度C咖啡蛋糕飲料麵包-嘉義民族店,23.4765104,120.456383,3.6,298,1.0,"cafe,bakery,store,food,point_of_interest,establishment",民族路189號
+嘉義市,東區,ChIJtahz0giVbjQRSJpishYgOl4,85度C咖啡蛋糕飲料麵包-嘉義世賢店,23.4617121,120.4438078,4.3,267,1.0,"cafe,store,food,point_of_interest,establishment",世賢路四段120號
+嘉義市,東區,ChIJQT7I0a-VbjQRlywRoI5Lfok,85度C咖啡蛋糕飲料麵包-嘉義站前店,23.478544,120.4419526,3.7,168,1.0,"cafe,bakery,store,food,point_of_interest,establishment",仁愛路578-1號
+嘉義市,東區,ChIJkbGqv3-VbjQRLLvs8-NcCSU,85度C咖啡蛋糕飲料麵包-嘉義新生店,23.495475,120.454994,3.7,99,,"store,food,point_of_interest,establishment",新生路721號
+嘉義市,東區,ChIJL4_XisKXbjQRj9y4ZPbe2S4,85度C咖啡蛋糕飲料麵包-嘉義友愛店(直營),23.480854,120.4338374,4.3,730,,"bakery,store,food,point_of_interest,establishment",友愛路161號
+宜蘭縣,羅東鎮,ChIJJ0kO2X3mZzQR9tYa4YbAFrM,85度C 咖啡蛋糕飲料（羅東民權店）,24.6764988,121.7664232,4.0,216,1.0,"cafe,food,point_of_interest,establishment",民權路138號
+宜蘭縣,羅東鎮,ChIJR6MKnNvnZzQRqZxmD3QxvpE,85度C咖啡蛋糕飲料(羅東光榮店),24.6744334,121.7778723,4.0,148,,"cafe,store,food,point_of_interest,establishment",中山路二段337-1號
+宜蘭縣,羅東鎮,ChIJkX7e4HjmZzQR30Urev7vlp8,85度C 羅東站前店,24.6781054,121.7723747,3.6,288,1.0,"cafe,food,point_of_interest,establishment",公正路78號
+宜蘭縣,羅東鎮,ChIJNfNmjHzmZzQRVse3D1R-gy0,85度C 羅東南門店 | 咖啡 - 蛋糕- 飲料 | 美式咖啡 - 拿鐵 - 奶茶 | 外帶咖啡 - 常有優惠,24.6726287,121.7695578,3.7,391,1.0,"cafe,food,point_of_interest,establishment",南門路15號
+宜蘭縣,羅東鎮,ChIJpepxrYbmZzQRuqsisVnAgHE,85度C咖啡蛋糕飲料(羅東北成店),24.6780553,121.7600765,4.2,196,1.0,"cafe,food,point_of_interest,establishment",四育路79號
+宜蘭縣,羅東鎮,ChIJnejneNvlZzQRAPmEicORuZo,85度c五結中正親子旗艦店,24.6919361,121.7701781,4.2,192,,"store,food,point_of_interest,establishment",中正路一段210號
+宜蘭縣,羅東鎮,ChIJgTxl95PmZzQR7FuFVvNop6g,85度C咖啡蛋糕飲料麵包(宜蘭廣興店),24.6695811,121.7482162,3.9,193,1.0,"cafe,food,point_of_interest,establishment",廣興路237號
+宜蘭縣,羅東鎮,ChIJa635wOXlZzQRLbR9AEHGa6c,85度C咖啡蛋糕飲料(宜蘭五結店),24.684208,121.7948958,3.7,359,1.0,"cafe,bakery,store,food,point_of_interest,establishment",五結路三段3號
+宜蘭縣,羅東鎮,ChIJwdCWDn_mZzQR0VodnxbEIms,鹿咖啡工坊,24.6730406,121.7651965,4.5,216,,"cafe,food,point_of_interest,establishment",南門路148號
+宜蘭縣,羅東鎮,ChIJR4TojIPmZzQRjV4MPwn3l-M,果泥菓子蛋糕專賣店,24.6796108,121.7606901,4.2,1037,1.0,"store,food,point_of_interest,establishment",四育路133號
+宜蘭縣,羅東鎮,ChIJnckBJmvnZzQRaEp91U2l6sk,DrinkStore 水雲朵羅東店 - 【宜蘭羅東人氣飲料外送】羅東工業區|特色飲料外送|手搖|飲料店推薦|平價美食,24.6786829,121.7699839,4.6,606,,"point_of_interest,establishment",公正路140號
+宜蘭縣,羅東鎮,ChIJs1OhCrrnZzQRA_Dg7I-3SW8,Deep coffee紳度咖啡,24.6776038,121.7685859,4.8,305,2.0,"cafe,store,food,point_of_interest,establishment",民生路88號
+屏東縣,屏東市,ChIJ3yq5Ln4XbjQRnhI3zrQKo_o,85度C咖啡蛋糕飲料-屏東和平店,22.6651592,120.4784875,3.8,346,1.0,"cafe,bakery,food,point_of_interest,store,establishment",建國路123號
+屏東縣,屏東市,ChIJqb0M5bwXbjQRrUrFkS_CAZk,85度C咖啡蛋糕飲料麵包-屏東中正店(直營),22.6862222,120.4955257,3.9,491,1.0,"cafe,bakery,food,point_of_interest,store,establishment",中正路393號
+屏東縣,屏東市,ChIJwwp0DpgXbjQRJtgzJFxQ3P8,多那之屏東中正門市,22.6825645,120.4922855,4.3,1053,2.0,"cafe,bakery,food,point_of_interest,store,establishment",中正路360號
+屏東縣,屏東市,ChIJt51MU4UXbjQR4AM3f5uiwnk,鼎昌3Q凍圓,22.6724919,120.4929145,3.9,186,1.0,"food,point_of_interest,store,establishment",仁愛路84號
+屏東縣,屏東市,ChIJTUDBit4XbjQRM-6YMdNvT5s,McCafé 咖啡-屏東民生店,22.6608579,120.5093527,4.7,64,,"cafe,restaurant,food,point_of_interest,store,establishment",民生路3之10號
+屏東縣,屏東市,ChIJeyO_TKwXbjQR4L5vKZA2CFs,亞尼克 屏東仁愛店,22.6687635,120.4917747,4.8,703,,"food,point_of_interest,store,establishment",仁愛路14-16號
+屏東縣,屏東市,ChIJx7n8QJoXbjQRr85BxnTwUqc,路易莎咖啡 屏東太平洋店,22.6740711,120.490687,4.0,576,1.0,"cafe,food,point_of_interest,establishment",中華路80號
+屏東縣,屏東市,ChIJN8jwLn4XbjQRkbjzGencJNg,圓堤自家咖啡烘焙咖啡店,22.665159,120.4784833,4.4,47,2.0,"cafe,food,point_of_interest,establishment",建國路125號
+屏東縣,屏東市,ChIJN4IP9LwXbjQRUp3s8_f0rNw,屏東寶德旺法國茶坊,22.6863381,120.4956717,4.3,290,2.0,"cafe,restaurant,food,point_of_interest,establishment",中正路395號
+屏東縣,屏東市,ChIJLfP8Z5EXbjQRPbh4mzhGLn4,Antigua Cafe 安堤瓜,22.6754711,120.498442,4.3,263,2.0,"cafe,restaurant,food,point_of_interest,establishment",民享一路174號
+彰化縣,彰化市,ChIJPeVDYIc4aTQRRKPf0Lp4Jek,85度C-彰化和平店,24.079419,120.5405519,3.9,499,1.0,"bakery,cafe,store,food,point_of_interest,establishment",和平路30號
+彰化縣,彰化市,ChIJJ_o2s8M4aTQRkokTHp766OE,85度C咖啡蛋糕飲料麵包-彰化師大店,24.085914,120.558593,4.0,416,1.0,"cafe,bakery,store,food,point_of_interest,establishment",中山路三段220號
+彰化縣,彰化市,ChIJX7Jr_oI4aTQRDYD_7cqwPdY,85度C彰化金馬店,24.0758918,120.5305365,4.0,471,1.0,"cafe,bakery,store,food,point_of_interest,establishment",金馬路三段784號
+彰化縣,彰化市,ChIJOdM4u5U4aTQRcd1B-7M8ROo,85度C咖啡蛋糕飲料麵包-彰化中民店,24.0838851,120.5472952,3.9,344,1.0,"cafe,bakery,store,restaurant,food,point_of_interest,establishment",中民街93號
+彰化縣,彰化市,ChIJPeVDYIc4aTQR0dH-tH6c7xA,85度C咖啡-彰化彰基店,24.0708111,120.5430971,3.8,392,1.0,"bakery,store,food,point_of_interest,establishment",旭光路331號
+彰化縣,彰化市,ChIJPeVDYIc4aTQRr1Etbhf3dgw,85度C咖啡蛋糕飲料麵包-彰化中正店,24.0670545,120.5350968,4.0,557,1.0,"cafe,food,point_of_interest,establishment",中正路二段679號1樓
+彰化縣,彰化市,ChIJb8FkNmI4aTQRC3bbXcErwRo,85度C咖啡蛋糕飲料麵包-彰化大埔店,24.0627416,120.5438969,4.2,285,1.0,"cafe,food,point_of_interest,establishment",大埔路400號
+彰化縣,彰化市,ChIJL-8XtpNHaTQRSh2jCWJJgWk,85度C咖啡蛋糕飲料麵包-彰化彰鹿店,24.0628586,120.5189098,4.1,261,,"cafe,store,food,point_of_interest,establishment",彰鹿路27號
+彰化縣,彰化市,ChIJ0bED06I4aTQR-rQ9_JmBj9o,煉礦咖啡,24.089558,120.5392948,4.8,192,2.0,"cafe,food,point_of_interest,establishment",自強路42號1F
+彰化縣,彰化市,ChIJT1cx55Y4aTQRpG7mHMJTPX8,Yolo Moment 彰化店｜新美式烘焙坊・輕食,24.0826305,120.542616,4.3,1007,2.0,"bakery,store,restaurant,food,point_of_interest,establishment",中正路一段430號
+彰化縣,彰化市,ChIJWbclowo5aTQRYctckOVdeYc,大正炸雞,24.0897638,120.5388941,4.7,76,,"store,food,point_of_interest,establishment",自強路29號
+彰化縣,彰化市,ChIJ5f84j4U4aTQR0X9_otXerTw,心甜咖啡烘焙坊,24.0733263,120.5389431,4.5,94,,"cafe,food,point_of_interest,establishment",民族路315巷24號
+彰化縣,彰化市,ChIJv3EOpJU4aTQRnrJXgSfmB00,Ace Café,24.084046,120.549073,4.8,241,,"cafe,store,food,point_of_interest,establishment",中正路一段152號
+新北市,三重區,ChIJ7Zq5xdWoQjQRyrihLZtp8Fg,85度c三重仁愛店,25.0820675,121.4893538,3.8,367,1.0,"cafe,store,food,point_of_interest,establishment",分子尾街45號
+新北市,三重區,ChIJ-YImliKpQjQRCSZGopRCX4o,85度C 咖啡蛋糕 三重中正店,25.0692104,121.47816,3.7,452,1.0,"cafe,food,point_of_interest,establishment",中正北路344號
+新北市,三重區,ChIJ1UY5k-aoQjQRLT_-26G-V7E,85度C 咖啡蛋糕 三重中華店,25.0625516,121.4835809,3.9,329,1.0,"cafe,store,food,point_of_interest,establishment",中華路73號
+新北市,三重區,ChIJdVbt4SmpQjQRfr_syd8dPAo,85度C咖啡蛋糕飲料麵包 (三重仁政店),25.0794643,121.4912944,3.6,125,,"cafe,store,food,point_of_interest,establishment",仁政街159號
+新北市,三重區,ChIJHV-fcLeoQjQRQUTY_KDybcU,85度C 咖啡蛋糕 蘆洲光華店,25.0821597,121.4651604,3.4,300,1.0,"cafe,store,food,point_of_interest,establishment",光華路174號
+新北市,三重區,ChIJw3TorNCoQjQRKu2DtHbFaRI,85度C 咖啡蛋糕 三重三和店,25.0771637,121.4854583,3.2,156,1.0,"cafe,bakery,store,food,point_of_interest,establishment",三和路四段272號
+新北市,三重區,ChIJ-YImliKpQjQRh7eRvb69iQE,85度C,25.06331,121.501291,3.4,403,1.0,"cafe,meal_delivery,store,food,point_of_interest,establishment",重新路一段100號
+新北市,三重區,ChIJ43QMN9moQjQRl5DUz84jtig,85度C 咖啡蛋糕 三重自強店(飲品或搭切片滿500元，或整膜蛋糕一顆加飲品200元或整膜蛋糕2顆可外送),25.0676347,121.4927916,3.4,289,1.0,"cafe,bakery,store,food,point_of_interest,establishment",大智街49號
+新北市,三重區,ChIJ-xp4w8uoQjQRjQSkSzjAXtQ,85度C咖啡蛋糕蘆洲復興店,25.0869939,121.4755333,3.3,520,1.0,"bakery,store,food,point_of_interest,establishment",復興路21號
+新北市,板橋區,ChIJ-7pdpheoQjQRMqPWcJEIQ3s,85度C咖啡蛋糕飲料(板橋國光店),25.0185355,121.4611696,3.9,512,1.0,"cafe,food,point_of_interest,establishment",國光路189號
+新北市,板橋區,ChIJPaeUY78CaDQRkV2BVVEjIxI,85度c咖啡蛋糕麵包店-土城裕民店,24.9877452,121.4486545,3.7,835,1.0,"cafe,food,point_of_interest,establishment",裕生路1號
+新北市,板橋區,ChIJcy7Xe58CaDQRuocOYE6on30,85度C咖啡蛋糕麵包店-板橋民德店,25.0033562,121.4690322,3.5,204,1.0,"cafe,bakery,store,food,point_of_interest,establishment",民德路1號
+新北市,板橋區,ChIJfSPQVT6oQjQRh8c9HLMSGMw,85度c咖啡蛋糕麵包店-板橋莒光店,25.0241109,121.4711072,3.6,452,1.0,"cafe,food,point_of_interest,establishment",莒光路64號
+新北市,板橋區,ChIJ-7pdpheoQjQR4kxU_DZPkLs,85度C咖啡蛋糕飲料麵包(板橋中山店),25.0147437,121.4718198,3.7,356,1.0,"cafe,food,point_of_interest,establishment",中山路一段266號
+新北市,板橋區,ChIJ3RksB6QCaDQRngr3aegnLro,85度C咖啡館,25.0021535,121.4625927,3.5,285,1.0,"cafe,food,point_of_interest,establishment",重慶路218號
+新北市,板橋區,ChIJ-7pdpheoQjQRQQusiupVPa4,85度C咖啡蛋糕飲料烘焙(板橋四維店),25.0251324,121.4653585,3.7,415,1.0,"cafe,food,point_of_interest,establishment",四維路126號1樓
+新北市,板橋區,ChIJ-7pdpheoQjQRIenWvOOw_qg,85度C咖啡蛋糕飲料麵包(板橋大仁店),25.0169959,121.4557382,3.9,346,1.0,"cafe,store,food,point_of_interest,establishment",大仁街16號
+新北市,板橋區,ChIJ9_fIRHwCaDQR0CcQNpTlBD8,85度C 咖啡蛋糕麵包店-中和員山店,25.0009998,121.4813967,3.6,562,1.0,"bakery,store,food,point_of_interest,establishment",員山路220號
+新北市,板橋區,ChIJWxSYc0eoQjQRZZst0E4d4lk,85度C咖啡蛋糕飲料麵包(板橋大同店),25.026793,121.476672,3.8,442,1.0,"cafe,store,food,point_of_interest,establishment",雙十路二段10號
+新北市,板橋區,ChIJGQXGeqgCaDQRxQkQGnBKVOI,85度C咖啡蛋糕飲料麵包(板橋南雅店),25.0071949,121.4563774,3.5,181,1.0,"cafe,bakery,store,food,point_of_interest,establishment",新興路2號
+新北市,板橋區,ChIJT2Hs3ZUCaDQRmeX3lSwnz_c,85度C 咖啡蛋糕 土城延和店,24.9897191,121.4700249,3.9,356,1.0,"cafe,food,point_of_interest,establishment",延和路217號
+新北市,板橋區,ChIJw1aRChqoQjQRxkbhS40b8MM,Louisa Coffee 路易莎咖啡(板橋國光店),25.0185874,121.4614433,3.9,662,1.0,"cafe,food,point_of_interest,establishment",國光路189-5號
+新北市,永和區,ChIJ_QsEKXaoQjQRzV1mlOtxquQ,85度C 中和圓通店,24.9940742,121.4963226,3.5,462,1.0,"cafe,store,food,point_of_interest,establishment",中正路226號
+新北市,永和區,ChIJfyrLxcKpQjQRiv5U_8X46m8,85度C 咖啡蛋糕麵包店-永和保平店,25.0075427,121.5124155,3.5,582,,"bakery,store,food,point_of_interest,establishment",保平路22號
+新北市,永和區,ChIJ56dQHrupQjQRpw9p7qSRDB0,85度C 萬華廣州店,25.0367289,121.5002952,3.3,486,1.0,"cafe,food,point_of_interest,establishment",廣州街207號
+新北市,永和區,ChIJfyrLxcKpQjQRT_FJ6uMhRc8,85度C 咖啡蛋糕麵包-永和頂溪店,25.0119016,121.5148922,3.4,650,1.0,"cafe,bakery,store,food,point_of_interest,establishment",永和路二段105號
+新北市,永和區,ChIJfyrLxcKpQjQRoU3tpoA1-44,85度c咖啡蛋糕麵包店-永和得和店,24.9995003,121.5230609,3.5,725,1.0,"cafe,bakery,store,food,point_of_interest,establishment",得和路320號
+新北市,永和區,ChIJT2Zd0nepQjQRkapfDD_uDnc,85度C咖啡蛋糕中和宜安店,24.9970682,121.5111474,3.5,219,1.0,"cafe,bakery,store,food,point_of_interest,establishment",宜安路65號
+新北市,永和區,ChIJmYKV4ACqQjQRNA-XVdeU5dE,85度C 咖啡蛋糕麵包店-台北景美店,24.9917842,121.5412042,3.5,999,1.0,"bakery,cafe,store,food,point_of_interest,establishment",景文街42號
+新北市,永和區,ChIJf88YHZypQjQRhwkYI7h1Ewc,85度C咖啡蛋糕飲料(台北汀州店),25.0241532,121.5218581,3.6,405,1.0,"cafe,food,point_of_interest,establishment",同安街57號
+新竹市,東區,ChIJG0sDEsA1aDQR7tb1pxD5rao,85度C 新竹中正店,24.8119548,120.96418,3.7,486,1.0,"cafe,bakery,food,point_of_interest,store,establishment",經國路二段102號
+新竹市,東區,ChIJPxJ1s-g1aDQReLD8df3Ysfo,85度C 新竹食品店,24.7962418,120.9752868,4.0,642,1.0,"cafe,bakery,food,point_of_interest,store,establishment",東南街197號
+新竹市,東區,ChIJ83OcTug1aDQR_A55puWNN9A,85度C 新竹南大店,24.7910868,120.9646186,4.8,248,1.0,"cafe,food,point_of_interest,establishment",南大路545號
+新竹市,東區,ChIJ4yVTVZA1aDQRNSDWO4yFB08,85度C 咖啡蛋糕飲料麵包-新竹中山店,24.7978782,120.9560764,4.2,307,1.0,"cafe,food,point_of_interest,establishment",中山路550號
+新竹市,東區,ChIJY11XqPA1aDQRs1ZPF89dqZE,85度C咖啡蛋糕飲料麵包-新竹迎曦店,24.8041045,120.9692728,4.1,179,,"cafe,food,point_of_interest,establishment",東門街105號
+新竹市,東區,ChIJE3vv4CA1aDQRSzy8qc47O7A,Kiwi to go,24.7989232,120.9695005,4.7,196,1.0,"cafe,food,point_of_interest,establishment",竹蓮街115號
+新竹市,東區,ChIJT7A-DgQ1aDQRqjXxvaeaLbw,cama café 大魯閣湳雅店,24.8194389,120.9699531,3.7,149,,"cafe,food,point_of_interest,store,establishment",大雅路88號1樓
+新竹市,東區,ChIJM6utU5A1aDQReaM_y-T0kgQ,鵲爾喜攝影棚出租-新竹館,24.8122159,120.9644956,4.7,18,,"point_of_interest,establishment",經國路二段100號遠東銀行樓上/85度C對面4樓
+新竹市,東區,ChIJO-8-t8Q1aDQRI6sdHBeVcEU,風徐徐 homebibi,24.8078811,120.9755802,4.3,238,2.0,"cafe,food,point_of_interest,establishment",民權路102號
+新竹市,東區,ChIJD4msht41aDQRcwI3jVE20ec,Cake wei 私宅甜點,24.802901,120.982265,4.3,345,1.0,"bakery,food,point_of_interest,store,establishment",光復路二段880號
+新竹市,東區,ChIJuW5anJE1aDQR_ChSYxKTkrA,McCafé 咖啡-新竹西大店,24.8060142,120.9623926,4.2,27,,"cafe,restaurant,food,point_of_interest,store,establishment","號1樓, No. 513西大路"
+新竹市,東區,ChIJ79WFgsE1aDQRsaZRQgF4H6g,Jiumu Coffee Roasters九慕咖啡,24.8049455,120.9701265,4.5,911,1.0,"cafe,bar,food,point_of_interest,store,establishment",中正路60號
+新竹縣,竹北市,ChIJCcDQdeo2aDQRwyYpbQPBfMI,85度C 竹北博愛店,24.8350301,121.0145459,4.0,441,1.0,"cafe,food,point_of_interest,establishment",中正東路219號
+新竹縣,竹北市,ChIJA_nIGgA3aDQRfDgvMNJ2s5g,85度C咖啡蛋糕烘培專賣店 竹北台元店,24.8416372,121.0177126,4.1,17,1.0,"cafe,food,point_of_interest,store,establishment",台元一街7號
+新竹縣,竹北市,ChIJb1dSFvo2aDQRVIbVaIC8rXc,85度C咖啡蛋糕飲料麵包-竹北福興店,24.818004,121.0233402,4.0,445,1.0,"cafe,food,point_of_interest,establishment",福興東路一段302號
+新竹縣,竹北市,ChIJ68OyyZE3aDQRzJ3x0kFQt5c,Lady M 遠百竹北店,24.823262,121.023642,4.1,478,,"food,point_of_interest,store,establishment",莊敬北路18號1樓
+新竹縣,竹北市,ChIJMYH8tfg2aDQRbj_ZS1x19M0,或者書店 OR Bookstore｜手沖單品咖啡,24.8121678,121.0275149,4.6,1495,,"book_store,cafe,food,point_of_interest,store,establishment",文興路一段123號
+新竹縣,竹北市,ChIJ-_nXivw2aDQRdOJIFYFXy6c,法樂公爵手工坊,24.8322116,121.0107539,4.8,594,2.0,"bakery,food,point_of_interest,store,establishment",文喜街33號
+新竹縣,竹北市,ChIJP3GKDes2aDQR-yf7OSpWNzo,橋恩咖啡,24.8318101,121.0126401,4.6,514,2.0,"cafe,food,point_of_interest,store,establishment",文信路297號
+桃園市,中壢區,ChIJf_GtIcojaDQRe-k5mOQIkHs,85度C咖啡蛋糕飲料(中壢壢中店),24.9616814,121.211409,3.8,355,1.0,"cafe,food,point_of_interest,establishment",三光路84號1 樓
+桃園市,中壢區,ChIJrykxMrojaDQR0UJ8wOz4Fy8,85度C咖啡蛋糕飲料(平鎮文化店),24.9559645,121.2029084,3.9,233,1.0,"cafe,food,point_of_interest,establishment",文化街24巷2號
+桃園市,中壢區,ChIJk9sPfk4iaDQRGk9JOvmDDl0,85度C咖啡蛋糕飲料(平鎮金陵店),24.9493607,121.2227954,3.9,360,1.0,"cafe,bakery,store,food,point_of_interest,establishment",和平路1號
+桃園市,中壢區,ChIJ_zdK_1IiaDQRjRLfHZzXKIU,85度C中壢振興店(麵包坊),24.9453967,121.2195777,3.9,546,1.0,"cafe,food,point_of_interest,establishment",振興路24號
+桃園市,中壢區,ChIJoTYN2kkiaDQR2k1QmBdOxKY,85度C咖啡蛋糕飲料(中壢龍慈店),24.9413572,121.2453755,4.0,398,1.0,"cafe,food,point_of_interest,establishment",後興路一段183號
+桃園市,中壢區,ChIJ21wxcqgjaDQRWhCDnB2_SlI,85度C咖啡蛋糕飲料麵包(平鎮延平店)-平鎮特色茶飲|熱門飲料|平價飲品|精緻蛋糕|熱門下午茶|甜點推薦,24.9418029,121.205875,3.9,295,1.0,"cafe,food,point_of_interest,establishment",延平路三段9號
+桃園市,中壢區,ChIJoTYN2kkiaDQRVs_ycV4oKGQ,85度C咖啡蛋糕麵包飲料店(中原店),24.9554214,121.2360534,3.6,581,1.0,"cafe,store,food,point_of_interest,establishment",中山東路一段311號
+桃園市,中壢區,ChIJi8n7uCMiaDQRL8ePPKv0jPY,85度C咖啡蛋糕飲料麵包(中壢福州店),24.9688053,121.235881,3.8,322,1.0,"cafe,food,point_of_interest,establishment",中園路157號
+桃園市,中壢區,ChIJlc7oD7IjaDQRtlSaDij2wAA,85度C咖啡蛋糕飲料麵包(中壢中山東店),24.9454251,121.2472973,4.1,100,1.0,"cafe,bakery,store,food,point_of_interest,establishment",中山東路三段48號
+桃園市,中壢區,ChIJHSbnErMjaDQRFnuugGShEtU,85度C咖啡蛋糕飲料麵包(平鎮義民店),24.9525838,121.2148687,3.4,287,1.0,"cafe,food,point_of_interest,establishment",義民路148號
+桃園市,中壢區,ChIJsSn1xfAhaDQRYuYggBXJEM4,85度C咖啡蛋糕飲料(內壢長春店),24.9785652,121.249309,3.5,149,1.0,"cafe,food,point_of_interest,establishment",長春路57號
+桃園市,桃園區,ChIJUafNKP4eaDQRE76DZErdDjI,85度C咖啡蛋糕飲料店(桃園北興店),24.998356,121.3088392,3.3,470,1.0,"cafe,food,point_of_interest,establishment",中正路346號
+桃園市,桃園區,ChIJ7zPMCVEeaDQRBvWNZk8oMpg,85度C桃園大業店,25.0074915,121.3160542,4.0,376,1.0,"cafe,food,point_of_interest,establishment",大業路一段156號
+桃園市,桃園區,ChIJV8GfC7sfaDQRzmwKq1RmCZk,85度C咖啡蛋糕桃園永安北店,25.0180445,121.2928447,4.0,74,,"bakery,food,point_of_interest,store,establishment",永安北路466號
+桃園市,桃園區,ChIJiRxzUgMfaDQRlMPlhWmPTcY,85度C咖啡蛋糕飲料麵包(桃園中山店),24.9920896,121.3033772,4.0,171,1.0,"cafe,food,point_of_interest,establishment",中山路404號
+桃園市,桃園區,ChIJ1Q82QGofaDQRc-BEDMwMnZI,85度C咖啡蛋糕飲料麵包(桃園龍安店),24.990995,121.2797918,4.0,495,1.0,"cafe,food,point_of_interest,establishment",龍安街142號
+桃園市,桃園區,ChIJm4Np0ewfaDQRBCLo88Gspo0,85度C咖啡蛋糕飲料麵包(桃園春日店),24.9983527,121.3152174,3.6,96,1.0,"cafe,food,point_of_interest,store,establishment",春日路236號
+桃園市,桃園區,ChIJ40j2baofaDQRd0h3kbfoFPs,85度C,25.0029737,121.3043651,3.6,177,1.0,"cafe,bakery,food,point_of_interest,store,establishment",力行路34號
+桃園市,桃園區,ChIJSbpBZRQfaDQRKLq3PmY2JJk,85度C咖啡蛋糕飲料烘培(桃園國際店),24.9892174,121.2890076,4.0,241,1.0,"cafe,food,point_of_interest,establishment",國際路一段1200號
+桃園市,桃園區,ChIJHQWWgyMfaDQRC_EtEuXdsVw,Y.J COFFEE 玉津咖啡-桃園站前店,24.990525,121.3099197,4.2,328,,"cafe,food,point_of_interest,establishment",中華路83號
+桃園市,桃園區,ChIJtbe7trYfaDQRnPDGHnRxHE0,MINI.D COFFEE 同德館,25.0187488,121.2948816,4.2,425,,"cafe,food,point_of_interest,establishment",同德十街1號
+桃園市,桃園區,ChIJOwOY2dsfaDQRr948Ri52f4A,Y.J COFFEE 玉津咖啡-桃園藝文店,25.0188564,121.2995815,4.0,268,,"cafe,food,point_of_interest,store,establishment",南平路282號1樓
+桃園市,桃園區,ChIJg96nTFkfaDQRmQjxm0NeEZ0,春綠Caf'e,25.0024415,121.2995303,4.4,217,2.0,"cafe,food,point_of_interest,establishment",愛三街200號
+花蓮縣,花蓮市,ChIJaSxRl5WfaDQRnHwKEmbqjT0,85度C 花蓮和平店,23.9762658,121.6017908,3.8,454,1.0,"cafe,food,point_of_interest,establishment",和平路460號
+花蓮縣,花蓮市,ChIJobBFQr-faDQR1ICwL7ufSiY,85度C咖啡蛋糕飲料麵包(花蓮林森店),23.9807486,121.6046688,4.1,233,1.0,"bakery,cafe,store,food,point_of_interest,establishment",林森路212號
+花蓮縣,花蓮市,ChIJe99mFdSfaDQRq_W_Tyy3rXA,羅伯咖啡中美店,23.9901164,121.6247872,4.2,168,1.0,"cafe,food,point_of_interest,establishment",中美路95號
+花蓮縣,花蓮市,ChIJFViA3YefaDQR6gmXVWvE_9U,McCafé 咖啡-花蓮吉安店,23.9738191,121.587499,4.0,5,,"cafe,store,restaurant,food,point_of_interest,establishment","1樓, No. 11之1號中華路二段"
+花蓮縣,花蓮市,ChIJo0ygHVmfaDQRU0527Ouyy0o,Cafe Copita,23.9746388,121.6083809,4.0,139,,"cafe,food,point_of_interest,establishment",博愛街105號
+花蓮縣,花蓮市,ChIJe3Khi-qfaDQR_hY8tRU9r5M,半寓咖啡,23.97472,121.6080927,4.7,568,2.0,"cafe,food,point_of_interest,establishment",成功街316號
+花蓮縣,花蓮市,ChIJn7C71X2faDQRsQZQSeuzDv8,Search/手作甜點工作室(預訂制/少量現貨),23.9786835,121.5859757,5.0,118,,"store,food,point_of_interest,establishment",自強路111-2號
+雲林縣,斗六市,ChIJl_h6qEDIbjQRKsHs59LI44Y,85度C咖啡蛋糕飲料麵包-斗六莊敬店,23.7049541,120.5503976,4.2,385,1.0,"cafe,bakery,store,food,point_of_interest,establishment",成功二街98號
+雲林縣,斗六市,ChIJ2XTNfzrIbjQReNMAooLjByA,85度C咖啡蛋糕飲料麵包-斗六民生南店,23.7002386,120.5368772,4.0,396,1.0,"cafe,food,point_of_interest,establishment",民生南路226號
+雲林縣,斗六市,ChIJsVVt5iXIbjQRpkpeFuFvK3w,85度C咖啡蛋糕飲料麵包-斗六西平店,23.7126187,120.5342893,3.9,289,1.0,"cafe,bakery,store,food,point_of_interest,establishment",西平路187號
+雲林縣,斗六市,ChIJz4JSjtPJbjQRIBAupMBmRk0,多那之斗六民生門市,23.7019992,120.5368774,4.3,461,2.0,"cafe,store,food,point_of_interest,establishment",民生南路192號
+雲林縣,斗六市,ChIJuyg9ryLIbjQRK8nVC_ma_JI,桔子麵包坊,23.7026409,120.5387574,4.3,107,,"bakery,store,food,point_of_interest,establishment",中山路279號
+雲林縣,斗六市,ChIJZ3DSJta3bjQRpCqmWygNqcI,福滿庭點心屋,23.7188725,120.5278052,4.8,95,,"bakery,store,food,point_of_interest,establishment",西平路440之5號
+雲林縣,斗六市,ChIJ11mUHnDJbjQRGYz4NtoFESs,蛋糕芭比,23.7132199,120.5338984,4.9,72,,"bakery,store,food,point_of_interest,establishment",西平路270-3號
+雲林縣,斗六市,ChIJFw3ON8jJbjQRQYgOVN8NAhU,McCafé 咖啡-斗六民生店,23.7114765,120.5418179,4.1,16,,"cafe,store,restaurant,food,point_of_interest,establishment","1號1樓, No. 156民生路"
+高雄市,苓雅區,ChIJv52625cEbjQRFDdQ4ZyADEE,多那之高雄文化門市,22.6247474,120.3199552,3.8,1084,2.0,"cafe,bakery,food,point_of_interest,store,establishment",和平一路149-15號
+高雄市,苓雅區,ChIJbyYtDH0DbjQRZ6RT5M1Pwgo,多那之高雄一心門市,22.6132115,120.3065936,3.9,900,2.0,"cafe,bakery,food,point_of_interest,store,establishment",一心二路206號
+高雄市,苓雅區,ChIJ6YRFElcDbjQRpc55pkobtYQ,多那之 高雄瑞隆門市,22.605799,120.3336926,3.8,759,2.0,"cafe,bakery,food,point_of_interest,store,establishment",瑞隆路232號
+高雄市,苓雅區,ChIJjYNkl9AEbjQRyJcwWUl1ToA,多那之高雄大豐門市,22.6454688,120.3327538,3.6,843,2.0,"cafe,bakery,food,point_of_interest,store,establishment",大豐二路280號
+高雄市,苓雅區,ChIJMavEKYwFbjQRS3KdpY9k3v8,The Light x Coffee Art n Design灯泡咖啡館 手沖｜滬掛｜軽食｜甜点｜芸術｜家居,22.6320741,120.3309001,4.9,879,,"cafe,restaurant,food,point_of_interest,store,establishment",建國一路137-5號
+高雄市,苓雅區,ChIJkYRxgXwFbjQRCM3yOSqF6ZQ,路易莎咖啡大昌覺民店,22.6408706,120.3321177,3.9,740,1.0,"cafe,food,point_of_interest,establishment",大昌二路89號
+高雄市,苓雅區,ChIJoRA7a3kFbjQRnTuSsYIEFQs,多那之高雄青年門市,22.6222628,120.3093565,3.9,442,2.0,"cafe,bakery,food,point_of_interest,store,establishment",青年一路141號
+高雄市,苓雅區,ChIJ4-xwsmYEbjQReJaTtmPNtBY,街頭咖啡 Street Cafe 自強建國店,22.6348381,120.2914985,4.5,66,1.0,"cafe,food,point_of_interest,establishment",自強一路203號
+高雄市,苓雅區,ChIJ916Pti0FbjQRZD7D55UV1qU,卡啡那 文化探索館,22.6257995,120.3171704,4.1,1690,2.0,"cafe,bakery,food,point_of_interest,store,establishment",五福一路67號西苑
+高雄市,苓雅區,ChIJ3-4cTQADbjQR7KPLNSksj4o,85行館（C招待會所）,22.6117503,120.3001156,5.0,2,,"lodging,point_of_interest,establishment",自強三路5號28樓
+高雄市,苓雅區,ChIJRd8SJn4EbjQRDhkHhd3xfsg,多那之高雄漢神門市,22.6202726,120.297142,3.9,501,2.0,"cafe,bakery,food,point_of_interest,store,establishment",自強三路253號
+高雄市,苓雅區,ChIJs-KqIVMDbjQRPrJiNhRUtMg,歐拉娜手作烘培坊( Alana bakery & dessert),22.61146,120.301403,4.9,200,,"bakery,food,point_of_interest,store,establishment",新光路58號
+高雄市,苓雅區,ChIJFya4Ho0EbjQR_PR5HILGZB0,貓頭鷹咖啡館,22.6347614,120.3064257,4.7,395,2.0,"cafe,food,point_of_interest,establishment",忠孝一路458號
+高雄市,苓雅區,ChIJM0maUOgEbjQRJrLybr8w8ss,家榮乳酪蛋糕,22.6426188,120.3180853,4.0,80,,"bakery,restaurant,food,point_of_interest,store,establishment",延慶街112號
+高雄市,苓雅區,ChIJVeeJuH8EbjQREaGY4UMpm4E,高雄漢來 糕餅小舖,22.61951,120.2967637,4.6,92,,"bakery,food,point_of_interest,store,establishment",成功一路266號
+高雄市,苓雅區,ChIJk5iObJoFbjQRI-JBsF0RRjg,全紅古早味紅茶（嫩江店）,22.6411611,120.2982126,3.1,35,1.0,"cafe,food,point_of_interest,establishment",嫩江街13號
+高雄市,苓雅區,ChIJbR7s5SYFbjQRoSu7-YTfNcc,OCEAN BAKERY,22.6211997,120.3027829,4.8,177,,"bakery,food,point_of_interest,store,establishment",民享街180號
+高雄市,鼓山區,ChIJlSu7BgMFbjQR4TMq-6wzLG4,多那之高雄明誠門市,22.6609758,120.3063734,4.0,1152,2.0,"cafe,bakery,store,food,point_of_interest,establishment",明誠二路433號
+高雄市,鼓山區,ChIJTVobtPUDbjQR_ann5LQe_9M,握咖啡西子灣店(總店),22.6200206,120.2702696,4.6,451,1.0,"cafe,food,point_of_interest,establishment",濱海二路5號
+高雄市,鼓山區,ChIJFRI3KywFbjQRtRangAm-L_A,92度半咖啡（鼓山西藏號）,22.6548797,120.2785272,4.9,57,,"store,food,point_of_interest,establishment",西藏街250號
+高雄市,鼓山區,ChIJ2ZsFYTgFbjQR4vQfh_hOpkQ,魯克思咖啡,22.6600071,120.3039972,4.3,1101,2.0,"cafe,restaurant,food,point_of_interest,establishment",修明街166號
+高雄市,鼓山區,ChIJK5qKSasFbjQRrw1tMFuqBHs,CAMA CAFE 明誠農十六,22.6609587,120.2929971,4.4,223,1.0,"cafe,store,food,point_of_interest,establishment",明誠三路743號
+高雄市,鼓山區,ChIJ7bWAc0gDbjQR7wlfHMwZ4BA,McCafé 咖啡-高雄大遠百店,22.6127793,120.3042688,4.9,12,,"cafe,store,restaurant,food,point_of_interest,establishment","B1, No. 21號三多四路"

@@ -1,0 +1,61 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台北市,大安區,ChIJ5QizddOrQjQRkBsS22h-CAg,STARBUCKS 星巴克 (興南門市),25.0336321,121.5437884,4.0,1530,2.0,"cafe,food,point_of_interest,store,establishment",復興南路一段323號
+台北市,大安區,ChIJlSurRpSrQjQRlDAxFcv7a-A,Starbucks 星巴克（南京三民門市）,25.051653,121.5636801,4.1,1390,2.0,"cafe,food,point_of_interest,store,establishment",南京東路五段171號
+台北市,大安區,ChIJq5CpdnCpQjQRJj60IikpJJ8,STARBUCKS 星巴克 (紹興門市),25.0445625,121.5252208,4.1,1204,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路一段31號
+台北市,大安區,ChIJC_0CPLmrQjQRzBPdFBld4_4,星巴克 台北時代門市,25.0406227,121.5654586,4.0,1461,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路五段8號2F
+台北市,大安區,ChIJrRnsfXypQjQReSSLn02HMjE,星巴克 忠新門市,25.0419847,121.5317291,4.1,1302,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路二段134巷2號
+台北市,大安區,ChIJ_YvA9-WrQjQR8rHCrpoKgh8,星巴克 龍門門市,25.0413751,121.5482898,4.2,2773,2.0,"cafe,food,point_of_interest,establishment",忠孝東路四段134號
+台北市,大安區,ChIJW8mtjt-rQjQRK-EealWOg0s,Starbucks 星巴克（南京建國門市）,25.0521994,121.537191,4.2,1645,2.0,"cafe,food,point_of_interest,store,establishment",南京東路三段1號
+台北市,大安區,ChIJDUmD13moQjQREo8j1iLK9HY,星巴克（辛亥門市）,25.0217296,121.5411881,4.1,1407,2.0,"cafe,food,point_of_interest,store,establishment",辛亥路二段175號
+台北市,大安區,ChIJY1uqz8irQjQRCVJuBqEowaQ,星巴克 敦富門市,25.0312022,121.5491881,4.1,849,2.0,"cafe,food,point_of_interest,store,establishment",敦化南路二段59號
+台北市,大安區,ChIJVQRx7t2rQjQRr5b6VuvX834,Starbucks 星巴克 (南京復興門市),25.0516576,121.5437481,4.0,1136,2.0,"cafe,food,point_of_interest,store,establishment",南京東路三段224號1F
+台北市,大安區,ChIJJztx2cWrQjQRTlWIcHoPop0,星巴克 忠孝延吉門市,25.0412211,121.5539427,4.0,725,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路四段230號
+台北市,大安區,ChIJJ5L21Z6pQjQRgrSFseDy92M,星巴克（南海門市）,25.0323876,121.5168813,4.1,1546,2.0,"cafe,food,point_of_interest,store,establishment",南海路20號
+台北市,大安區,ChIJ4bT0-oupQjQRIzo8NiGCeAY,STARBUCKS 星巴克 (羅斯福門市),25.0174952,121.5318679,4.1,982,2.0,"cafe,food,point_of_interest,store,establishment",羅斯福路三段301號
+台北市,大安區,ChIJY1uqz8irQjQRnetWuLM8xzQ,星巴克（和平門市）,25.0268191,121.5229239,3.9,1234,2.0,"cafe,food,point_of_interest,store,establishment",和平東路一段2號
+台北市,大安區,ChIJSaacLierQjQRUPX2UUD4uxc,星巴克 (遠百A13門市),25.0368519,121.5677823,3.7,249,2.0,"cafe,food,point_of_interest,store,establishment",松仁路58號B2
+台北市,大安區,ChIJlwNNWQCrQjQR7xDNkcAHj0I,星巴克典藏™ DREAM PLAZA台北,25.0397823,121.5654532,3.8,679,,"cafe,food,point_of_interest,store,establishment",松高路11號6樓
+台北市,大安區,ChIJ1YzfMc3WDRQRrjAhgGbVNFQ,STARBUCKS 星巴克 通化門市,25.0324996,121.554457,4.0,821,2.0,"cafe,food,point_of_interest,store,establishment",文昌街209號
+台北市,大安區,ChIJuTnTDzKqQjQRUzlPO75hUGI,星巴克 敦和門市,25.0255371,121.549124,4.1,686,2.0,"cafe,food,point_of_interest,store,establishment",敦化南路二段263號
+台北市,大安區,ChIJrRnsfXypQjQR5RegFqscptY,星巴克 (台北捷運門市),25.0460466,121.5179193,4.2,829,2.0,"cafe,food,point_of_interest,store,establishment",忠孝西路一段49號B1F
+台北市,大安區,ChIJdcsqMeCpQjQR1dSa-9UH9vk,Starbucks 星巴克 (南京西門市),25.0526864,121.5195903,4.1,1052,2.0,"cafe,food,point_of_interest,establishment",南京西路36號
+台北市,大安區,ChIJ-cMhaRWrQjQRrY_ScenP9Aw,Starbucks 星巴克 (信義南山門市),25.0343163,121.5680845,4.1,357,2.0,"cafe,food,point_of_interest,establishment",松仁路100號2F
+台北市,大安區,ChIJy1stmSiqQjQRWxEjYekjEaM,星巴克 興和門市,25.0255766,121.5436477,3.9,737,2.0,"cafe,food,point_of_interest,store,establishment",復興南路二段275號
+台北市,大安區,ChIJEzwHJCSrQjQRg7SBxnkc0Y8,星巴克 長興門市,25.0173744,121.5449719,4.1,261,2.0,"cafe,food,point_of_interest,store,establishment",基隆路三段85號
+台北市,大安區,ChIJY1uqz8irQjQRbMlb2e98UiI,星巴克 同領門市,25.0417739,121.551495,3.7,287,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路四段201號
+台北市,大安區,ChIJc6Lk1GepQjQRS8T9Sqnvra0,Starbucks 星巴克 (林森門市),25.0539451,121.5258944,4.0,828,2.0,"cafe,food,point_of_interest,store,establishment",林森北路247號
+台北市,大安區,ChIJ5aXDWJ2pQjQR1q32d8yhJPU,STARBUCKS 星巴克 (杭州門市),25.0355845,121.5245834,4.0,911,2.0,"cafe,food,point_of_interest,store,establishment",信義路二段1-1號
+台北市,大安區,ChIJIcFPa4KpQjQR5SlT6EQMkiI,星巴克 永康街2F門市,25.0332989,121.529752,4.1,966,2.0,"cafe,food,point_of_interest,store,establishment",永康街2號2樓
+台北市,大安區,ChIJ4bT0-oupQjQR7L09td6Ndhg,星巴克（建和門市）,25.0255264,121.5372233,4.1,916,2.0,"cafe,food,point_of_interest,store,establishment",和平東路二段42-1號
+台北市,大安區,ChIJXZu3TU-pQjQRbGJOx06QCvA,星巴克 古亭門市,25.0244561,121.5246387,4.1,306,2.0,"cafe,food,point_of_interest,store,establishment",羅斯福路二段109號
+台北市,大安區,ChIJVZX9rtCrQjQRpv0zCdvBQfI,星巴克 崇興門市,25.0408932,121.5432417,3.9,221,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路三段300號B2
+台北市,大安區,ChIJ_Y_2-7qrQjQRUCBvHVZMqkA,星巴克 松仁門市,25.038252,121.5691713,3.6,115,2.0,"cafe,food,point_of_interest,store,establishment",松仁路7號國泰金控大樓1樓
+台北市,大安區,ChIJTTJnetqrQjQRCaEi7SaExME,星巴克 崇光門市,25.0419479,121.5448735,3.9,283,2.0,"cafe,food,point_of_interest,store,establishment",忠孝東路四段45號B1
+台北市,大安區,ChIJUzoMxrarQjQR_T4HJVWbE-I,星巴克 摩登典藏吧台 (101典藏門市),25.0335181,121.564232,4.1,680,2.0,"cafe,food,point_of_interest,store,establishment",市府路45號
+台北市,大安區,ChIJ3Tv9FOerQjQRttsoFFBkLIg,星巴克 華視門市,25.0424529,121.5567119,4.2,938,2.0,"cafe,food,point_of_interest,establishment",光復南路180巷14號
+台北市,大安區,ChIJGeHaqGSpQjQRsz-t4IS6ZDY,星巴克 三創門市,25.0450708,121.5309575,4.0,904,2.0,"cafe,food,point_of_interest,establishment",市民大道三段2號1樓
+台北市,大安區,ChIJB3VqqLurQjQRbvLepYNdwUQ,星巴克 寶麗廣塲 B1門市,25.0394953,121.5679586,4.0,700,2.0,"cafe,food,point_of_interest,store,establishment","B1, No. 28號松仁路"
+台北市,大安區,ChIJi45hzWipQjQRatpOkgxPjRA,星巴克 (時代寓所門市),25.0437003,121.5239036,4.4,1404,2.0,"cafe,food,point_of_interest,store,establishment",林森南路7-1號
+台北市,大安區,ChIJ3Tv9FOerQjQRbY3e5ej0jKI,星巴克 復安門市,25.0427452,121.5448233,4.1,639,2.0,"cafe,food,point_of_interest,store,establishment",復興南路一段135巷9號
+台北市,大安區,ChIJzQAOKCwjaTQRWTUHYNd1-KM,星巴克 (新光門市),25.0367103,121.5672369,3.2,239,2.0,"cafe,food,point_of_interest,store,establishment",松壽路11號
+台北市,大安區,ChIJ1cPodmarQjQRUq0zbfM-BjE,Starbucks 星巴克 (微風南山門市),25.0343073,121.5659555,3.6,172,,"cafe,food,point_of_interest,store,establishment",松智路17號1樓
+台北市,大安區,ChIJlyAJn4ypQjQRSBKzn33ex3U,星巴克 (公館水源門市),25.0138262,121.5303118,3.8,434,2.0,"cafe,food,store,point_of_interest,establishment",思源街16號
+台北市,大安區,ChIJ1Z4ZHcOrQjQRJjpTPsint9w,STARBUCKS 星巴克 (台視門市),25.0480562,121.5505335,4.1,605,2.0,"cafe,food,store,point_of_interest,establishment",八德路三段10號
+台北市,大安區,ChIJt0mjjOmrQjQRIPNI7JSUTag,STARBUCKS 星巴克 (北寧門市),25.0514902,121.553724,4.2,707,2.0,"cafe,food,store,point_of_interest,establishment",南京東路四段56號
+台北市,大安區,ChIJs_lx6mOpQjQRhXXSmtudyPw,Starbucks 星巴克 (松江長安門市),25.0485746,121.5326902,4.0,716,2.0,"cafe,food,point_of_interest,establishment",松江路54號1樓
+台北市,大安區,ChIJofxhW8nWDRQRzwo_vIVzIhk,星巴克 北醫吳興門市,25.0277278,121.562979,4.0,622,2.0,"cafe,food,store,point_of_interest,establishment",吳興街220巷1號
+台北市,大安區,ChIJ0UNk_OerQjQRbGO4NM7vS9c,星巴克 慶城門市,25.05261,121.5445101,3.8,581,2.0,"cafe,food,store,point_of_interest,establishment",慶城街1號
+台北市,大安區,ChIJt2HAiCarQjQRbLUFHw7qy9c,Starbucks 星巴克 (101門市),25.0339586,121.5644225,4.3,23,,"food,store,point_of_interest,establishment",市府路45號1樓-B.C室
+台北市,大安區,ChIJO-lAiuirQjQRWbc1xgWv0kg,星巴克 敦化門市,25.0538791,121.549365,4.0,697,2.0,"cafe,food,store,point_of_interest,establishment",敦化北路147號
+台北市,大安區,ChIJHWGazrSrQjQRNWJkISktNFw,星巴克 北醫門市,25.0273108,121.5632804,4.0,484,2.0,"cafe,food,store,point_of_interest,establishment",吳興街252號
+台北市,大安區,ChIJN4Jy84yrQjQR5CM9MNH4Zc8,Starbucks星巴克 (東興門市),25.0478929,121.5662913,4.1,65,2.0,"cafe,food,store,point_of_interest,establishment",東興路37號
+台北市,大安區,ChIJz7SCshuoQjQRqFNaaxFb0D0,星巴克 (仁愛國泰門市),25.0374185,121.5545958,4.0,266,2.0,"cafe,food,store,point_of_interest,establishment",仁愛路四段304號號1樓
+台北市,大安區,ChIJQazyoSirQjQRZMdYYKJUigA,星巴克 信義經貿門市,25.0325552,121.5670066,4.3,239,2.0,"cafe,food,store,point_of_interest,establishment",信義路五段106號
+台北市,大安區,ChIJ40rVCLipQjQRP9GMIxWM9PY,STARBUCKS 星巴克 (師大和平門市),25.0268111,121.5292026,4.3,110,,"food,store,point_of_interest,establishment",和平東路一段129-1號1樓
+台北市,大安區,ChIJiVTBIxurQjQRDbtAU6P3r9M,Starbucks 星巴克 (時代B2門市),25.040612,121.5653956,2.5,97,,"cafe,food,store,point_of_interest,establishment",忠孝東路五段8號
+台北市,大安區,ChIJ9y4447qrQjQR8M_LqYlWKHo,星巴克 世貿一館門市,25.03462,121.5621094,4.0,411,2.0,"cafe,food,store,point_of_interest,establishment",信義路五段5號
+台北市,大安區,ChIJ3Tv9FOerQjQR0Mv3htMmPsg,STARBUCKS 星巴克 (微風南京門市),25.0521174,121.5485075,3.6,251,2.0,"cafe,food,store,point_of_interest,establishment",南京東路三段337號
+台北市,大安區,ChIJFWlX4LWrQjQRQ1XP4fhdm64,統一星巴克 南山門市,25.0316896,121.561159,4.0,398,2.0,"cafe,food,point_of_interest,establishment",莊敬路168號
+台北市,大安區,ChIJ91kTojKqQjQRVxetIsd5LD4,星巴克 (敦南門市),25.0287036,121.5493588,4.2,329,2.0,"cafe,food,store,point_of_interest,establishment",敦化南路二段101號
+台北市,大安區,ChIJT3PMOHSpQjQR_qvWK-5lBGY,STARBUCKS 星巴克 (台醫B1門市),25.0402741,121.5191591,3.4,154,2.0,"cafe,food,store,point_of_interest,establishment","B1, No. 7號中山南路"
+台北市,大安區,ChIJOYUzfnKpQjQR5Xpm_wV9JFI,STARBUCKS 星巴克 (台鐵一門市),25.0475771,121.5170965,4.0,583,2.0,"cafe,food,store,point_of_interest,establishment",北平西路3號2樓

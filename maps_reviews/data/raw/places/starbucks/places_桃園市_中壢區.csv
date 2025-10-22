@@ -1,0 +1,12 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+桃園市,中壢區,ChIJv4mu1DYiaDQRwagUfk3WlYo,星巴克 中壢元化門市,24.9622271,121.2251643,4.2,850,2.0,"cafe,store,food,point_of_interest,establishment",元化路305號1F
+桃園市,中壢區,ChIJ7xVfyEkiaDQRC2xnmB4ZzaM,星巴克 復興門市,24.9559727,121.2248001,4.1,1341,2.0,"cafe,store,food,point_of_interest,establishment",中山路138號
+桃園市,中壢區,ChIJf3umRTEiaDQRHU4DOGnFqlU,星巴克 中壢海華門市,24.963227,121.2235258,4.0,809,2.0,"cafe,store,food,point_of_interest,establishment",九和二街13號
+桃園市,中壢區,ChIJc9ZtWLsjaDQR1PpDd55Tezs,星巴克 平鎮民族門市,24.9569296,121.2029794,4.2,971,2.0,"cafe,food,point_of_interest,establishment",民族路二段209號
+桃園市,中壢區,ChIJM91wWnsjaDQRo886_S_F2X0,星巴克 內壢中華門市,24.9688565,121.2502288,4.0,637,2.0,"cafe,store,food,point_of_interest,establishment",中華路一段669號
+桃園市,中壢區,ChIJ72Av7BUiaDQRm5UikqnKazk,星巴克 中原大學門市,24.9571964,121.2408442,4.1,782,2.0,"cafe,store,food,point_of_interest,establishment",中北路200號維澈樓
+桃園市,中壢區,ChIJmd1WiCAjaDQRgUWApY5B1v0,星巴克 中壢大全聯門市,24.9542139,121.2345293,3.8,285,2.0,"cafe,store,food,point_of_interest,establishment",中北路二段468號
+桃園市,中壢區,ChIJi6Veg98jaDQRap2r71gLNsM,小古華咖啡 La Petite Kuva Coffee,24.9646436,121.2171833,3.7,26,,"cafe,store,food,point_of_interest,establishment",民權路398號
+桃園市,中壢區,ChIJEbT4JzciaDQRJ_XkOlo5uQI,Louisa Coffee 路易莎咖啡(中壢SOGO門市),24.9622104,121.2252347,3.2,623,1.0,"cafe,food,point_of_interest,establishment",元化路303號
+桃園市,中壢區,ChIJ1_mM9NQjaDQR7pfWhvCZz-8,Louisa Coffee 路易莎咖啡(平鎮文化門市),24.9560073,121.2030587,4.1,602,1.0,"cafe,store,food,point_of_interest,establishment",文化街25號
+桃園市,中壢區,ChIJt6hIuwojaDQR-qPO_f6RVqU,南極冰窖-中壢祕境•冰品界星巴克•鮮奶昔•鮮果昔•綿綿冰淇淋,24.9575297,121.2278298,4.8,150,,"store,restaurant,food,point_of_interest,establishment",元化路63號

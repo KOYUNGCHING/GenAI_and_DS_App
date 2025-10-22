@@ -1,0 +1,61 @@
+﻿city,area_name,place_id,name,lat,lng,rating,user_ratings_total,price_level,types,address
+台中市,北區,ChIJH-emN-c9aTQRQdoHLBm2H88,PHASE Coffee Espresso 西區模範店 咖啡&費南雪,24.1485361,120.6683595,4.5,71,,"cafe,food,point_of_interest,establishment",民權路225巷12號
+台中市,北區,ChIJe0K3Z5oXaTQRMAeRRsHBIP8,青燕焙煎所AOIWA Coffee - 賣牛肉麵的咖啡館,24.1735764,120.6674594,5.0,1124,,"cafe,store,restaurant,food,point_of_interest,establishment",文心路三段403巷4號
+台中市,北區,ChIJw3BhNws9aTQRqXd7i8dZAoQ,Coffee Industry-Café Sora︱Coffee︱Dessert︱Select,24.143555,120.6701035,4.4,494,2.0,"cafe,food,point_of_interest,establishment",民生路179號
+台中市,北區,ChIJqcHnxAo9aTQRWmCeFYcyzBE,DM CAFE,24.143751,120.6680648,4.7,577,1.0,"cafe,food,point_of_interest,establishment",民生路225巷11號
+台中市,北區,ChIJa_ffbegXaTQR4mi9UsYYn4k,成真咖啡 ComeTrue CAFE 台中太原崇德店,24.1654325,120.6847798,4.7,204,,"cafe,store,restaurant,food,point_of_interest,establishment",崇德路一段523號
+台中市,北區,ChIJe7rMARQ9aTQRPq_rBa0i1l0,屋七咖啡所 うち (U-JI CAFE),24.1463597,120.6609932,4.7,359,,"cafe,store,food,point_of_interest,establishment",向上南路一段32號
+台中市,北區,ChIJS7cspXU9aTQRkAbuBxBKg8Q,coffee stopover,24.1479785,120.6680138,4.8,1849,2.0,"cafe,store,food,point_of_interest,establishment",民權路217巷24號
+台中市,北區,ChIJyXuha8cXaTQRJmmGHsftWaM,Raven Coffee｜台中不限時咖啡廳,24.1758745,120.6869595,4.9,99,,"cafe,food,point_of_interest,establishment",大連路二段135號
+台中市,北區,ChIJXSNk8ps9aTQRDpOr6ajOafE,無敵咖啡,24.1395915,120.6810793,5.0,511,,"cafe,store,restaurant,food,point_of_interest,establishment",中山路107號
+台中市,北區,ChIJ1YQHhDQXaTQRTfHZMrovjTA,咖啡候機室 台中崇德店,24.1730926,120.6856397,4.9,234,,"cafe,store,food,point_of_interest,establishment",崇德路二段178號1樓
+台中市,北區,ChIJy6FXbe49aTQRxQHtSM7_lW4,L'USiNE Café 早午餐咖啡廳,24.1524861,120.6608111,4.7,1622,,"cafe,store,restaurant,food,point_of_interest,establishment",忠誠街69號
+台中市,北區,ChIJkQRlY5k9aTQR6zu4ahtjHls,秋多咖啡 Chiutio Coffee,24.1562344,120.679069,4.9,466,,"cafe,store,food,point_of_interest,establishment",大德街16號
+台中市,北區,ChIJ-wVOCJg9aTQR8LJTcDZRAVI,Create Cafe 創造咖啡店,24.1540201,120.6647127,4.7,289,,"cafe,restaurant,food,point_of_interest,establishment",臺灣大道二段349號
+台中市,北區,ChIJBROjIdU9aTQRYaTMux7azhE,Brewsome Coffee 梅亭店 (早午餐點供應至 平日:15:00，假日:17:00),24.1604606,120.6777498,4.7,279,,"cafe,store,restaurant,food,point_of_interest,establishment",梅亭街438號
+台中市,北區,ChIJj3ruWDUXaTQRXWSKEK-OKoY,滴藝術咖啡館,24.1693364,120.681478,4.9,296,,"cafe,store,restaurant,food,point_of_interest,establishment",綏遠路二段20號
+台中市,北區,ChIJ_yGBMjA9aTQRmYzKYx64cx0,孔雀咖啡 PEACOCKS COFFEE 【 早午餐點供應至 16:00】,24.1444114,120.6777739,4.7,709,2.0,"cafe,food,point_of_interest,establishment",大誠街5號
+台中市,北區,ChIJuegmP28XaTQRLVjaBN3r6JM,CAFFÈ SENNIGHT ROASTER 咖啡柒夜,24.1634085,120.6693192,4.7,57,,"cafe,food,point_of_interest,establishment",忠明七街41號
+台中市,北區,ChIJPyI4SjY9aTQROUtMEAOTtFc,櫻桃計畫咖啡館｜一中門市,24.1466267,120.685984,4.6,161,,"cafe,store,food,point_of_interest,establishment",雙十路一段89號
+台中市,北區,ChIJNSGTSgw9aTQRNy6EDGYn-m0,Flora Caffè,24.1392414,120.674543,4.8,186,2.0,"cafe,food,point_of_interest,establishment",大明街10號
+台中市,北區,ChIJxUG6PX89aTQRT0sl2zls30I,HAUSINC CAFE,24.1618883,120.6678783,4.6,910,2.0,"cafe,food,point_of_interest,establishment",忠太西路39號
+台中市,北區,ChIJbZYFDgA9aTQRlEH7TNIVyDE,92度半咖啡 北美店,24.1578673,120.6573853,4.8,131,,"cafe,food,point_of_interest,store,establishment",臺灣大道二段607號
+台中市,北區,ChIJFZ4u98AXaTQRjOTmlvr9XDs,梨子 崇德店,24.1818373,120.685714,4.4,4079,2.0,"meal_delivery,cafe,restaurant,food,point_of_interest,store,establishment",崇德路三段1號
+台中市,北區,ChIJCUReNbI9aTQRbyOqNGBUyyY,成真咖啡Cometrue 台中審計店(創始店）,24.1444404,120.6623194,4.5,2847,2.0,"cafe,food,point_of_interest,establishment",民生路370號
+台中市,北區,ChIJSyMYqgEXaTQRmB5Q1kZCSWY,小多山咖啡,24.1739799,120.6691909,4.9,154,,"cafe,food,point_of_interest,store,establishment",大連西路67號
+台中市,北區,ChIJMUic6-49aTQR-l7VZyPD9k0,nnud café,24.1590383,120.6941404,4.8,126,,"cafe,food,point_of_interest,store,establishment",進化路567號
+台中市,北區,ChIJpVi7fgAXaTQRwOCR6BVs6lE,HerCafe喝咖啡(咖啡飲品暢飲/不限時/插座/多種食物每日變換)－試營運中,24.182417,120.678942,4.6,147,,"cafe,food,point_of_interest,store,establishment",榮德路298號1、2樓
+台中市,北區,ChIJw1E6NBM9aTQRMyKA_VX61TY,順咖啡,24.1413257,120.6814278,4.7,514,2.0,"cafe,food,point_of_interest,establishment",市府路107巷1-2號
+台中市,北區,ChIJXbddG0A9aTQRJB4fegE_Np4,BeanGood Café 冰穀咖啡草悟店（實際營業時間依店家FB&IG公告為主）,24.1498515,120.6672041,4.8,862,2.0,"cafe,bakery,food,point_of_interest,store,establishment",模範街46巷6號
+台中市,北區,ChIJM96pa0o9aTQRYdoqt-oJ6-Y,REING CAFE 咖啡廳｜早午餐｜下午茶,24.1407907,120.6846479,4.8,923,,"cafe,restaurant,food,point_of_interest,store,establishment",光復路42-3號2樓
+台中市,北區,ChIJcYDi3vkXaTQRB1L1W47fHmo,果咖 精品咖啡 台中旗艦店,24.1756463,120.6859809,4.8,184,2.0,"restaurant,cafe,food,point_of_interest,store,establishment",大連路二段50號
+台中市,北區,ChIJJS2DgAQ9aTQRArIMR1Ob-hM,McCafé咖啡-台中館前店,24.1566931,120.6664254,4.8,26,,"cafe,restaurant,food,point_of_interest,store,establishment","號2樓, No. 1館前路"
+台中市,北區,ChIJ5W_FYgw9aTQRvMfq0aI3dMo,Caster 咖啡｜外帶吧｜磅蛋糕《向上店》,24.1464625,120.667027,4.9,204,,"cafe,restaurant,food,point_of_interest,store,establishment",向上路一段27-15號號
+台中市,北區,ChIJ9z29aFkXaTQRN1YFy8ADp1o,丁威分享咖啡-北屯精品咖啡|人氣咖啡|手沖咖啡|精品咖啡豆|精品咖啡廳|咖啡廳推薦|自家烘焙咖啡|咖啡豆首選,24.1670982,120.6882748,5.0,53,,"cafe,restaurant,food,point_of_interest,establishment",漢口路五段93號
+台中市,北區,ChIJsdo0BRU9aTQR87Lb5drkCkk,KroX Coffee HQ｜公休日、訂位資訊以IG為主｜跨蒔咖啡｜復古咖啡｜港風｜寵物友善｜附停車場,24.1593694,120.67473,4.7,172,,"cafe,food,point_of_interest,store,establishment",健行路656號
+台中市,北區,ChIJcV-tFK49aTQRJhdJ6afExjU,PHILMAR 白霧咖啡,24.1527113,120.6706597,4.9,196,1.0,"cafe,restaurant,food,point_of_interest,establishment",西屯路一段147-24號
+台中市,北區,ChIJrZWdKJw9aTQRy3d5Y122Rlw,做咖啡 hecho cafe & wine,24.1513983,120.6623315,4.5,2788,2.0,"cafe,restaurant,food,point_of_interest,store,establishment",美村路一段149巷12號
+台中市,北區,ChIJl_aVVAk9aTQRAE47iIS0J7A,Roundabout Cafe 圓環咖啡《梅川店》,24.1564324,120.6756668,4.6,333,2.0,"cafe,restaurant,food,point_of_interest,store,establishment",梅川東路三段207號
+台中市,北區,ChIJAyI79k0XaTQR7VwX0XkhF5I,黑宿咖啡 Hei-Siou Café｜台中自烘咖啡廳,24.1764409,120.6650183,5.0,49,,"cafe,food,point_of_interest,store,establishment",三和一巷2弄1號
+台中市,北區,ChIJeRtAO2M9aTQRq392OmTw634,貓咪跑跑咖啡廳,24.1604885,120.6785067,4.7,1925,2.0,"cafe,restaurant,food,point_of_interest,store,establishment",大德街131號
+台中市,北區,ChIJzTVhCa89aTQRW_AOEnFJijE,Cuteness Overload 鮮花咖啡（店休日於ig公告）,24.160974,120.6836251,4.8,117,,"cafe,florist,restaurant,food,point_of_interest,store,establishment",大義街101號
+台中市,北區,ChIJiWuaazM9aTQRLuL5Mb3n9Ps,覓郵咖啡MIYO Coffee｜自家烘豆,24.140213,120.6854549,4.9,325,2.0,"cafe,store,food,point_of_interest,establishment",光復路14號
+台中市,北區,ChIJGz7AdZs9aTQRyjn724iqIs4,台灣惠蓀咖啡,24.1456113,120.6623989,4.5,407,1.0,"cafe,store,food,point_of_interest,establishment",昇平街60號
+台中市,北區,ChIJnQ5rtPY9aTQRLrls_3GiKjA,CUP&GO來速咖啡公園路站,24.146563,120.6829332,4.9,96,,"cafe,store,food,point_of_interest,establishment",三民路三段50號
+台中市,北區,ChIJK69iezk9aTQRd1yXxAbqZ3Q,暖活咖啡 nuanhuo cafe,24.1581321,120.6613831,4.8,132,,"cafe,store,restaurant,food,point_of_interest,establishment",華美西街一段142號1樓
+台中市,北區,ChIJ1WiAy5IXaTQRsxd2eTsmYvg,客美多咖啡 Komeda's Coffee 台中崇德店,24.1728409,120.6857394,4.2,842,2.0,"cafe,store,restaurant,food,point_of_interest,establishment",崇德路二段168號
+台中市,北區,ChIJ7z8Mrrs9aTQR9zTGRnFmkTk,WAKA café 瓦卡咖啡 台中公益店,24.1509773,120.6683993,4.7,198,,"cafe,food,point_of_interest,establishment",公益路30號
+台中市,北區,ChIJ5UefzOc8aTQROJzP3jPHNL8,亨利貞-精品咖啡·江浙麵食·甜點 咖啡館 台中推薦手沖咖啡|精品咖啡|必喝咖啡|台中精品咖啡廳|特色咖啡廳,24.1380812,120.6636248,4.6,284,2.0,"cafe,food,point_of_interest,establishment",五權西二街56號
+台中市,北區,ChIJQVGbg_qraTQRYdqBpaiZtFQ,Ritrovare coffee / 尋品·旬品 咖啡,24.173263,120.6786998,4.7,187,,"cafe,food,point_of_interest,establishment",文心路四段271號
+台中市,北區,ChIJFWcdmMc9aTQRpnmtJsoU9rY,BUBU ART CAFE 橘子布藝術咖啡（台中審計店）,24.1447359,120.6624653,4.7,301,,"cafe,store,restaurant,food,point_of_interest,establishment",民生路368巷3號
+台中市,北區,ChIJyVmy7mQ9aTQRZ2RCcRwz3W8,Coffee Love - 手沖 ‧ 義式咖啡｜咖啡豆｜家庭早午餐,24.1564597,120.6791495,4.8,45,,"cafe,food,point_of_interest,establishment",育德路2巷36號
+台中市,北區,ChIJudb0xKsXaTQRrZinrR1fyJ8,Stolentime Cafe 偷時咖啡（特別休假請看IG）台中咖啡｜手沖｜義式咖啡｜咖啡豆販售｜咖啡器材,24.1593511,120.7017324,5.0,50,,"cafe,store,food,point_of_interest,establishment",東成二街63號
+台中市,北區,ChIJ00BkDoE9aTQRndY-gwkcp9o,酒窩咖啡,24.1637862,120.6622294,4.6,240,2.0,"cafe,food,point_of_interest,establishment",西屯路二段10-8號
+台中市,北區,ChIJ3WfNmYIXaTQRY289zj2aFOk,手沖心情咖啡館（茶飲）,24.1765417,120.6727673,4.9,146,,"cafe,food,point_of_interest,establishment",瀋陽北路18號對面號
+台中市,北區,ChIJ42yUkpM9aTQRoi9T6fkR9KA,光萃咖啡｜外帶專門店（外送請提前一天訂購）,24.1626549,120.6635029,4.8,226,,"bakery,cafe,store,restaurant,food,point_of_interest,establishment",西屯路一段439號
+台中市,北區,ChIJg4Ga9wo9aTQRnfdrA2jJJNs,歐舍咖啡 台中門市,24.143283,120.6693162,4.5,1019,2.0,"cafe,store,food,point_of_interest,establishment",五權路14號
+台中市,北區,ChIJBb3GGgo9aTQRya8wBIkifcU,里厚來坐忠勤街自家烘焙咖啡店,24.1401742,120.6667536,4.7,249,2.0,"cafe,food,point_of_interest,establishment",忠勤街155號
+台中市,北區,ChIJm0l4-9IXaTQRkthEOQ5__Rs,Café de Alluré 薾麓咖啡,24.1743693,120.6683597,4.9,110,,"cafe,food,point_of_interest,establishment",中清西二街25號
+台中市,北區,ChIJV5bQNAA9aTQRg8_O35kcYms,Coffee Here（營業時間以IG為主）,24.1551633,120.6739873,4.9,224,,"cafe,store,food,point_of_interest,establishment",篤行路316巷2號
+台中市,北區,ChIJLeErQ3Q9aTQRrmNzMAa1G0c,Reborn Cafe 重生自家烘焙咖啡店,24.147434,120.669866,4.7,86,,"cafe,store,food,point_of_interest,establishment",民權路302-1號
+台中市,北區,ChIJzzSoMC8XaTQR7hZVGRnzCVE,茜草咖啡台中店,24.1714836,120.6649451,4.8,123,,"cafe,store,food,point_of_interest,establishment",漢成六街49號
